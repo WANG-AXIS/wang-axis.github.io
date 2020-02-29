@@ -22,7 +22,7 @@
 
 - title: "Image Reconstruction is a New Frontier of Machine Learning"
   image: TMI_MLIC.jpg
-  description: Editorial for the Special Issue “Machine Learning for Image Reconstruction”. IEEE Trans. Medical Imaging, June, 2018 
+  description: This is the first special issue dedicated to the theme of "Machine Learning for Image Reconstruction". In addition to well-known analytic and iterative methods for tomographic image reconstruction, machine learning is an emerging approach for image reconstruction, and likewise image reconstruction is a new frontier of machine learning. There are exciting research and application opportunities ahead for smart imaging and precision medicine.
   authors: Ge Wang, Jong Chu Ye, Klaus Mueller and Jeffrey A. Fessler
   link:
     url: https://ieeexplore.ieee.org/document/8359079
