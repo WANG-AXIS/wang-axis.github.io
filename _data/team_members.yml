@@ -3,12 +3,12 @@
   info: Clark & Crossan Endowed Chair Professor, Director of Biomedical Imaging Center
   email: wangg6@rpi.edu
   url: https://www.linkedin.com/in/ge-wang-axis/
-  number_educ: 5
-  education1: Published the first spiral/helical cone-beam/multi-slice CT algorithm in 1991 and since then 100+ papers systematically contributed to theory, algorithms, artifact reduction and biomedical applications in this area
-  education2: Developed interior tomography theory and algorithms to solve the long-standing “interior problem” for high-fidelity local reconstruction, and enable omni-tomography (“all-in-one”) with CT-MRI as an example
-  education3: Wrote the first perspective on neural-network-based tomographic imaging as the new frontier of machine learning
-  education4: Lead Guest Editor of five IEEE TMI Special Issues, Founding Editor-in-Chief of International Journal of Biomedical Imaging, Outstanding Associate Editor of IEEE TMI, Board Member of IEEE Access, and Associate Editor of IEEE TRPMS, MP
-  education5: Fellow of IEEE, SPIE, OSA, AIMBE, AAPM, AAAS, and NAI.
+  number_educ: 4
+  education1: PhD State Univ. of New York at Buffalo, USA, 1992
+  education2: MS Institute of Remote Sensing Applications, China, 1985
+  education3: BE Xidian University, China, 1982
+  education4: Fellow of IEEE, SPIE, OSA, AIMBE, AAPM, AAAS, and NAI.
+  education5: 
 
 - name: Wenxiang Cong
   photo: congw.jpg
