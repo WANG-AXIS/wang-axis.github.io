@@ -2,6 +2,7 @@
   photo: wangg6.jpg
   info: Clark & Crossan Endowed Chair Professor, Director of Biomedical Imaging Center
   email: wangg6@rpi.edu
+  url: https://www.linkedin.com/in/ge-wang-axis/
   number_educ: 5
   education1: Published the first spiral/helical cone-beam/multi-slice CT algorithm in 1991 and since then 100+ papers systematically contributed to theory, algorithms, artifact reduction and biomedical applications in this area
   education2: Developed interior tomography theory and algorithms to solve the long-standing “interior problem” for high-fidelity local reconstruction, and enable omni-tomography (“all-in-one”) with CT-MRI as an example
@@ -13,6 +14,7 @@
   photo: congw.jpg
   info: Research Scientists
   email: congw@rpi.edu
+  url: https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en
   number_educ: 1
   education1: PhD Beijing University of Science and Technology, China, 1998
   education2: xx
@@ -23,6 +25,7 @@
   photo: shanh.jpg
   info: Postdoc Research Associate, started April 2017
   email: shanh@rpi.edu
+  url: https://scholar.google.com/citations?user=RYfSzKwAAAAJ&hl=en&oi=ao
   number_educ: 2
   education1: PhD Fudan University, China, 2017
   education2: BS Shandong University of Technology, China, 2011
@@ -32,6 +35,7 @@
   photo: fanf2.jpg
   info: PhD Student, started Sep. 2017
   email: fanf2@rpi.edu
+  url: https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en&oi=ao
   number_educ: 1
   education1: BS Harbin Institute of Technology, China, 2017
   education2:
@@ -42,6 +46,7 @@
   photo: lyuq.jpg
   info: PhD Student, started Sep. 2017
   email: lyuq@rpi.edu
+  url: https://scholar.google.com/citations?user=2oJmlPIAAAAJ&hl=en&oi=ao
   number_educ: 2
   education1: MS Shanghai Jiao Tong University, Shanghai, China, 2016
   education2: BS Shanghai Jiao Tong University, Shanghai, China, 2013
@@ -51,6 +56,7 @@
   photo: rock.jpg
   info: PhD Student, started Sep. 2018
   email: lim23@rpi.edu
+  url: "no"
   number_educ: 1
   education1: BS Harbin Institute of Technology, China, 2015?
   education2:
@@ -62,6 +68,7 @@
   photo: rock.jpg
   info: PhD Student, started Sep. 2019
   email: wiedec@rpi.edu
+  url: "no"
   number_educ: 1
   education1: BS Arizona State University, USA, 2019
   education2: 
@@ -72,6 +79,7 @@
   photo: chaoq.jpg
   info: PhD Student, started Sep. 2019
   email: chaoq@rpi.edu
+  url: https://scholar.google.com/citations?user=P4Y_RSgAAAAJ&hl=en&oi=ao
   number_educ: 2
   education1: MS Fudan University, China, 2016
   education2: BS Nanjing University of Aeronautics and Astronautics, China, 2019
@@ -83,6 +91,7 @@
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: xxxx@gmail.com
+  url: "no"
   number_educ: 0
   education1:
   education2:

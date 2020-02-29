@@ -21,7 +21,12 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.url == "no" %}
   <h4>{{ member.name }}</h4>
+  {% else %}
+  <h4> <a href = "{{ member.url }}" > {{ member.name }} </a> </h4>
+  {% endif %}
+
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
