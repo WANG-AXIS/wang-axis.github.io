@@ -10,12 +10,12 @@
 
 
 - title: "Machine learning will transform radiology significantly within the next 5 years"
-  image: MP_ML.jpg.jpg
+  image: MP_ML.jpg
   description: Top 10 most downloaded articles of Med. Phys.
   authors: Ge Wang, Mannudeep K. Kalra and Colin G. Orton 
   link:
     url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12204
-    display:  Medical physics 44.6 (2017): 2041-2044.
+    display:  Medical physics 44.6 (2017), 2041-2044.
   highlight: 1
   news2:
 
@@ -40,6 +40,8 @@
     display:  Nature Machine Intelligence volume 1, pages269–276(2019)
   highlight: 1
   news2: <a href="https://www.nibib.nih.gov/news-events/newsroom/artificial-intelligence-enables-low-dose-ct-scans-faster-scan-time"> NIH NIBIB News </a>
+
+
 
 - title: "Machine Learning for Tomographic Imaging"
   image: MLTI_IOP.jpg
