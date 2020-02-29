@@ -9,12 +9,15 @@ permalink: /pictures/
 
 
 
-## AXIS-RPI
+## Talks/video
 
-#### How X-rays see through your skin:
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### How X-rays see through your skin -- Ge Wang:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Gallery
+#### Machine Learning for Tomographic Imaging presented at University of Minnesota
+<iframe width="640" height="360" src="https://reel.ima.umn.edu/videos/2019/SW10.14-18.19/Wang-10-16-19.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Wang %}
