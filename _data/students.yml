@@ -1,0 +1,30 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Ziyu Su
+  photo: rock.jpg
+  info: Master student
+  email: suz4@rpi.edu
+  number_educ: 0
+  education1:
+
+- name: Huidong Xie
+  photo: rock.jpg
+  info: Undergraduate student
+  email: suz4@rpi.edu
+  number_educ: 0
+  education1:
+
+- name: William Muldowney
+  photo: rock.jpg
+  info: Undergraduate student
+  email: muldow@rpi.edu
+  number_educ: 0
+  education1:

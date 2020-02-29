@@ -1,0 +1,31 @@
+- name: Qingsong Yang
+  photo: yangq.jpg
+  duration: In the WANG-AXIS Lab 2013 - 2018, now Software Engineer at Google
+  info: PhD student
+  email: xxx@xxx.com
+  number_educ: 1
+  education1: Rensselaer Polytechnic Institute
+  education2:
+  education3:
+  education4:
+
+- name: Lars Gjesteby
+  photo: gjestl.jpg
+  info: PhD student
+  duration: In the WANG-AXIS Lab 2014 to June 2018, now Technical Staff at MIT Lincoln Laboratory
+  email: xxx@xxx.com
+  number_educ: 2
+  education1: PhD, Rensselaer Polytechnic Institute, 2018
+  education2: BS, Rensselaer Polytechnic Institute, 2014
+
+
+- name: Matthew Getzin
+  photo: getzim.jpg
+  info: PhD student
+  duration: In the WANG-AXIS Lab May 2017 to June 2019, now CT Systems Scientist at GE Healthcare
+  email: xx@xx.com
+  number_educ: 2
+  education1: PhD Rensselaer Polytechnic Institute, 2019
+  education2: BS Vanderbilt University, 2012
+  education3: 
+  education4: 
