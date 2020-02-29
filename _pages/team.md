@@ -22,9 +22,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   {% if member.url == "no" %}
-  <h4>{{ member.name }}</h4>
+  <h4><b>{{ member.name }}</b></h4>
   {% else %}
-  <h4> <a href = "{{ member.url }}" > {{ member.name }} </a> </h4>
+  <h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>
   {% endif %}
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
@@ -89,7 +89,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><b>{{ member.name }}</b></h4>
   <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -151,7 +151,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
+  <h4><b>{{ member.name }}</b></h4>
   <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -207,7 +207,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><b>{{ member.name }}</b></h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
