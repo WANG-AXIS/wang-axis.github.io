@@ -1,7 +1,7 @@
 - name: Qingsong Yang
   photo: yangq.jpg
-  duration: 09/13 - 07/18, now Software Engineer at Google
-  info: PhD student
+  duration: PhD student, 09/13 - 07/18
+  info: Now Software Engineer at Google
   email: xxx@xxx.com
   number_educ: 1
   education1: Rensselaer Polytechnic Institute
@@ -11,8 +11,8 @@
 
 - name: Lars Gjesteby
   photo: gjestl.jpg
-  info: PhD student
-  duration: 09/14 - 12/18, now Technical Staff at MIT Lincoln Laboratory
+  info: Now Technical Staff at MIT Lincoln Laboratory
+  duration: PhD student, 09/14 - 12/18
   email: xxx@xxx.com
   number_educ: 2
   education1: PhD, Rensselaer Polytechnic Institute, 2018
@@ -21,8 +21,8 @@
 
 - name: Matthew Getzin
   photo: getzim.jpg
-  info: PhD student
-  duration: 08/12 - 06/19, now CT Systems Scientist at GE Healthcare
+  info: Now CT Systems Scientist at GE Healthcare
+  duration: PhD student, 08/12 - 06/19
   email: xx@xx.com
   number_educ: 2
   education1: PhD Rensselaer Polytechnic Institute, 2019
