@@ -12,12 +12,18 @@ permalink: /publications/
 
 # Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
+[[2020]](.# 2020) [[2019]](.# 2019)
 ## 2020
 {% for publi in site.data.publist2020 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
 
+## 2019
+{% for publi in site.data.publist2019 %}
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endfor %}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
