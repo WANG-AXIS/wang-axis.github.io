@@ -8,6 +8,10 @@ permalink: /research/
 
 # Research
 
+## Highlight
+
+* First paper on [spiral cone-beam/multi-slice CT](https://iopscience.iop.org/article/10.1088/0031-9155/52/6/R01) (1991) to solve "the long object problem" (longitudinal data truncation) (Modern CT scanners perform over 100-million scans annually, a majority of which are in the spiral cone-beam/multi-slice mode)
+
 ## Cone-beam Spiral CT 
 
 *	CT plays a central role in imaging, mainly achieved with spiral/helical cone-beam/multi-slice scanning. Ge Wang pioneered the first spiral cone-beam CT algorithms in 1991, has systematically working  on this topic with major and lasting impacts, and been recognized as Fellow of National Academy of Inventors. There are > 100M medical scans yearly, with a majority in the [spiral/helical cone-beam/multi-slice scanning mode](http://www.rdmag.com/award-winners/2014/08/flattening-yields-faster-ct) . Also, there are over 500-million [spiral cone-beam/multi-slice airport CT scans](http://www.dhs.gov/blog/2014/01/24/tsa-blog-year-review-2013). [Spiral cone-beam CT methods](http://iopscience.iop.org/0031-9155/52/6/R01) have been extensively studied since 1991 (~2-million Google hits under alternative phrases) to solve this "long object problem" (longitudinal data truncation). 
