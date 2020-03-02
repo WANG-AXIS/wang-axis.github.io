@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Book
+# Books
 * book1
 * book2
 
