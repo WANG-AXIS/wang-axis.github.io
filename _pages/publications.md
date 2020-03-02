@@ -11,8 +11,8 @@ permalink: /publications/
 * book2
 
 # Publications
-## 2020
 [Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
+## 2020
 {% for publi in site.data.publist2020 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
