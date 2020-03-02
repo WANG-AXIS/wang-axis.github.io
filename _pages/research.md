@@ -11,6 +11,7 @@ permalink: /research/
 ## Highlight
 
 * First paper on [spiral cone-beam/multi-slice CT](https://iopscience.iop.org/article/10.1088/0031-9155/52/6/R01) (1991) to solve "the long object problem" (longitudinal data truncation) (Modern CT scanners perform over 100-million scans annually, a majority of which are in the spiral cone-beam/multi-slice mode)
+* Superiority of [spiral fan-beam CT](https://www.ncbi.nlm.nih.gov/pubmed/8208218) over step-and-shoot CT (1994)
 
 ## Cone-beam Spiral CT 
 
