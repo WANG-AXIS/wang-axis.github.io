@@ -12,6 +12,13 @@ permalink: /publications/
 
 # Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -42,11 +49,3 @@ permalink: /publications/
 </div>
 {% endif %}
 <p> &nbsp; </p>
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
