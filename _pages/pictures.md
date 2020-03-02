@@ -9,7 +9,7 @@ permalink: /pictures/
 
 
 
-## Talks/video
+## Presentations
 
 #### How X-rays see through your skin -- Ge Wang:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
