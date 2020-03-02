@@ -18,27 +18,55 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 1" />
+            <a href="https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment">
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 1" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Integrated Imaging Technology Aims To Provide Real-Time Look at Cancer Treatment</p>
+            </div>
+           
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tmi-special-issue.jpg" alt="Slide 2" />
+            <a href="https://ieee-tmi.org/fast-facts/featured-article.asp?id=30&title=Special-Issue-on-Machine-Learning-for-Image-Reconstruction,-June-2018">
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tmi-special-issue.jpg" alt="Slide 2" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Special Issue on Machine Learning for Image Reconstruction, June 2018</p>
+            </div>
+            
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/access-perspective.jpg" alt="Slide 3" />
+            <a href="https://ieeeaccess.ieee.org/featured-articles/deepimaging/">
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/access-perspective.jpg" alt="Slide 3" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>IEEE Access featured Dr. Wang's perspective</p>
+            </div>
+            
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nmi-mapnn.jpg" alt="Slide 4" />
+            <a href="https://www.nature.com/articles/s42256-019-0057-9">
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nmi-mapnn.jpg" alt="Slide 4" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Machine learning approach for low-dose CT imaging yields superior results</p>
+            </div>
+           
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wang-book.jpg" alt="Slide 5" />
+            <a href="https://iopscience.iop.org/book/978-0-7503-2216-4">
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wang-book.jpg" alt="Slide 5" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Ge Wang Co-Authors Book on Machine Learning for Tomographic Imaging</p>
+            </div>
+            
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

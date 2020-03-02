@@ -36,7 +36,7 @@ neural network compared to commercial algorithms for low-dose CT image reconstru
 which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.14-
 18.19/28288)
 
-*	**Wang G, et al., Textbook “[Machine Learning for Tomographic Imaging](https://iopscience.iop.org/book/978-0-7503-2216-4)” (410 pages), IOP, 2019** (The first and only book in this area, announced in “[Physics World](https://physicsworld.com/a/a-machine-learning-revolution/)”), published in 2019, [Link](https://physicsworld.com/a/machinelearning-for-tomographic-imaging)
+*	**Wang G, et al., Textbook “[Machine Learning for Tomographic Imaging](https://iopscience.iop.org/book/978-0-7503-2216-4)” (410 pages), IOP, 2019** (The first and only book in this area, announced in “[Physics World](https://physicsworld.com/a/a-machine-learning-revolution/)”), published in 2019, [Link](https://physicsworld.com/a/machine-learning-for-tomographic-imaging)
 
 
 ## Auto-driving Vehicle-based Affordable Tomography-Analytics Robots (AVATAR)
