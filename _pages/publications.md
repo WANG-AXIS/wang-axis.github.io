@@ -13,7 +13,7 @@ permalink: /publications/
 # Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
 
-<!--{% assign number_printed = 0 %}
+{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -41,9 +41,7 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-<p> &nbsp; </p>--!>
-
-## Full List
+<p> &nbsp; </p>
 
 {% for publi in site.data.publist %}
 
