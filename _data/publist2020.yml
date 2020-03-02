@@ -1,0 +1,70 @@
+- title: "Machine Learning for Tomographic Imaging"
+  image: MLTI_IOP.jpg
+  description: We present a unified overview of deep-learning-based tomographic imaging. Key concepts, including classic reconstruction ideas and human vision inspired insights, are introduced as a foundation for a thorough examination of artificial neural networks and deep tomographic reconstruction. X-ray CT and MRI reconstruction methods are covered in detail, and other medical imaging applications are discussed as well. 
+  authors: Ge Wang, Yi Zhang, Xiaojing Ye and Xuanqin Mou
+  link:
+    url: https://iopscience.iop.org/book/978-0-7503-2216-4
+    display:  Link
+  highlight: 0
+  news2:
+
+- title: "Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction"
+  image: NMI_LDCT.png
+  description: This study confirms that our deep learning approach performs either favourably or comparably in terms of noise suppression and structural fidelity, and is much faster than commercial iterative reconstruction algorithms.
+  authors: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K. Kalra, and Ge Wang
+  link:
+    url: https://www.nature.com/articles/s42256-019-0057-9
+    display:  Nature Machine Intelligence volume 1, pages269–276(2019)
+  highlight: 0
+  news2: <a href="https://www.nibib.nih.gov/news-events/newsroom/artificial-intelligence-enables-low-dose-ct-scans-faster-scan-time"> NIH NIBIB News </a>
+
+
+- title: "3-D convolutional encoder-decoder network for low-dose CT via transfer learning from a 2-D trained network"
+  image: dummy.png
+  description: 
+  authors: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  link:
+    url: https://www.osapublishing.org/DirectPDFAccess/B612E122-E10A-2238-818035D89DEE655A_357201/boe-8-2-679.pdf?da=1&id=357201&seq=0&mobile=no
+    display:  IEEE transactions on medical imaging 37.6 (2018), 1522-1534.
+  highlight: 0
+  news2:
+
+- title: "Image Reconstruction is a New Frontier of Machine Learning"
+  image: TMI_MLIC.jpg
+  description: This is the first special issue dedicated to the theme of "Machine Learning for Image Reconstruction". In addition to well-known analytic and iterative methods for tomographic image reconstruction, machine learning is an emerging approach for image reconstruction, and likewise image reconstruction is a new frontier of machine learning. There are exciting research and application opportunities ahead for smart imaging and precision medicine.
+  authors: Ge Wang, Jong Chu Ye, Klaus Mueller and Jeffrey A. Fessler
+  link:
+    url: https://ieeexplore.ieee.org/document/8359079
+    display:  IEEE Transactions on Medical Imaging, 37(6), 1289-1296.
+  highlight: 0
+  news2:
+
+- title: "Machine learning will transform radiology significantly within the next 5 years"
+  image: MP_ML.jpg
+  description: Top 10 most downloaded articles of Med. Phys.
+  authors: Ge Wang, Mannudeep K. Kalra and Colin G. Orton 
+  link:
+    url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12204
+    display:  Medical physics 44.6 (2017), 2041-2044.
+  highlight: 0
+  news2:
+
+- title: "Low-dose CT via convolutional neural network"
+  image: dummy.png
+  description: 
+  authors: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
+  link:
+    url: https://www.osapublishing.org/DirectPDFAccess/B612E122-E10A-2238-818035D89DEE655A_357201/boe-8-2-679.pdf?da=1&id=357201&seq=0&mobile=no
+    display:  Biomedical optics express 8.2 (2017), 679-694.
+  highlight: 0
+  news2:
+
+- title: "A Perspective on Deep Imaging"
+  image: Perspective.jpg
+  description: First perspective on machine learning / deep learning for tomographic imaging, as a roadmap for the new area of “deep reconstruction” / “deep imaging” and a basis for the 1st special journal issue on this theme (IEEE TMI) 
+  authors: Ge Wang
+  link:
+    url: https://ieeexplore.ieee.org/document/7733110
+    display:  IEEE Access, 4, 8914-8924, 2016
+  highlight: 0
+  news2: <a href="https://ieeeaccess.ieee.org/featured-articles/deepimaging/">Featured by IEEE Access, 2018 </a>
