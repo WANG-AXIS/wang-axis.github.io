@@ -6,12 +6,12 @@ sitemap: false
 permalink: /publications/
 ---
 
+# Book
+* book1
+* book2
 
 # Publications
-
-## Highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao))
+[Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
