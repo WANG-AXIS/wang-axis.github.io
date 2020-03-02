@@ -1,9 +1,9 @@
 ---
-title: "WANG-AXIS Lab - Team"
+title: "WANG-AXIS Lab - Members"
 layout: gridlay
-excerpt: "WANG-AXIS Lab: Team members"
+excerpt: "WANG-AXIS Lab: Members"
 sitemap: false
-permalink: /team/
+permalink: /members/
 ---
 
 # Group Members

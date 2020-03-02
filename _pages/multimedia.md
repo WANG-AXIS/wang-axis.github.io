@@ -1,8 +1,8 @@
 ---
-title: "WANG-AXIS Lab - Pictures"
+title: "WANG-AXIS Lab - Multimedia"
 layout: piclay
-excerpt: "WANG-AXIS Lab -- Pictures"
-permalink: /pictures/
+excerpt: "WANG-AXIS Lab -- Multimedia"
+permalink: /multimedia/
 ---
 
 # Pictures

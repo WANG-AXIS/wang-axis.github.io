@@ -1,9 +1,9 @@
 ---
-title: "WANG-AXIS Lab - Publications"
+title: "WANG-AXIS Lab - Publication"
 layout: gridlay
-excerpt: "WANG-AXIS Lab -- Publications."
+excerpt: "WANG-AXIS Lab -- Publication."
 sitemap: false
-permalink: /publications/
+permalink: /publication/
 ---
 
 # Books
