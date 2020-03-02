@@ -6,7 +6,7 @@
   link:
     url: https://iopscience.iop.org/book/978-0-7503-2216-4
     display:  Link
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction"
@@ -16,7 +16,7 @@
   link:
     url: https://www.nature.com/articles/s42256-019-0057-9
     display:  Nature Machine Intelligence volume 1, pages269–276(2019)
-  highlight: 1
+  highlight: 0
   news2: <a href="https://www.nibib.nih.gov/news-events/newsroom/artificial-intelligence-enables-low-dose-ct-scans-faster-scan-time"> NIH NIBIB News </a>
 
 
@@ -37,7 +37,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/8359079
     display:  IEEE Transactions on Medical Imaging, 37(6), 1289-1296.
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Machine learning will transform radiology significantly within the next 5 years"
@@ -47,7 +47,7 @@
   link:
     url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12204
     display:  Medical physics 44.6 (2017), 2041-2044.
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Low-dose CT via convolutional neural network"
@@ -67,6 +67,5 @@
   link:
     url: https://ieeexplore.ieee.org/document/7733110
     display:  IEEE Access, 4, 8914-8924, 2016
-  highlight: 1
+  highlight: 0
   news2: <a href="https://ieeeaccess.ieee.org/featured-articles/deepimaging/">Featured by IEEE Access, 2018 </a>
-
