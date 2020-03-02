@@ -11,7 +11,7 @@ permalink: /publications/
 * book2
 
 # Publications
-[Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao))
+[Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
