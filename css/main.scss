@@ -94,9 +94,20 @@ firstp {
 .carousel-caption {
     position: relative;
     left: 0;
-    top: 0;
+    top: 1;
+    text-shadow:0px 0px 0px rgba(0, 0, 0, 0)
 }
 
 .carousel-caption-color {
- color: #000000; 
+ 	color: #477ecd; 
  }
+
+ .carousel-indicators .active{
+    background-color: #0066cc;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    background-color: #99ccff;
+    
+}
