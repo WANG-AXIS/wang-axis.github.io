@@ -1,6 +1,164 @@
-- date: 03/02/2020
-  headline: "test."
-  
-- date: 02/29/2020
-  headline: "Website is live."
+
+
+- date: 01/31/2020
+  editor: Kreimer S
+  headline: “Virtual Biopsies” may soon make some invasive tests unnecessary
+  url: https://leapsmag.com/virtual-biopsies-may-soon-make-some-invasive-tests-unnecessary/, 
+  site: leapsmg
+
+- date: 01/30/2020
+  editor: Freeman T
+  headline: Machine learning for tomographic imaging
+  url: https://physicsworld.com/a/machine-learning-for-tomographic-imaging/
+  site: Physics World
+
+- date: 01/14/2020
+  editor: The Approach
+  headline: Ge Wang Co-Authors Book on Machine Learning for Tomographic Imaging
+  url: https://news.rpi.edu/approach/2020/01/14
+  site: RPI News
+
+- date: 12/03/2019
+  editor: Wells T
+  headline: Ge Wang Named a Fellow of the National Academy of Inventors
+  url: https://news.rpi.edu/content/2019/12/03/ge-wang-named-fellow-national-academy-inventors
+  site: RENSSELAER NEWS
+
+- date: 12/03/2019
+  editor: Free T
+  headline: Ge Wang and Margarida Barroso on the HOTGEM imaging technology for breast cancer
+  url: https://www.biotechniques.com/cancer-research/ge-wang-and-margarida-barroso-on-the-hotgem-imaging-technology-for-breast-cancer/
+  site: BioTechniques
+
+- date: 10/17/2019
+  editor: ABC News10
+  headline: Innovative breast cancer research takes place at RPI
+  url: https://www.news10.com/video/new-innovative-breast-cancer-research-takes-place-at-rpi/4021850/
+  site: New 10
+
+- date: 10/16/2019
+  editor: Lally N
+  headline: Local Researchers Developing New Technology to Aid in Breast Cancer Treatment
+  url: https://www.news10.com/news/local-researchers-developing-new-technology-to-aid-in-breast-cancer-treatment/#drugdwlivery%20#imaging%20#breastcancer%20Ge%20Wang
+  site: News 10
+    
+- date: 10/02/2019
+  editor: Stackhouse T
+  headline: Looking Forward as RPI Leads Innovative Cancer Research
+  url: https://spectrumlocalnews.com/nys/capital-region/business-beat/2019/10/02/rpi-leads-innovative-cancer-research
+  site: Spectrum News
+
+- date: 09/18/2019
+  editor: Wells T
+  headline: Integrated Imaging Technology Aims To Provide Real-Time Look at Cancer Treatment
+  url: https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment
+  site: RENSSELAER NEWS
+    
+- date: 07/12/2019
+  editor: Burkholder S
+  headline: Low-Dose Radiation CT Scans Could Be Improved by Machine Learning
+  url: https://beblog.seas.upenn.edu/week-in-bioe-july-12-2019/
+  site: PENN BIOENGINEERING BLOG
+   
+- date: 06/25/2019
+  editor: Donovan F
+  headline: Rensselaer Researchers Use Blockchain to Boost Medical Image Sharing
+  url: https://hitinfrastructure.com/news/rensselaer-researchers-use-blockchain-to-boost-medical-image-sharing
+  site: HIT Infrastructure
+
+- date: 06/10/2019
+  editor: Wells T
+  headline: Machine Learning Approach for Low-Dose CT Imaging Yields Superior Results
+  url: https://news.rpi.edu/content/2019/06/10/machine-learning-approach-low-dose-ct-imaging-yields-superior-results
+  site: RENSSELAER NEWS
+
+- date: 06/10/2019
+  editor: NIH/NIBIB Science Highlight
+  headline: Artificial intelligence enables low-dose CT scans, faster scan time
+  url: https://www.nibib.nih.gov/news-events/newsroom/artificial-intelligence-enables-low-dose-ct-scans-faster-scan-time
+  site: NIH
+
+- date: 06/10/2019
+  editor: Ridley EL
+  headline: AI converts low-dose CT scans to high-quality studies
+  url: https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fsec%3dsup%26sub%3daic%26pag%3ddis%26ItemID%3d125728
+  site: AuntMinnie
+   
+- date: 04/16/2019
+  editor: O'Connor M
+  headline: New roadmap outlines 5 research priorities for AI in radiology
+  url: https://www.healthimaging.com/topics/artificial-intelligence/roadmap-outlines-5-priorities-ai-radiology
+  site: Health Imaging
+    
+- date: 04/19/2019
+  editor: Bell R
+  headline: National Experts Chart Roadmap for AI in Medical Imaging
+  url: http://www.themountvernongrapevine.com/index.php/2019/04/19/national-experts-chart-roadmap-for-ai-in-medical-imaging/, 
+  site: The Mount Vernon Grapevine
+    
+- date: 04/18/2019
+  editor: NIH/NIBIB
+  headline: National experts chart roadmap for AI in medical imaging
+  url: https://www.nih.gov/news-events/news-releases/national-experts-chart-roadmap-ai-medical-imaging
+  site: NIH 
+
+- date: 03/04/2019
+  editor: Stephens M
+  headline: A learning revolution
+  url: https://physicsworld.com/a/a-machine-learning-revolution/
+  site: Physics World
+
+- date: 08/01/2018
+  editor: Dineley J
+  headline: Tackling the Silent Crisis in Cancer Care
+  url: https://www.lindau-nobel.org/blog-tackling-the-silent-crisis-in-cancer-care-with-innovation/
+  site: for the Nobel Laureate Meeting
+    
+- date: 09/06/2017
+  editor: Keen CE
+  headline: The search for a dedicated cardiac CT scanner
+  url: http://medicalphysicsweb.org/cws/article/research/69850
+  site: MedicalPhysicsWeb
+
+- date: 04/19/2017
+  editor: Dineley J
+  headline: Interior tomography puts new spin on MRI-Linac
+  url: http://medicalphysicsweb.org/cws/article/research/68507
+  site: MedicalPhysicsWeb
+
+- date: 03/06/2017
+  editor: Carron I
+  headline: A perspective on deep learning
+  url: http://nuit-blanche.blogspot.com/2017/03/a-perspective-on-deep-imaging.html
+  site: Nuit Blanche
+    
+- date: 02/22/2017
+  editor: Randall I
+  headline: Neural networks reduce noise in low-dose CT
+  url: http://medicalphysicsweb.org/cws/article/research/67912
+  site: MedicalPhysicsWeb
+
+- date: 07/27/2015
+  editor: Otitigbe J
+  headline: How X-Rays See Through Your Skin
+  url: https://news.rpi.edu/content/2015/07/27/how-x-rays-see-through-your-skin
+  site: RENSSELAER NEWS
+
+- date: 02/2015
+  editor: Dineley J
+  headline: How to create a low-cost CT scanner. Focus on Medical Imaging 
+  url: http://live.iop-pp01.agh.sleek.net/physicsworld/reader/#!edition/editions_medical-2015/article/page-5877
+  site: Physics World
+
+- date: 11/25/2014
+  editor: Mullaney M
+  headline: Rensselaer Professors Berman, Garde, and Ge selected as 2014 AAAS Fellows
+  url: https://news.rpi.edu/content/2014/11/25/professors-berman-garde-and-ge-selected-2014-aaas-fellows
+  site: RPI Academic News
+
+- date: 11/11/2014
+  editor: Dineley J
+  headline: Linear CT scanning lowers system costs
+  url: http://medicalphysicsweb.org/cws/article/research/59198
+  site: Physics World
 
