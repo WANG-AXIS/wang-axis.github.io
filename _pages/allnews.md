@@ -17,9 +17,9 @@ permalink: /allnews.html
 {% endif %}
 
 {% if article.url %}
-<em> <a href="{{ article.url}}" > {{ article.headline }}</a>, {{ article.site }} </em>
+<em> <a href="{{ article.url}}" > {{ article.headline }}</a></em>, {{ article.site }} 
 {% else %}
-<em>  {{ article.headline }}, {{ article.site }} </em>
+<em>  {{ article.headline }}</em>, {{ article.site }}
 {% endif %}
 </p>
 
