@@ -1,0 +1,13 @@
+
+<div class="well">
+<h4>Quick Links</h4>
+
+{% for link in site.data.quicklinks limit:8 %}
+<p>
+ - <a href="{{ link.url }}">{{ link.title }}</a> 
+</p>
+{% endfor %}
+
+
+
+</div>
