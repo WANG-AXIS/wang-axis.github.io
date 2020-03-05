@@ -1,71 +1,1108 @@
-
-- title: "Machine Learning for Tomographic Imaging"
-  image: MLTI_IOP.jpg
-  description: We present a unified overview of deep-learning-based tomographic imaging. Key concepts, including classic reconstruction ideas and human vision inspired insights, are introduced as a foundation for a thorough examination of artificial neural networks and deep tomographic reconstruction. X-ray CT and MRI reconstruction methods are covered in detail, and other medical imaging applications are discussed as well. 
-  authors: Ge Wang, Yi Zhang, Xiaojing Ye and Xuanqin Mou
-  link:
-    url: https://iopscience.iop.org/book/978-0-7503-2216-4
-    display:  Link
-  highlight: 0
-  news2:
-
-- title: "Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction"
-  image: NMI_LDCT.png
-  description: This study confirms that our deep learning approach performs either favourably or comparably in terms of noise suppression and structural fidelity, and is much faster than commercial iterative reconstruction algorithms.
-  authors: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K. Kalra, and Ge Wang
-  link:
-    url: https://www.nature.com/articles/s42256-019-0057-9
-    display:  Nature Machine Intelligence volume 1, pages269–276(2019)
-  highlight: 0
-  news2: <a href="https://www.nibib.nih.gov/news-events/newsroom/artificial-intelligence-enables-low-dose-ct-scans-faster-scan-time"> NIH NIBIB News </a>
+- title: X-ray luminescence imaging for small animals
+  author: Michael C Lun, Wenxiang Cong, Md Arifuzzaman, Meenakshi Ranasinghe, Sriparna Bhattacharya, Jeffrey Anker, Ge Wang, Changqing Li
+  venue: Optics and Ionizing Radiation, 11224, 112240F, International Society for Optics and Photonics, 2020
+  year: 2020
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11224/112240F/X-ray-luminescence-imaging-for-small-animals/10.1117/12.2544601.short
+  code: 
+  type: conference
 
 
-- title: "3-D convolutional encoder-decoder network for low-dose CT via transfer learning from a 2-D trained network"
-  image: dummy.png
-  description: 
-  authors: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
-  link:
-    url: https://www.osapublishing.org/DirectPDFAccess/B612E122-E10A-2238-818035D89DEE655A_357201/boe-8-2-679.pdf?da=1&id=357201&seq=0&mobile=no
-    display:  IEEE transactions on medical imaging 37.6 (2018), 1522-1534.
-  highlight: 0
-  news2:
+- title: Duality of Width and Depth of Neural Networks
+  author: Fenglei-Lei Fan, Ge Wang
+  venue: arXiv preprint arXiv&#582002.02515, 2020
+  year: 2020
+  arxiv: 
+  url: https://arxiv.org/abs/2002.02515
+  code: 
+  type: preprint
 
-- title: "Image Reconstruction is a New Frontier of Machine Learning"
-  image: TMI_MLIC.jpg
-  description: This is the first special issue dedicated to the theme of "Machine Learning for Image Reconstruction". In addition to well-known analytic and iterative methods for tomographic image reconstruction, machine learning is an emerging approach for image reconstruction, and likewise image reconstruction is a new frontier of machine learning. There are exciting research and application opportunities ahead for smart imaging and precision medicine.
-  authors: Ge Wang, Jong Chu Ye, Klaus Mueller and Jeffrey A. Fessler
-  link:
-    url: https://ieeexplore.ieee.org/document/8359079
-    display:  IEEE Transactions on Medical Imaging, 37(6), 1289-1296.
-  highlight: 0
-  news2:
 
-- title: "Machine learning will transform radiology significantly within the next 5 years"
-  image: MP_ML.jpg
-  description: Top 10 most downloaded articles of Med. Phys.
-  authors: Ge Wang, Mannudeep K. Kalra and Colin G. Orton 
-  link:
-    url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12204
-    display:  Medical physics 44.6 (2017), 2041-2044.
-  highlight: 0
-  news2:
+- title: Shape and margin-aware lung nodule classification in low-dose CT images via soft activation mapping
+  author: Yiming Lei, Yukun Tian, Hongming Shan, Junping Zhang, Ge Wang, Mannudeep K Kalra
+  venue: Medical Image Analysis, 60, 101628, 2020
+  year: 2020
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/pii/S1361841519301641
+  code: 
+  type: journal
 
-- title: "Low-dose CT via convolutional neural network"
-  image: dummy.png
-  description: 
-  authors: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
-  link:
-    url: https://www.osapublishing.org/DirectPDFAccess/B612E122-E10A-2238-818035D89DEE655A_357201/boe-8-2-679.pdf?da=1&id=357201&seq=0&mobile=no
-    display:  Biomedical optics express 8.2 (2017), 679-694.
-  highlight: 0
-  news2:
 
-- title: "A Perspective on Deep Imaging"
-  image: Perspective.jpg
-  description: First perspective on machine learning / deep learning for tomographic imaging, as a roadmap for the new area of “deep reconstruction” / “deep imaging” and a basis for the 1st special journal issue on this theme (IEEE TMI) 
-  authors: Ge Wang
-  link:
-    url: https://ieeexplore.ieee.org/document/7733110
-    display:  IEEE Access, 4, 8914-8924, 2016
-  highlight: 0
-  news2: <a href="https://ieeeaccess.ieee.org/featured-articles/deepimaging/">Featured by IEEE Access, 2018 </a>
+- title: Deep adversarial network for super stimulated emission depletion imaging
+  author: Mengzhou Li, Hongming Shan, Sergey Pryshchep, Maria M Lopez, Ge Wang
+  venue: Journal of Nanophotonics, 14(1), 016009, 2020
+  year: 2020
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/journals/Journal-of-Nanophotonics/volume-14/issue-1/016009/Deep-adversarial-network-for-super-stimulated-emission-depletion-imaging/10.1117/1.JNP.14.016009.short
+  code: 
+  type: journal
+
+
+- title: A Framework for Least Squares Nonnegative Matrix Factorizations with Tikhonov Regularization
+  author: Yueyang Teng, Shouliang Qi, Fangfang Han, Yudong Yao, Fenglei Fan, Qing Lyu, Ge Wang
+  venue: Neurocomputing, 2020
+  year: 2020
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/pii/S0925231220300217
+  code: 
+  type: journal
+
+
+- title: On Interpretability of Artificial Neural Networks
+  author: Fenglei Fan, Jinjun Xiong, Ge Wang
+  venue: arXiv preprint arXiv&#582001.02522, 2020
+  year: 2020
+  arxiv: 
+  url: https://arxiv.org/abs/2001.02522
+  code: 
+  type: preprint
+
+
+- title: Deep Efficient End-to-end Reconstruction (DEER) Network for Low-dose Few-view Breast CT from Projection Data
+  author: Huidong Xie, Hongming Shan, Wenxiang Cong, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
+  venue: arXiv preprint arXiv&#581912.04278, 2019
+  year: 2019
+  arxiv: 
+  url: https://arxiv.org/abs/1912.04278
+  code: 
+  type: preprint
+
+
+- title: A two‐dimensional feasibility study of deep learning‐based feature detection and characterization directly from CT sinograms
+  author: Quinten De Man, Eri Haneda, Bernhard Claus, Paul Fitzgerald, Bruno De Man, Guhan Qian, Hongming Shan, James Min, Mert Sabuncu, Ge Wang
+  venue: Medical Physics, 46(12), e790-e800, 2019
+  year: 2019
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13640
+  code: 
+  type: journal
+
+
+- title: Deep Encoder-decoder Adversarial Reconstruction (DEAR) Network for 3D CT from Few-view Data
+  author: Huidong Xie, Hongming Shan, Ge Wang
+  venue: arXiv preprint arXiv&#581911.05880, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.mdpi.com/2306-5354/6/4/111
+  code: 
+  type: preprint
+
+
+- title: A dual-stream deep convolutional network for reducing metal streak artifacts in CT images
+  author: Lars A Gjesteby, Hongming Shan, Qingsong Yang, Yan Xi, Yannan Jin, Drosoula Giantsoudi, Harald Paganetti, Bruno De Man, Ge Wang
+  venue: Physics in Medicine & Biology, 2019
+  year: 2019
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/ab4e3e/meta
+  code: 
+  type: journal
+
+
+- title: Knowledge-based Analysis for Mortality Prediction from CT Images
+  author: Hengtao Guo, Uwe Kruger, Ge Wang, Mannudeep K Kalra, Pingkun Yan
+  venue: IEEE journal of biomedical and health informatics, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8861325/
+  code: 
+  type: journal
+
+
+- title: Fuzzy Logic Interpretation of Quadratic Networks
+  author: Fenglei Fan, Ge Wang
+  venue: Neurocomputing, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/pii/S0925231219312615
+  code: 
+  type: journal
+
+
+- title: Quadratic neural networks for CT metal artifact reduction
+  author: Fenglei Fan, Hongming Shan, Lars Gjesteby, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111130W, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130W/Quadratic-neural-networks-for-CT-metal-artifact-reduction/10.1117/12.2530363.short
+  code: 
+  type: conference
+
+
+- title: Smoothing L0-and L1-Norm regularizers and their relations to non-local means for CT reconstruction
+  author: Yueyang Teng, Qing Guo, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111131M, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131M/Smoothing-L0--and-L1-Norm-regularizers-and-their-relations/10.1117/12.2530522.short
+  code: 
+  type: conference
+
+
+- title: Machine learning assisted interior phase contrast CT
+  author: Ohsung Oh, Ge Wang, Seung Wook Lee
+  venue: Developments in X-Ray Tomography XII, 11113, 111131R, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131R/Machine-learning-assisted-interior-phase-contrast-CT/10.1117/12.2530769.short
+  code: 
+  type: conference
+
+
+- title: Low-dose CT via deep CNN with skip connection and network-in-network
+  author: Chenyu You, Linfeng Yang, Yi Zhang, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111131W, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131W/Low-dose-CT-via-deep-CNN-with-skip-connection-and/10.1117/12.2534960.short
+  code: 
+  type: conference
+
+
+- title: Low-dose CT simulation with a generative adversarial network
+  author: Hongming Shan, Xun Jia, Klaus Mueller, Uwe Kruger, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111131F, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131F/Low-dose-CT-simulation-with-a-generative-adversarial-network/10.1117/12.2529698.short
+  code: 
+  type: conference
+
+
+- title: Super-resolution MRI and CT through GAN-circle
+  author: Qing Lyu, Chenyu You, Hongming Shan, Yi Zhang, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111130X, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130X/Super-resolution-MRI-and-CT-through-GAN-CIRCLE/10.1117/12.2530592.short
+  code: 
+  type: conference
+
+
+- title: Deep-learning-based breast CT for radiation dose reduction
+  author: Wenxiang Cong, Hongming Shan, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111131L, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131L/Deep-learning-based-breast-CT-for-radiation-dose-reduction/10.1117/12.2530234.short
+  code: 
+  type: conference
+
+
+- title: Dual network architecture for few-view CT-trained on ImageNet data and transferred for medical imaging
+  author: Huidong Xie, Hongming Shan, Wenxiang Cong, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
+  venue: Developments in X-Ray Tomography XII, 11113, 111130V, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130V/Dual-network-architecture-for-few-view-CT---trained/10.1117/12.2531198.short
+  code: 
+  type: conference
+
+
+- title: A New Iterative Algorithm for Ring Artifact Reduction in CT using Ring Total Variation
+  author: Morteza Salehjahromi, Qian Wang, Yanbo Zhang, Lars A Gjesteby, Dan Harrison, Ge Wang, Peter M Edic, Hengyong Yu
+  venue: Medical physics, 2019
+  year: 2019
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13762
+  code: 
+  type: journal
+
+
+- title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
+  author: Qing Lyu, Hongming Shan, Ge Wang
+  venue: arXiv preprint arXiv&#581908.01612, 2019
+  year: 2019
+  arxiv: 
+  url: https://arxiv.org/abs/1908.01612
+  code: 
+  type: preprint
+
+
+- title: A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code
+  author: Zhao Peng, Xi Fang, Pingkun Yan, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, Bob Liu, Mannu Kalra, X George Xu
+  venue: arXiv preprint arXiv&#581908.00360, 2019
+  year: 2019
+  arxiv: 
+  url: https://arxiv.org/abs/1908.00360
+  code: 
+  type: preprint
+
+
+- title: Nanophosphor-Based Contrast Agents for Spectral X-ray Imaging
+  author: Kevin Smith, Matthew Getzin, Josephine J Garfield, Sanika Suvarnapathaki, Gulden Camci-Unal, Ge Wang, Manos Gkikas
+  venue: Nanomaterials, 9(8), 1092, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.mdpi.com/2079-4991/9/8/1092
+  code: 
+  type: journal
+
+
+- title: Hybrid Neural Networks for Mortality Prediction from LDCT Images
+  author: Pingkun Yan, Hengtao Guo, Ge Wang, Ruben De Man, Mannudeep K Kalra
+  venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 6243-6246, IEEE, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8857180/
+  code: 
+  type: conference
+
+
+- title: Simultaneous reconstruction of the initial pressure and sound speed in photoacoustic tomography using a deep-learning approach
+  author: Hongming Shan, Ge Wang, Yang Yang
+  venue: arXiv preprint arXiv&#581907.09951, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11105/1110504/Simultaneous-reconstruction-of-the-initial-pressure-and-sound-speed-in/10.1117/12.2529984.short
+  code: 
+  type: preprint
+
+
+- title: MRI Super-Resolution with Ensemble Learning and Complementary Priors
+  author: Qing Lyu, Hongming Shan, Ge Wang
+  venue: arXiv preprint arXiv&#581907.03063, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8950304/
+  code: 
+  type: preprint
+
+
+- title: CT super-resolution GAN constrained by the identical, residual, and cycle learning ensemble (GAN-CIRCLE)
+  author: Chenyu You, Guang Li, Yi Zhang, Xiaoliu Zhang, Hongming Shan, Mengzhou Li, Shenghong Ju, Zhen Zhao, Zhuiyang Zhang, Wenxiang Cong, Michael W Vannier, Punam K Saha, Eric A Hoffman, Ge Wang
+  venue: IEEE Transactions on Medical Imaging, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8736838/
+  code: 
+  type: journal
+
+
+- title: Visual Attention Network for Low-Dose CT
+  author: Wenchao Du, Hu Chen, Peixi Liao, Hongyu Yang, Ge Wang, Yi Zhang
+  venue: IEEE Signal Processing Letters, 26(8), 1152-1156, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8736277/
+  code: 
+  type: journal
+
+
+- title: MCDNet–A Denoising Convolutional Neural Network to Accelerate Monte Carlo Radiation Transport Simulations&#58 A Proof of Principle With Patient Dose From X-Ray CT Imaging
+  author: Zhao Peng, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, X George Xu
+  venue: IEEE Access, 7, 76680-76689, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8731974/
+  code: 
+  type: journal
+
+
+- title: Design optimization of a periodic microstructured array anode for hard X-ray grating interferometry
+  author: Guibin Zan, David Vine, Richard Ian Spink, Wenbing Yun, Qiuping Wang, Ge Wang
+  venue: Physics in Medicine & Biology, 2019
+  year: 2019
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/ab26ce/meta
+  code: 
+  type: journal
+
+
+- title: Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction
+  author: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K Kalra, Ge Wang
+  venue: Nature Machine Intelligence, 1(6), 269, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.nature.com/articles/s42256-019-0057-9
+  code: 
+  type: journal
+
+
+- title: Non-uniformity correction for MARS photon-counting detectors
+  author: Matthew Getzin, Mengzhou Li, David S Rundle, Anthony P Butler, Ge Wang
+  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722W, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722W/Non-uniformity-correction-for-MARS-photon-counting-detectors/10.1117/12.2534914.short
+  code: 
+  type: conference
+
+
+- title: A novel transfer learning framework for low-dose CT
+  author: Hongming Shan, Uwe Kruger, Ge Wang
+  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722Y, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722Y/A-novel-transfer-learning-framework-for-low-dose-CT/10.1117/12.2534848.short
+  code: 
+  type: conference
+
+
+- title: Quadratic autoencoder for low-dose CT denoising
+  author: Fenglei Fan, Hongming Shan, Ge Wang
+  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722Z, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722Z/Quadratic-autoencoder-for-low-dose-CT-denoising/10.1117/12.2534908.short
+  code: 
+  type: conference
+
+
+- title: A roadmap for foundational research on artificial intelligence in medical imaging&#58 From the 2018 NIH/RSNA/ACR/The Academy Workshop
+  author: Curtis P Langlotz, Bibb Allen, Bradley J Erickson, Jayashree Kalpathy-Cramer, Keith Bigelow, Tessa S Cook, Adam E Flanders, Matthew P Lungren, David S Mendelson, Jeffrey D Rudie, Ge Wang, Krishna Kandarpa
+  venue: Radiology, 291(3), 781-791, 2019
+  year: 2019
+  arxiv: 
+  url: https://pubs.rsna.org/doi/abs/10.1148/radiol.2019190613
+  code: 
+  type: journal
+
+
+- title: Reconfigurable energy-resolving method for a layered edge-on detector scheme
+  author: Zaifeng Shi, Xiangwei Xie, Hangyuan Li, Qingzhen Meng, Wenxiang Cong, Ge Wang
+  venue: Physics in Medicine & Biology, 2019
+  year: 2019
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/ab1149/meta
+  code: 
+  type: journal
+
+
+- title: Spectral CT Reconstruction-ASSIST&#58 Aided by Self-Similarity in Image-Spectral Tensors
+  author: Wenjun Xia, Weiwen Wu, Shanzhou Niu, Fenglin Liu, Jiliu Zhou, Hengyong Yu, Ge Wang, Yi Zhang
+  venue: IEEE Transactions on Computational Imaging, 2019
+  year: 2019
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8664134/
+  code: 
+  type: journal
+
+
+- title: A directional TV based ring artifact reduction method
+  author: Morteza Salehjahromi, Qian Wang, Lars A Gjesteby, Dan Harrison, Ge Wang, Hengyong Yu
+  venue: Medical Imaging 2019&#58 Physics of Medical Imaging, 10948, 109482C, International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10948/109482C/A-directional-TV-based-ring-artifact-reduction-method/10.1117/12.2513037.short
+  code: 
+  type: conference
+
+
+- title: Accelerated Correction of Reflection Artifacts by Deep Neural Networks in Photo-Acoustic Tomography
+  author: Hongming Shan, Ge Wang, Yang Yang
+  venue: Applied Sciences, 9(13), 2615, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.mdpi.com/2076-3417/9/13/2615
+  code: 
+  type: journal
+
+
+- title: A novel calibration method incorporating nonlinear optimization and ball‐bearing markers for cone‐beam CT with a parameterized trajectory
+  author: Guang Li, Shouhua Luo, Chenyu You, Matthew Getzin, Liang Zheng, Ge Wang, Ning Gu
+  venue: Medical physics, 46(1), 152-164, 2019
+  year: 2019
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13278
+  code: 
+  type: journal
+
+
+- title: Soft-Autoencoder and Its Wavelet Shrinkage Interpretation
+  author: Fenglei Fan, Mengzhou Li, Yueyang Teng, Ge Wang
+  venue: arXiv preprint arXiv&#581812.11675, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1812.11675
+  code: 
+  type: preprint
+
+
+- title: 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2D Trained Network (vol 37, pg 1522, 2018)
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE TRANSACTIONS ON MEDICAL IMAGING, 37(12), 2750-2750, 2018
+  year: 2018
+  arxiv: 
+  url: http://scholar.google.com/scholar?cluster=16631872686635949186&hl=en&oi=scholarr
+  code: 
+  type: journal
+
+
+- title: Correction for “3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2D Trained Network”[Jun 18 1522-1534]
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE Transactions on Medical Imaging, 37(12), 2750-2750, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8552578/
+  code: 
+  type: journal
+
+
+- title: Low-Dose CT via Deep CNN with Skip Connection and Network in Network
+  author: Chenyu You, Linfeng Yang, Yi Zhang, Jan Liphardt, Ge Wang
+  venue: arXiv preprint arXiv&#581811.10564, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1811.10564
+  code: 
+  type: preprint
+
+
+- title: Universal Approximation by a Slim Network with Sparse Shortcut Connections
+  author: Fenglei Fan, Dayang Wang, Ge Wang
+  venue: arXiv preprint arXiv&#581811.09003, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1811.09003
+  code: 
+  type: preprint
+
+
+- title: Can Deep Learning Outperform Modern Commercial CT Image Reconstruction Methods?
+  author: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K Kalra, Ge Wang
+  venue: arXiv preprint arXiv&#581811.03691, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1811.03691
+  code: 
+  type: preprint
+
+
+- title: Soft Activation Mapping of Lung Nodules in Low-Dose CT images
+  author: Yiming Lei, Yukun Tian, Hongming Shan, Junping Zhang, Ge Wang, Mannudeep Kalra
+  venue: arXiv preprint arXiv&#581810.12494, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1810.12494
+  code: 
+  type: preprint
+
+
+- title: Hybrid deep neural networks for all-cause Mortality Prediction from LDCT Images
+  author: Pingkun Yan, Hengtao Guo, Ge Wang, Ruben De Man, Mannudeep K Kalra
+  venue: arXiv preprint arXiv&#581810.08503, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1810.08503
+  code: 
+  type: preprint
+
+
+- title: Super-resolution MRI through Deep Learning
+  author: Qing Lyu, Chenyu You, Hongming Shan, Ge Wang
+  venue: arXiv preprint arXiv&#581810.06776, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1810.06776
+  code: 
+  type: preprint
+
+
+- title: Universal Approximation with Quadratic Deep Networks
+  author: Fenglei Fan, Ge Wang
+  venue: arXiv preprint arXiv&#581808.00098, 2018
+  year: 2018
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/pii/S0893608020300095
+  code: 
+  type: preprint
+
+
+- title: Structurally-sensitive multi-scale deep neural network for low-dose CT denoising
+  author: Chenyu You, Qingsong Yang, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
+  venue: IEEE Access, 6, 41839-41855, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8416740/
+  code: 
+  type: journal
+
+
+- title: Structurally-sensitive multi-scale deep neural network for low-dose CT denoising
+  author: Chenyu You, Qingsong Yang, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
+  venue: IEEE Access, 6, 41839-41855, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8416740/
+  code: 
+  type: journal
+
+
+- title: Fuzzy Logic Interpretation of Artificial Neural Networks
+  author: Fenglei Fan, Ge Wang
+  venue: arXiv preprint arXiv&#581807.03215, 2018
+  year: 2018
+  arxiv: 
+  url: http://scholar.google.com/scholar?cluster=15741430589027155759&hl=en&oi=scholarr
+  code: 
+  type: preprint
+
+
+- title: Increased separability of K-edge nanoparticles by photon-counting detectors for spectral micro-CT
+  author: Matthew Getzin, Josephine J Garfield, David S Rundle, Uwe Kruger, Anthony PH Butler, Manos Gkikas, Ge Wang
+  venue: Journal of X-ray science and technology, 1-20, 2018
+  year: 2018
+  arxiv: 
+  url: https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst18382
+  code: 
+  type: journal
+
+
+- title: Novel Detection Scheme for X-Ray Small-Angle Scattering
+  author: Guang Li, Wenxiang Cong, James S Michaelson, Hong Liu, Lars Gjesteby, Ge Wang
+  venue: IEEE Transactions on Radiation and Plasma Medical Sciences, 2(4), 315-325, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8361486/
+  code: 
+  type: journal
+
+
+- title: Simultaneous Emission-Transmission Tomography in an MRI Hardware Framework
+  author: Lars Gjesteby, Wenxiang Cong, Qingsong Yang, Chunqi Qian, Ge Wang
+  venue: IEEE transactions on radiation and plasma medical sciences, 2(4), 326-336, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8357485/
+  code: 
+  type: journal
+
+
+- title: Quantitative MRI&#58 Absolute T1, T2 and Proton Density Parameters from Deep Learning
+  author: Qing Lyu, Ge Wang
+  venue: arXiv preprint arXiv&#581806.07453, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1806.07453
+  code: 
+  type: preprint
+
+
+- title: Image Reconstruction Is a New Frontier of Machine Learning
+  author: Ge Wang, Jong Chu Ye, Klaus Mueller, Jeffrey A Fessler
+  venue: IEEE transactions on medical imaging, 37(6), 1289-1296, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8359079/
+  code: 
+  type: journal
+
+
+- title: 3-D convolutional encoder-decoder network for low-dose CT via transfer learning from a 2-D trained network
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1522-1534, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8353466/
+  code: 
+  type: journal
+
+
+- title: LEARN&#58 Learned experts’ assessment-based reconstruction network for sparse-data CT
+  author: Hu Chen, Yi Zhang, Yunjin Chen, Junfeng Zhang, Weihua Zhang, Huaiqiang Sun, Yang Lv, Peixi Liao, Jiliu Zhou, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1333-1347, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8290981/
+  code: 
+  type: journal
+
+
+- title: 3-D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2-D Trained Network
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1522-1534, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8353466/
+  code: 
+  type: journal
+
+
+- title: Low-dose CT image denoising using a generative adversarial network with Wasserstein distance and perceptual loss
+  author: Qingsong Yang, Pingkun Yan, Yanbo Zhang, Hengyong Yu, Yongyi Shi, Xuanqin Mou, Mannudeep K Kalra, Yi Zhang, Ling Sun, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1348-1357, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8340157/
+  code: 
+  type: journal
+
+
+- title: A Synergized Pulsing-Imaging Network (SPIN)
+  author: Qing Lyu, Tao Xu, Hongming Shan, Ge Wang
+  venue: arXiv preprint arXiv&#581805.12006, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1805.12006
+  code: 
+  type: preprint
+
+
+- title: Projection Decomposition for Dual-energy Computed Tomography
+  author: Wenxiang Cong, Daniel Harrison, Yan Xi, Ge Wang
+  venue: arXiv preprint arXiv&#581805.05312, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1805.05312
+  code: 
+  type: preprint
+
+
+- title: 3-D convolutional encoder-decoder network for low-dose CT via transfer learning from a 2-D trained network
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1522-1534, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8353466/
+  code: 
+  type: journal
+
+
+- title: Generalized backpropagation algorithm for training second‐order neural networks
+  author: Fenglei Fan, Wenxiang Cong, Ge Wang
+  venue: International journal for numerical methods in biomedical engineering, 34(5), e2956, 2018
+  year: 2018
+  arxiv: 
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956
+  code: 
+  type: journal
+
+
+- title: Neural-networks-based Photon-Counting Data Correction&#58 Pulse Pileup Effect
+  author: Ruibin Feng, David Rundle, Ge Wang
+  venue: arXiv preprint arXiv&#581804.10980, 2018
+  year: 2018
+  arxiv: 
+  url: https://arxiv.org/abs/1804.10980
+  code: 
+  type: preprint
+
+
+- title: Metal artifact reduction for radiation therapy&#58 a simulation study
+  author: Yannan Jin, Drosoula Giantsoudi, Lin Fu, Joost Verburg, Lars Gjesteby, Ge Wang, Harald Paganetti, Bruno De Man
+  venue: Medical Imaging 2018&#58 Physics of Medical Imaging, 10573, 105730Q, International Society for Optics and Photonics, 2018
+  year: 2018
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10573/105730Q/Metal-artifact-reduction-for-radiation-therapy-a-simulation-study/10.1117/12.2293840.short
+  code: 
+  type: conference
+
+
+- title: Radiomics in lung cancer&#58 Its time is here
+  author: Mannudeep Kalra, Ge Wang, Colin G Orton
+  venue: Medical physics, 45(3), 997-1000, 2018
+  year: 2018
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12685%4010.1002/%28ISSN%292473-4209.PCP
+  code: 
+  type: journal
+
+
+- title: General rigid motion correction for computed tomography imaging based on locally linear embedding
+  author: Mianyi Chen, Peng He, Peng Feng, Baodong Liu, Qingsong Yang, Biao Wei, Ge Wang
+  venue: Optical Engineering, 57(2), 023102, 2018
+  year: 2018
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-57/issue-2/023102/General-rigid-motion-correction-for-computed-tomography-imaging-based-on/10.1117/1.OE.57.2.023102.short
+  code: 
+  type: journal
+
+
+- title: A new type of neurons for machine learning
+  author: Fenglei Fan, Wenxiang Cong, Ge Wang
+  venue: International journal for numerical methods in biomedical engineering, 34(2), e2920, 2018
+  year: 2018
+  arxiv: 
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2920
+  code: 
+  type: journal
+
+
+- title: Structurally-Sensitive Multi-Scale Deep Neural Network for Low-Dose CT Denoising
+  author: Chenyu You, Qingsong Yang, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
+  venue: IEEE Access, 6, 41839-41855, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8416740/
+  code: 
+  type: journal
+
+
+- title: E-Index—A Bibliometric Index of Research Efficiency
+  author: Bo Wu, Fengrong Ou, Yan Deng, Ruxi Liu, Hui Hua, Rentong Chen, Yuyuan Guan, Dan Yang, Lars Gjesteby, Jiansheng Yang, Michael W Vannier, Ge Wang, Yang Liu
+  venue: IEEE Access, 6, 51355-51364, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8454721/
+  code: 
+  type: journal
+
+
+- title: Multifactorial Analysis of Mortality in Screening Detected Lung Cancer
+  author: Subba R Digumarthy, Ruben De Man, Rodrigo Canellas, Alexi Otrakji, Ge Wang, Mannudeep K Kalra
+  venue: Journal of oncology, 2018, 2018
+  year: 2018
+  arxiv: 
+  url: https://www.hindawi.com/journals/jo/2018/1296246/abs/
+  code: 
+  type: journal
+
+
+- title: Deep Neural Network for CT Metal Artifact Reduction with a Perceptual Loss Function
+  author: Lars Gjesteby, Hongming Shan, Qingsong Yang, Yan Xi, Bernhard Claus, Yannan Jin, Bruno De Man, Ge Wang
+  venue: In Proceedings of The Fifth International Conference on Image Formation in X-ray Computed Tomography, 2018
+  year: 2018
+  arxiv: 
+  url: http://www.hmshan.io/papers/CT2018.pdf
+  code: 
+  type: journal
+
+
+- title: Wavelet-based joint CT-MRI reconstruction
+  author: Xuelin Cui, Lamine Mili, Ge Wang, Hengyong Yu
+  venue: Journal of X-ray science and technology, 26(3), 379-393, 2018
+  year: 2018
+  arxiv: 
+  url: https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst17324
+  code: 
+  type: journal
+
+
+- title: Clinical validation of CT image reconstruction with interior tomography
+  author: Gary Ge, Jie Zhang, Michael Winkler, Cynthia Lumby, Wenxiang Cong, Ge Wang
+  venue: Journal of X-ray science and technology, 26(2), 303-309, 2018
+  year: 2018
+  arxiv: 
+  url: https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst17329
+  code: 
+  type: journal
+
+
+- title: Learning from Pseudo-Randomness with an Artificial Neural Network–Does God Play Pseudo-Dice?
+  author: Fenglei Fan, Ge Wang
+  venue: IEEE Access, 6, 22987-22992, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8350369/
+  code: 
+  type: journal
+
+
+- title: Z-Index Parameterization for Volumetric CT Image Reconstruction via 3-D Dictionary Learning
+  author: Ti Bai, Hao Yan, Xun Jia, Steve Jiang, Ge Wang, Xuanqin Mou
+  venue: IEEE transactions on medical imaging, 36(12), 2466-2478, 2017
+  year: 2017
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8058485/
+  code: 
+  type: journal
+
+
+- title: Grating Oriented Line-Wise Filtration (GOLF) for Dual-Energy X-ray CT
+  author: Yan Xi, Wenxiang Cong, Daniel Harrison, Ge Wang
+  venue: Sensing and Imaging, 18(1), 27, 2017
+  year: 2017
+  arxiv: 
+  url: https://link.springer.com/article/10.1007/s11220-017-0174-7
+  code: 
+  type: journal
+
+
+- title: Low-dose CT with a residual encoder-decoder convolutional neural network
+  author: Hu Chen, Yi Zhang, Mannudeep K Kalra, Feng Lin, Yang Chen, Peixi Liao, Jiliu Zhou, Ge Wang
+  venue: IEEE transactions on medical imaging, 36(12), 2524-2535, 2017
+  year: 2017
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/7947200/
+  code: 
+  type: journal
+
+
+- title: High-resolution X-ray phase-contrast imaging with a grating interferometer
+  author: Seung Wook Lee, Youngju Kim, Seho Lee, Ohsung Oh, Yan Xi, Qingsong Yang, Wenxiang Cong, Ge Wang
+  venue: Journal of the Korean Physical Society, 71(9), 538-542, 2017
+  year: 2017
+  arxiv: 
+  url: https://link.springer.com/article/10.3938/jkps.71.538
+  code: 
+  type: journal
+
+
+- title: Monochromatic CT Image Reconstruction from Current-Integrating Data via Deep Learning
+  author: Wenxiang Cong, Ge Wang
+  venue: arXiv preprint arXiv&#581710.03784, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1710.03784
+  code: 
+  type: preprint
+
+
+- title: Development of a focused-X-ray luminescence tomography (FXLT) system
+  author: Michael C Lun, Wei Zhang, Yue Zhao, Jeffrey Anker, Wenxiang Cong, Ge Wang, Changqing Li
+  venue: arXiv preprint arXiv&#581709.10186, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1709.10186
+  code: 
+  type: preprint
+
+
+- title: Deep learning methods for CT image-domain metal artifact reduction
+  author: Lars Gjesteby, Qingsong Yang, Yan Xi, Hongming Shan, Bernhard Claus, Yannan Jin, Bruno De Man, Ge Wang
+  venue: Developments in X-Ray Tomography XI, 10391, 103910W, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910W/Deep-learning-methods-for-CT-image-domain-metal-artifact-reduction/10.1117/12.2274427.short
+  code: 
+  type: conference
+
+
+- title: Deep learning for low-dose CT
+  author: Hu Chen, Yi Zhang, Jiliu Zhou, Ge Wang
+  venue: Developments in X-Ray Tomography XI, 10391, 103910I, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910I/Deep-learning-for-low-dose-CT/10.1117/12.2272723.short
+  code: 
+  type: conference
+
+
+- title: Numerical study on simultaneous emission and transmission tomography in the MRI framework
+  author: Lars Gjesteby, Wenxiang Cong, Ge Wang
+  venue: Developments in X-Ray Tomography XI, 10391, 103910F, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910F/Numerical-study-on-simultaneous-emission-and-transmission-tomography-in-the/10.1117/12.2272505.short
+  code: 
+  type: conference
+
+
+- title: Quest for the ultimate cardiac CT scanner
+  author: Paul FitzGerald, Peter Edic, Hewei Gao, Yannan Jin, Jiao Wang, Ge Wang, Bruno De Man
+  venue: Medical physics, 44(9), 4506-4524, 2017
+  year: 2017
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12397
+  code: 
+  type: journal
+
+
+- title: Optical tomographic imaging for breast cancer detection
+  author: Wenxiang Cong, Xavier Intes, Ge Wang
+  venue: Journal of biomedical optics, 22(9), 096011, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-22/issue-9/096011/Optical-tomographic-imaging-for-breast-cancer-detection/10.1117/1.JBO.22.9.096011.short
+  code: 
+  type: journal
+
+
+- title: General Backpropagation Algorithm for Training Second-order Neural Networks
+  author: Fenglei Fan, Wenxiang Cong, Ge Wang
+  venue: arXiv preprint arXiv&#581708.06243, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1708.06243
+  code: 
+  type: preprint
+
+
+- title: Learned Experts' Assessment-based Reconstruction Network (" LEARN") for Sparse-data CT
+  author: Hu Chen, Yi Zhang, Weihua Zhang, Huaiqiaing Sun, Peixi Liao, Kun He, Jiliu Zhou, Ge Wang
+  venue: arXiv preprint arXiv&#581707.09636, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.researchgate.net/profile/Yi_Zhang116/publication/318814054_Learned_Experts'_Assessment-based_Reconstruction_Network_LEARN_for_Sparse-data_CT/links/599b7f10a6fdcc500349c7bb/Learned-Experts-Assessment-based-Reconstruction-Network-LEARN-for-Sparse-data-CT.pdf
+  code: 
+  type: preprint
+
+
+- title: Reconstruction of optical parameters for molecular tomographic imaging
+  author: Wenxiang Cong, Xavier Intes, Ge Wang
+  venue: arXiv preprint arXiv&#581707.01197, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1707.01197
+  code: 
+  type: preprint
+
+
+- title: Machine learning will transform radiology significantly within the next 5 years
+  author: Ge Wang, Mannudeep Kalra, Colin G Orton
+  venue: Medical physics, 44(6), 2041-2044, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.researchgate.net/profile/Colin_Orton/publication/314864988_Machine_learning_will_transform_radiology_significantly_within_the_next_five_years/links/5ad0e4c0a6fdcc29357b48df/Machine-learning-will-transform-radiology-significantly-within-the-next-five-years.pdf
+  code: 
+  type: journal
+
+
+- title: Radiative transfer with delta-Eddington-type phase functions
+  author: Weimin Han, Feixiao Long, Wenxiang Cong, Xavier Intes, Ge Wang
+  venue: Applied Mathematics and Computation, 300, 70-78, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/pii/S0096300316307172
+  code: 
+  type: journal
+
+
+- title: Low-dose CT denoising with convolutional neural network
+  author: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
+  venue: 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017), 143-146, IEEE, 2017
+  year: 2017
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/7950488/
+  code: 
+  type: conference
+
+
+- title: Model and reconstruction of a K-edge contrast agent distribution with an X-ray photon-counting detector
+  author: Bo Meng, Wenxiang Cong, Yan Xi, Bruno De Man, Jian Yang, Ge Wang
+  venue: Optics Express, 25(8), 9378-9392, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.osapublishing.org/abstract.cfm?uri=oe-25-8-9378
+  code: 
+  type: journal
+
+
+- title: CT Image Reconstruction in a Low Dimensional Manifold
+  author: Wenxiang Cong, Ge Wang, Qingsong Yang, Jiang Hsieh, Jia Li, Rongjie Lai
+  venue: arXiv preprint arXiv&#581704.04825, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1704.04825
+  code: 
+  type: preprint
+
+
+- title: Expression of B-cell translocation gene 2 is associated with favorable prognosis in hepatocellular carcinoma patients and sensitizes irradiation-induced hepatocellular …
+  author: Yuanyuan Chen, Chuan Chen, Zhimin Zhang, He Xiao, Bijing Mao, Huan Huang, Chenchen Ding, Lin Lei, Hui Zhang, Jian Li, Mei Jiang, Ge Wang
+  venue: Oncology letters, 13(4), 2366-2372, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spandidos-publications.com/ol/13/4/2366
+  code: 
+  type: journal
+
+
+- title: Metal artifacts in computed tomography for radiation therapy planning&#58 dosimetric effects and impact of metal artifact reduction
+  author: Drosoula Giantsoudi, Bruno De Man, Joost Verburg, Alexei Trofimov, Yannan Jin, Ge Wang, Lars Gjesteby, Harald Paganetti
+  venue: Physics in Medicine & Biology, 62(8), R49, 2017
+  year: 2017
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/aa5293/pdf
+  code: 
+  type: journal
+
+
+- title: Deep learning methods to guide CT image reconstruction and reduce metal artifacts
+  author: Lars Gjesteby, Qingsong Yang, Yan Xi, Ye Zhou, Junping Zhang, Ge Wang
+  venue: Medical Imaging 2017&#58 Physics of Medical Imaging, 10132, 101322W, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10132/101322W/Deep-learning-methods-to-guide-CT-image-reconstruction-and-reduce/10.1117/12.2254091.short
+  code: 
+  type: conference
+
+
+- title: New concept on an integrated interior magnetic resonance imaging and medical linear accelerator system for radiation therapy
+  author: Xun Jia, Zhen Tian, Yan Xi, Steve B Jiang, Ge Wang
+  venue: Journal of Medical Imaging, 4(1), 015004, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-4/issue-1/015004/New-concept-on-an-integrated-interior-magnetic-resonance-imaging-and/10.1117/1.JMI.4.1.015004.short
+  code: 
+  type: journal
+
+
+- title: CT Image Denoising with Perceptive Deep Neural Networks
+  author: Qingsong Yang, Pingkun Yan, Mannudeep K Kalra, Ge Wang
+  venue: arXiv preprint arXiv&#581702.07019, 2017
+  year: 2017
+  arxiv: 
+  url: https://arxiv.org/abs/1702.07019
+  code: 
+  type: preprint
+
+
+- title: Characteristic performance investigation of a photon counting detector for X-ray fluorescence imaging applications
+  author: Liqiang Ren, Muhammad U Ghani, Di Wu, Yuhua Li, Wei R Chen, Ge Wang, Bin Zheng, Hong Liu
+  venue: Biophotonics and Immune Responses XII, 10065, 100650L, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10065/100650L/Characteristic-performance-investigation-of-a-photon-counting-detector-for-x/10.1117/12.2253008.full?sessionGUID=883c9d90-2bc9-993c-ed26-8bead49a2853&webSyncID=ce46e9e6-ec7a-49da-b6a0-cbad059329ad&sessionGUID=883c9d90-2bc9-993c-ed26-8bead49a2853
+  code: 
+  type: conference
+
+
+- title: New contrasts for x-ray imaging and synergy with optical imaging
+  author: Ge Wang
+  venue: Multimodal Biomedical Imaging XII, 10057, 100570K, International Society for Optics and Photonics, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10057/100570K/New-contrasts-for-x-ray-imaging-and-synergy-with-optical/10.1117/12.2261456.short
+  code: 
+  type: conference
+
+
+- title: Low-dose CT via convolutional neural network
+  author: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
+  venue: Biomedical optics express, 8(2), 679-694, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.osapublishing.org/abstract.cfm?uri=boe-8-2-679
+  code: 
+  type: journal
+
+
+- title: Dictionary Learning based Low Dose Helical CT Reconstruction With Longitudinal TV Constraint
+  author: Yongyi Shi, Hengyong Yu, Yanbo Zhang, Rui Liu, Mannudeep Kalra, Ge Wang, Xuanqin Mou
+  venue: Chinese Journal of Stereology and Image Analysis, 2, 2017
+  year: 2017
+  arxiv: 
+  url: http://onlinelibrary.fully3d.org/papers/2017/Fully3D.2017-11-3201035.pdf
+  code: 
+  type: journal
+
+
+- title: Low-dose CT restoration with deep neural network
+  author: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
+  venue: Proc. 14th Int. Meeting Fully Three-Dimensional Image Reconstruction Radiol. Nucl. Med., 25-28, 2017
+  year: 2017
+  arxiv: 
+  url: http://onlinelibrary.fully3d.org/papers/2017/Fully3D.2017-11-3202013.pdf
+  code: 
+  type: conference
+
+
+- title: Reducing metal streak artifacts in CT images via deep learning&#58 Pilot results
+  author: Lars Gjesteby, Qingsong Yang, Yan Xi, Bernhard Claus, Yannan Jin, B De Man, Ge Wang
+  venue: The 14th international meeting on fully three-dimensional image reconstruction in radiology and nuclear medicine, 14(6), 611-614, 2017
+  year: 2017
+  arxiv: 
+  url: https://pdfs.semanticscholar.org/1134/caf27f52cf608c1144e87bfbab214da68ac4.pdf
+  code: 
+  type: journal
+
+
+- title: Metal-artifact reduction using deep-learning based Sinogram completion&#58 Initial results
+  author: Bernhard EH Claus, Yannan Jin, Lars A Gjesteby, Ge Wang, Bruno De Man
+  venue: Proc. 14th Int. Meeting Fully Three-Dimensional Image Reconstruction Radiol. Nucl. Med., 631-634, 2017
+  year: 2017
+  arxiv: 
+  url: https://pdfs.semanticscholar.org/8895/2d8bcc1730e6185ddb551305b6d6b2a6a2b4.pdf
+  code: 
+  type: conference
+
+
+- title: Enhancing transferability of features from pretrained deep neural networks for lung nodule classification
+  author: Hongming Shan, Ge Wang, Mannudeep K Kalra, R de Souza, Junping Zhang
+  venue: The Proceedings of the 2017 International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D), 65-68, 2017
+  year: 2017
+  arxiv: 
+  url: http://hmshan.io/papers/Fully3D2017.pdf
+  code: 
+  type: journal
