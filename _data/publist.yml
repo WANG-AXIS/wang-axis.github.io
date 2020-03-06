@@ -1,5 +1,8 @@
+
+# preprint
+
 - title: Duality of Width and Depth of Neural Networks
-  author: Fenglei-Lei Fan, Ge Wang
+  author: Fenglei Fan, Ge Wang
   venue: arXiv preprint arXiv&#582002.02515, 2020
   year: 2020
   arxiv: 
@@ -28,54 +31,12 @@
   type: preprint
 
 
-- title: Deep Encoder-decoder Adversarial Reconstruction (DEAR) Network for 3D CT from Few-view Data
-  author: Huidong Xie, Hongming Shan, Ge Wang
-  venue: arXiv preprint arXiv&#581911.05880, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.mdpi.com/2306-5354/6/4/111
-  code: 
-  type: preprint
 
 
-- title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
-  author: Qing Lyu, Hongming Shan, Ge Wang
-  venue: arXiv preprint arXiv&#581908.01612, 2019
-  year: 2019
-  arxiv: 
-  url: https://arxiv.org/abs/1908.01612
-  code: 
-  type: preprint
 
 
-- title: A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code
-  author: Zhao Peng, Xi Fang, Pingkun Yan, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, Bob Liu, Mannu Kalra, X George Xu
-  venue: arXiv preprint arXiv&#581908.00360, 2019
-  year: 2019
-  arxiv: 
-  url: https://arxiv.org/abs/1908.00360
-  code: 
-  type: preprint
 
 
-- title: Simultaneous reconstruction of the initial pressure and sound speed in photoacoustic tomography using a deep-learning approach
-  author: Hongming Shan, Ge Wang, Yang Yang
-  venue: arXiv preprint arXiv&#581907.09951, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11105/1110504/Simultaneous-reconstruction-of-the-initial-pressure-and-sound-speed-in/10.1117/12.2529984.short
-  code: 
-  type: preprint
-
-
-- title: MRI Super-Resolution with Ensemble Learning and Complementary Priors
-  author: Qing Lyu, Hongming Shan, Ge Wang
-  venue: arXiv preprint arXiv&#581907.03063, 2019
-  year: 2019
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/8950304/
-  code: 
-  type: preprint
 
 
 - title: Soft-Autoencoder and Its Wavelet Shrinkage Interpretation
@@ -88,14 +49,7 @@
   type: preprint
 
 
-- title: Low-Dose CT via Deep CNN with Skip Connection and Network in Network
-  author: Chenyu You, Linfeng Yang, Yi Zhang, Jan Liphardt, Ge Wang
-  venue: arXiv preprint arXiv&#581811.10564, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1811.10564
-  code: 
-  type: preprint
+
 
 
 - title: Universal Approximation by a Slim Network with Sparse Shortcut Connections
@@ -108,15 +62,6 @@
   type: preprint
 
 
-- title: Can Deep Learning Outperform Modern Commercial CT Image Reconstruction Methods?
-  author: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K Kalra, Ge Wang
-  venue: arXiv preprint arXiv&#581811.03691, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1811.03691
-  code: 
-  type: preprint
-
 
 - title: Soft Activation Mapping of Lung Nodules in Low-Dose CT images
   author: Yiming Lei, Yukun Tian, Hongming Shan, Junping Zhang, Ge Wang, Mannudeep Kalra
@@ -128,25 +73,6 @@
   type: preprint
 
 
-- title: Hybrid deep neural networks for all-cause Mortality Prediction from LDCT Images
-  author: Pingkun Yan, Hengtao Guo, Ge Wang, Ruben De Man, Mannudeep K Kalra
-  venue: arXiv preprint arXiv&#581810.08503, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1810.08503
-  code: 
-  type: preprint
-
-
-- title: Super-resolution MRI through Deep Learning
-  author: Qing Lyu, Chenyu You, Hongming Shan, Ge Wang
-  venue: arXiv preprint arXiv&#581810.06776, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1810.06776
-  code: 
-  type: preprint
-
 
 - title: Universal Approximation with Quadratic Deep Networks
   author: Fenglei Fan, Ge Wang
@@ -154,16 +80,6 @@
   year: 2018
   arxiv: 
   url: https://www.sciencedirect.com/science/article/pii/S0893608020300095
-  code: 
-  type: preprint
-
-
-- title: Fuzzy Logic Interpretation of Artificial Neural Networks
-  author: Fenglei Fan, Ge Wang
-  venue: arXiv preprint arXiv&#581807.03215, 2018
-  year: 2018
-  arxiv: 
-  url: http://scholar.google.com/scholar?cluster=15741430589027155759&hl=en&oi=scholarr
   code: 
   type: preprint
 
@@ -228,24 +144,8 @@
   type: preprint
 
 
-- title: General Backpropagation Algorithm for Training Second-order Neural Networks
-  author: Fenglei Fan, Wenxiang Cong, Ge Wang
-  venue: arXiv preprint arXiv&#581708.06243, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1708.06243
-  code: 
-  type: preprint
 
 
-- title: Learned Experts' Assessment-based Reconstruction Network (" LEARN") for Sparse-data CT
-  author: Hu Chen, Yi Zhang, Weihua Zhang, Huaiqiaing Sun, Peixi Liao, Kun He, Jiliu Zhou, Ge Wang
-  venue: arXiv preprint arXiv&#581707.09636, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.researchgate.net/profile/Yi_Zhang116/publication/318814054_Learned_Experts'_Assessment-based_Reconstruction_Network_LEARN_for_Sparse-data_CT/links/599b7f10a6fdcc500349c7bb/Learned-Experts-Assessment-based-Reconstruction-Network-LEARN-for-Sparse-data-CT.pdf
-  code: 
-  type: preprint
 
 
 - title: Reconstruction of optical parameters for molecular tomographic imaging
@@ -417,6 +317,14 @@
   code: 
   type: preprint
 
+- title: Machine Learning for Tomographic Imaging
+  author: Ge Wang, Yi Zhang, Xiaojing Ye and Xuanqin Mou
+  venue: IOP Publishing, 2020
+  year: 2020
+  arxiv: 
+  url: https://iopscience.iop.org/book/978-0-7503-2216-4
+  code: 
+  type: book
 
 - title: X-ray luminescence imaging for small animals
   author: Michael C Lun, Wenxiang Cong, Md Arifuzzaman, Meenakshi Ranasinghe, Sriparna Bhattacharya, Jeffrey Anker, Ge Wang, Changqing Li
@@ -426,6 +334,24 @@
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11224/112240F/X-ray-luminescence-imaging-for-small-animals/10.1117/12.2544601.short
   code: 
   type: conference
+
+- title: A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code
+  author: Zhao Peng, Xi Fang, Pingkun Yan, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, Bob Liu, Mannu Kalra, X George Xu
+  venue: Medical Physics, 2020
+  year: 2020
+  arxiv: 
+  url: https://arxiv.org/abs/1908.00360
+  code: 
+  type: journal
+
+- title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
+  author: Qing Lyu, Hongming Shan, Ge Wang
+  venue: IEEE Transactions on Medical Imaging, 2020
+  year: 2020
+  arxiv: 
+  url: https://ieeexplore.ieee.org/document/9001105
+  code: 
+  type: journal
 
 
 - title: Shape and margin-aware lung nodule classification in low-dose CT images via soft activation mapping
@@ -447,6 +373,23 @@
   code: 
   type: journal
 
+- title: MRI Super-Resolution with Ensemble Learning and Complementary Priors
+  author: Qing Lyu, Hongming Shan, Ge Wang
+  venue: IEEE Transactions on Computational Imaging, 6, 615--624, 2020
+  year: 2020
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8950304/
+  code: 
+  type: journal
+
+- title: CT super-resolution GAN constrained by the identical, residual, and cycle learning ensemble (GAN-CIRCLE)
+  author: Chenyu You, Guang Li, Yi Zhang, Xiaoliu Zhang, Hongming Shan, Mengzhou Li, Shenghong Ju, Zhen Zhao, Zhuiyang Zhang, Wenxiang Cong, Michael W Vannier, Punam K Saha, Eric A Hoffman, Ge Wang
+  venue: IEEE Transactions on Medical Imaging, 39(1), 188--203, 2020
+  year: 2020
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8736838/
+  code: 
+  type: journal
 
 - title: A Framework for Least Squares Nonnegative Matrix Factorizations with Tikhonov Regularization
   author: Yueyang Teng, Shouliang Qi, Fangfang Han, Yudong Yao, Fenglei Fan, Qing Lyu, Ge Wang
@@ -454,6 +397,15 @@
   year: 2020
   arxiv: 
   url: https://www.sciencedirect.com/science/article/pii/S0925231220300217
+  code: 
+  type: journal
+
+- title: Deep Encoder-decoder Adversarial Reconstruction (DEAR) Network for 3D CT from Few-view Data
+  author: Huidong Xie, Hongming Shan, Ge Wang
+  venue: Bioengineering, 6(4), 111, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.mdpi.com/2306-5354/6/4/111
   code: 
   type: journal
 
@@ -547,12 +499,30 @@
   code: 
   type: conference
 
+- title: Simultaneous reconstruction of the initial pressure and sound speed in photoacoustic tomography using a deep-learning approach
+  author: Hongming Shan, Christopher Wiedeman, Ge Wang, Yang Yang
+  venue: Novel Optical Systems, Methods, and Applications XXII (Vol. 11105, p. 1110504). International Society for Optics and Photonics, 2019
+  year: 2019
+  arxiv: 
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11105/1110504/Simultaneous-reconstruction-of-the-initial-pressure-and-sound-speed-in/10.1117/12.2529984.short
+  code: 
+  type: conference
+
+- title: Low-Dose CT via Deep CNN with Skip Connection and Network in Network
+  author: Chenyu You, Linfeng Yang, Yi Zhang, Ge Wang
+  venue: Developments in X-Ray Tomography XII (Vol. 11113, p. 111131W). International Society for Optics and Photonics, 2018
+  year: 2019
+  arxiv: https://arxiv.org/abs/1811.10564
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131W/Low-dose-CT-via-deep-CNN-with-skip-connection-and/10.1117/12.2534960.full?SSO=1
+  code: 
+  type: conference
+
 
 - title: Super-resolution MRI and CT through GAN-circle
   author: Qing Lyu, Chenyu You, Hongming Shan, Yi Zhang, Ge Wang
   venue: Developments in X-Ray Tomography XII, 11113, 111130X, International Society for Optics and Photonics, 2019
   year: 2019
-  arxiv: 
+  arxiv: https://arxiv.org/abs/1810.06776
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130X/Super-resolution-MRI-and-CT-through-GAN-CIRCLE/10.1117/12.2530592.short
   code: 
   type: conference
@@ -602,20 +572,13 @@
   author: Pingkun Yan, Hengtao Guo, Ge Wang, Ruben De Man, Mannudeep K Kalra
   venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 6243-6246, IEEE, 2019
   year: 2019
-  arxiv: 
+  arxiv: https://arxiv.org/abs/1810.08503
   url: https://ieeexplore.ieee.org/abstract/document/8857180/
   code: 
   type: conference
 
 
-- title: CT super-resolution GAN constrained by the identical, residual, and cycle learning ensemble (GAN-CIRCLE)
-  author: Chenyu You, Guang Li, Yi Zhang, Xiaoliu Zhang, Hongming Shan, Mengzhou Li, Shenghong Ju, Zhen Zhao, Zhuiyang Zhang, Wenxiang Cong, Michael W Vannier, Punam K Saha, Eric A Hoffman, Ge Wang
-  venue: IEEE Transactions on Medical Imaging, 2019
-  year: 2019
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/8736838/
-  code: 
-  type: journal
+
 
 
 - title: Visual Attention Network for Low-Dose CT
@@ -652,7 +615,7 @@
   author: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K Kalra, Ge Wang
   venue: Nature Machine Intelligence, 1(6), 269, 2019
   year: 2019
-  arxiv: 
+  arxiv: https://arxiv.org/abs/1811.03691
   url: https://www.nature.com/articles/s42256-019-0057-9
   code: 
   type: journal
@@ -768,28 +731,9 @@
   type: journal
 
 
-- title: Correction for “3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2D Trained Network”[Jun 18 1522-1534]
-  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
-  venue: IEEE Transactions on Medical Imaging, 37(12), 2750-2750, 2018
-  year: 2018
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/8552578/
-  code: 
-  type: journal
-
 
 - title: Structurally-sensitive multi-scale deep neural network for low-dose CT denoising
-  author: Chenyu You, Qingsong Yang, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
-  venue: IEEE Access, 6, 41839-41855, 2018
-  year: 2018
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/8416740/
-  code: 
-  type: journal
-
-
-- title: Structurally-sensitive multi-scale deep neural network for low-dose CT denoising
-  author: Chenyu You, Qingsong Yang, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
+  author: Chenyu You, Qingsong Yang, Hongming Shan, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
   venue: IEEE Access, 6, 41839-41855, 2018
   year: 2018
   arxiv: 
@@ -6278,14 +6222,6 @@
   type: journal
 
 
-- title: Ping-chin Cheng, Dayakar R. Pareddy, Tein-Hsiang Lin, Jagath K. Samarabandu
-  author: Raj Acharya, Ge Wang, Wen-Shan Liou
-  venue: Multidimensional Microscopy, 339, 1994
-  year: 1994
-  arxiv: 
-  url: http://scholar.google.com/scholar?cluster=11667343066884731245&hl=en&oi=scholarr
-  code: 
-  type: journal
 
 
 - title: Image restoration in light microscopy
