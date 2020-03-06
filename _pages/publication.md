@@ -65,7 +65,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {% endif %}
 </p>
 </li>
-
 {% endif %}
 {% endfor %}
 
@@ -87,7 +86,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {% endif %}
 </p>
 </li>
-
 {% endif %}
 {% endfor %}
 
@@ -109,7 +107,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {% endif %}
 </p>
 </li>
-
 {% endif %}
 {% endfor %}
 
@@ -131,7 +128,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {% endif %}
 </p>
 </li>
-
 {% endif %}
 {% endfor %}
 
