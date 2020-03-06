@@ -54,19 +54,19 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Preprint
 
 <ol reversed>
-{% for pub in site.data.publist %}
-{% if pub.type == "preprint" %}
+{%- for pub in site.data.publist -%}
+{%- if pub.type == "preprint" -%}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" }}<br>
-  {% if pub.url %}
+  {%- if pub.url -%}
   [<a href="{{ pub.url}}">arXiv</a>]
-  {% endif %}
+  {%- endif -%}
 </p>
 </li>
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 </ol>
 
@@ -75,19 +75,19 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Book (Chapter)
 
 <ol reversed>
-{% for pub in site.data.publist %}
-{% if pub.type == "book" %}
+{%- for pub in site.data.publist -%}
+{%- if pub.type == "book" -%}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" }}<br>
-  {% if pub.url %}
+  {%- if pub.url -%}
   [<a href="{{ pub.url}}">link</a>]
-  {% endif %}
+  {%- endif -%}
 </p>
 </li>
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 </ol>
 
@@ -96,19 +96,19 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Journal
 
 <ol reversed>
-{% for pub in site.data.publist %}
-{% if pub.type == "journal" %}
+{%- for pub in site.data.publist -%}
+{%- if pub.type == "journal" -%}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
-  {% if pub.url %}
+  {%- if pub.url -%}
   [<a href="{{ pub.url}}">link</a>]
-  {% endif %}
+  {%- endif -%}
 </p>
 </li>
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 </ol>
 
@@ -117,8 +117,8 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Conference
 
 <ol reversed="">
-{% for pub in site.data.publist %}
-{% if pub.type == "conference" %}
+{%- for pub in site.data.publist -%}
+{%- if pub.type == "conference" -%}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -128,7 +128,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {% endif %}
 </p>
 </li>
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 </ol>

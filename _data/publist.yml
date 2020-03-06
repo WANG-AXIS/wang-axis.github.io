@@ -518,7 +518,7 @@
   type: conference
 
 
-- title: Super-resolution MRI and CT through GAN-circle
+- title: Super-resolution MRI and CT through GAN-CIRCLE
   author: Qing Lyu, Chenyu You, Hongming Shan, Yi Zhang, Ge Wang
   venue: Developments in X-Ray Tomography XII, 11113, 111130X, International Society for Optics and Photonics, 2019
   year: 2019
@@ -538,7 +538,7 @@
   type: conference
 
 
-- title: Dual network architecture for few-view CT-trained on ImageNet data and transferred for medical imaging
+- title: Dual network architecture for few-view CT -- trained on ImageNet data and transferred for medical imaging
   author: Huidong Xie, Hongming Shan, Wenxiang Cong, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
   venue: Developments in X-Ray Tomography XII, 11113, 111130V, International Society for Optics and Photonics, 2019
   year: 2019
@@ -1092,15 +1092,6 @@
   type: journal
 
 
-- title: Expression of B-cell translocation gene 2 is associated with favorable prognosis in hepatocellular carcinoma patients and sensitizes irradiation-induced hepatocellular …
-  author: Yuanyuan Chen, Chuan Chen, Zhimin Zhang, He Xiao, Bijing Mao, Huan Huang, Chenchen Ding, Lin Lei, Hui Zhang, Jian Li, Mei Jiang, Ge Wang
-  venue: Oncology letters, 13(4), 2366-2372, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spandidos-publications.com/ol/13/4/2366
-  code: 
-  type: journal
-
 
 - title: Metal artifacts in computed tomography for radiation therapy planning&#58 dosimetric effects and impact of metal artifact reduction
   author: Drosoula Giantsoudi, Bruno De Man, Joost Verburg, Alexei Trofimov, Yannan Jin, Ge Wang, Lars Gjesteby, Harald Paganetti
@@ -1532,14 +1523,7 @@
   type: journal
 
 
-- title: MicroRNAs involved with hepatocellular carcinoma
-  author: Bijing Mao, Ge Wang
-  venue: Oncology reports, 34(6), 2811-2820, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.spandidos-publications.com/or/34/6/2811/
-  code: 
-  type: journal
+
 
 
 - title: DNA repair gene ERCC1 C118T polymorphism predicts sensitivity of recurrent esophageal cancer to radiochemotherapy in a Chinese population
@@ -1562,14 +1546,7 @@
   type: journal
 
 
-- title: One-carbon metabolic factors and risk of renal cell cancer&#58 A meta-analysis
-  author: Bijing Mao, Yafei Li, Zhimin Zhang, Chuan Chen, Yuanyuan Chen, Chenchen Ding, Lin Lei, Jian Li, Mei Jiang, Dong Wang, Ge Wang
-  venue: PloS one, 10(10), e0141762, 2015
-  year: 2015
-  arxiv: 
-  url: https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0141762
-  code: 
-  type: journal
+
 
 
 - title: Talbot interferometry with curved quasi-periodic gratings&#58 towards large field of view X-ray phase-contrast imaging
@@ -1592,24 +1569,6 @@
   type: journal
 
 
-- title: MicroRNA‑21 regulates the expression of BTG2 in HepG2 liver cancer cells
-  author: Bijing Mao, He Xiao, Zhimin Zhang, Dong Wang, Ge Wang
-  venue: Molecular medicine reports, 12(4), 4917-4924, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.spandidos-publications.com/mmr/12/4/4917?text=fulltext
-  code: 
-  type: journal
-
-
-- title: Mechanisms of hepatocellular carcinoma and challenges and opportunities for molecular targeted therapy
-  author: Chuan Chen, Ge Wang
-  venue: World journal of hepatology, 7(15), 1964, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4517155/
-  code: 
-  type: journal
 
 
 - title: Low-field designs for interior MRI and CT coupling
@@ -1672,34 +1631,6 @@
   type: journal
 
 
-- title: BTG2&#58 A rising star of tumor suppressors
-  author: Bijing Mao, Zhimin Zhang, Ge Wang
-  venue: International journal of oncology, 46(2), 459-464, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.spandidos-publications.com/10.3892/ijo.2014.2765
-  code: 
-  type: journal
-
-
-- title: LDA-SVM-based EGFR mutation model for NSCLC brain metastases&#58 an observational study
-  author: Nan Hu, Ge Wang, Yu-Hao Wu, Shi-Feng Chen, Guo-Dong Liu, Chuan Chen, Dong Wang, Zhong-Shi He, Xue-Qin Yang, Yong He, Hua-Liang Xiao, Ding-De Huang, Kun-Lin Xiong, Yan Wu, Ming Huang, Zhen-Zhou Yang
-  venue: Medicine, 94(5), 2015
-  year: 2015
-  arxiv: 
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4602717/
-  code: 
-  type: journal
-
-
-- title: APE1 promotes antioxidant capacity by regulating Nrf-2 function through a redox-dependent mechanism
-  author: Jin-Lu Shan, Hai-Tao He, Meng-Xia Li, Jian-Wu Zhu, Yi Cheng, Nan Hu, Ge Wang, Dong Wang, Xue-Qin Yang, Yong He, Hua-Liang Xiao, Wei-Dong Tong, Zhen-Zhou Yang
-  venue: Free Radical Biology and Medicine, 78, 11-22, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.sciencedirect.com/science/article/pii/S0891584914004559
-  code: 
-  type: journal
 
 
 - title: Dynamic assessment of the endothelialization of tissue-engineered blood vessels using an optical coherence tomography catheter-based fluorescence imaging system
@@ -2082,14 +2013,7 @@
   type: journal
 
 
-- title: High-incidence of PTEN mutations in Chinese patients with primary small cell carcinoma of the esophagus
-  author: Zhimin Zhang, Hualiang Xiao, Fei Xie, Hui Zhang, Chuan Chen, He Xiao, Zhenzhou Yang, Dong Wang, Zengpeng Li, Ge Wang
-  venue: BMC cancer, 14(1), 19, 2014
-  year: 2014
-  arxiv: 
-  url: https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-14-19
-  code: 
-  type: journal
+
 
 
 - title: IEEE Access Special Section Editorial&#58 Emerging Computed Tomography Technologies
@@ -3322,14 +3246,7 @@
   type: conference
 
 
-- title: Rapid induction of PC3/BTG2 gene by hepatopoietin or partial hepatectomy and its mRNA expression in hepatocellular carcinoma.
-  author: Zhi-Min Zhang, Ge Wang, Chuan Chen, Zhi-Xiang Yang, Feng Jin, Jin-Lu San, Wen Xu, Qiong Li, Zeng-Peng Li, Dong Wang
-  venue: Hepatobiliary & pancreatic diseases international&#58 HBPD INT, 8(3), 288-293, 2009
-  year: 2009
-  arxiv: 
-  url: https://europepmc.org/abstract/med/19502170
-  code: 
-  type: journal
+
 
 
 - title: An integrated solution and analysis of bioluminescence tomography and diffuse optical tomography
