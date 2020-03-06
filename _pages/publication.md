@@ -39,7 +39,7 @@ permalink: /publication/
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
-  {{ pub.venue | replace: "&#58", ":" | capitalize}}<br>
+  {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
   {% if pub.url %}
   [<a href="{{ pub.url}}">link</a>]
   {% endif %}
@@ -59,7 +59,7 @@ permalink: /publication/
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
-  {{ pub.venue | replace: "&#58", ":" }}<br>
+  {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
   {% if pub.url %}
   [<a href="{{ pub.url}}">link</a>]
   {% endif %}
