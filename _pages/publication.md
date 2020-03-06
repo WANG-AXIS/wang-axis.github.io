@@ -55,7 +55,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <ol reversed>
 {%- for pub in site.data.publist -%}
-{%- if pub.type == "preprint" -%}
+{% if pub.type == "preprint" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -65,7 +65,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {%- endif -%}
 </p>
 </li>
-{%- endif -%}
+{% endif %}
 {%- endfor -%}
 
 </ol>
@@ -76,7 +76,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <ol reversed>
 {%- for pub in site.data.publist -%}
-{%- if pub.type == "book" -%}
+{% if pub.type == "book" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -86,7 +86,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {%- endif -%}
 </p>
 </li>
-{%- endif -%}
+{% endif %}
 {%- endfor -%}
 
 </ol>
@@ -97,7 +97,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <ol reversed>
 {%- for pub in site.data.publist -%}
-{%- if pub.type == "journal" -%}
+{% if pub.type == "journal" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -107,7 +107,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {%- endif -%}
 </p>
 </li>
-{%- endif -%}
+{% endif %}
 {%- endfor -%}
 
 </ol>
@@ -118,17 +118,17 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <ol reversed="">
 {%- for pub in site.data.publist -%}
-{%- if pub.type == "conference" -%}
+{% if pub.type == "conference" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
-  {% if pub.url %}
+  {%- if pub.url -%}
   [<a href="{{ pub.url}}">link</a>]
-  {% endif %}
+  {%- endif -%}
 </p>
 </li>
-{%- endif -%}
+{% endif %}
 {%- endfor -%}
 
 </ol>
