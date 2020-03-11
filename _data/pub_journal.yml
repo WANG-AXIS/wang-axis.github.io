@@ -1,349 +1,3 @@
-
-# preprint
-
-- title: Duality of Width and Depth of Neural Networks
-  author: Fenglei Fan, Ge Wang
-  venue: arXiv preprint arXiv&#582002.02515, 2020
-  year: 2020
-  arxiv: 
-  url: https://arxiv.org/abs/2002.02515
-  code: 
-  type: preprint
-
-
-- title: On Interpretability of Artificial Neural Networks
-  author: Fenglei Fan, Jinjun Xiong, Ge Wang
-  venue: arXiv preprint arXiv&#582001.02522, 2020
-  year: 2020
-  arxiv: 
-  url: https://arxiv.org/abs/2001.02522
-  code: 
-  type: preprint
-
-
-- title: Deep Efficient End-to-end Reconstruction (DEER) Network for Low-dose Few-view Breast CT from Projection Data
-  author: Huidong Xie, Hongming Shan, Wenxiang Cong, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
-  venue: arXiv preprint arXiv&#581912.04278, 2019
-  year: 2019
-  arxiv: 
-  url: https://arxiv.org/abs/1912.04278
-  code: 
-  type: preprint
-
-
-
-
-
-
-
-
-
-
-- title: Soft-Autoencoder and Its Wavelet Shrinkage Interpretation
-  author: Fenglei Fan, Mengzhou Li, Yueyang Teng, Ge Wang
-  venue: arXiv preprint arXiv&#581812.11675, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1812.11675
-  code: 
-  type: preprint
-
-
-
-
-
-- title: Universal Approximation by a Slim Network with Sparse Shortcut Connections
-  author: Fenglei Fan, Dayang Wang, Ge Wang
-  venue: arXiv preprint arXiv&#581811.09003, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1811.09003
-  code: 
-  type: preprint
-
-
-
-- title: Soft Activation Mapping of Lung Nodules in Low-Dose CT images
-  author: Yiming Lei, Yukun Tian, Hongming Shan, Junping Zhang, Ge Wang, Mannudeep Kalra
-  venue: arXiv preprint arXiv&#581810.12494, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1810.12494
-  code: 
-  type: preprint
-
-
-
-- title: Universal Approximation with Quadratic Deep Networks
-  author: Fenglei Fan, Ge Wang
-  venue: arXiv preprint arXiv&#581808.00098, 2018
-  year: 2018
-  arxiv: 
-  url: https://www.sciencedirect.com/science/article/pii/S0893608020300095
-  code: 
-  type: preprint
-
-
-- title: Quantitative MRI&#58 Absolute T1, T2 and Proton Density Parameters from Deep Learning
-  author: Qing Lyu, Ge Wang
-  venue: arXiv preprint arXiv&#581806.07453, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1806.07453
-  code: 
-  type: preprint
-
-
-- title: A Synergized Pulsing-Imaging Network (SPIN)
-  author: Qing Lyu, Tao Xu, Hongming Shan, Ge Wang
-  venue: arXiv preprint arXiv&#581805.12006, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1805.12006
-  code: 
-  type: preprint
-
-
-- title: Projection Decomposition for Dual-energy Computed Tomography
-  author: Wenxiang Cong, Daniel Harrison, Yan Xi, Ge Wang
-  venue: arXiv preprint arXiv&#581805.05312, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1805.05312
-  code: 
-  type: preprint
-
-
-- title: Neural-networks-based Photon-Counting Data Correction&#58 Pulse Pileup Effect
-  author: Ruibin Feng, David Rundle, Ge Wang
-  venue: arXiv preprint arXiv&#581804.10980, 2018
-  year: 2018
-  arxiv: 
-  url: https://arxiv.org/abs/1804.10980
-  code: 
-  type: preprint
-
-
-- title: Monochromatic CT Image Reconstruction from Current-Integrating Data via Deep Learning
-  author: Wenxiang Cong, Ge Wang
-  venue: arXiv preprint arXiv&#581710.03784, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1710.03784
-  code: 
-  type: preprint
-
-
-- title: Development of a focused-X-ray luminescence tomography (FXLT) system
-  author: Michael C Lun, Wei Zhang, Yue Zhao, Jeffrey Anker, Wenxiang Cong, Ge Wang, Changqing Li
-  venue: arXiv preprint arXiv&#581709.10186, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1709.10186
-  code: 
-  type: preprint
-
-
-
-
-
-
-- title: Reconstruction of optical parameters for molecular tomographic imaging
-  author: Wenxiang Cong, Xavier Intes, Ge Wang
-  venue: arXiv preprint arXiv&#581707.01197, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1707.01197
-  code: 
-  type: preprint
-
-
-- title: CT Image Reconstruction in a Low Dimensional Manifold
-  author: Wenxiang Cong, Ge Wang, Qingsong Yang, Jiang Hsieh, Jia Li, Rongjie Lai
-  venue: arXiv preprint arXiv&#581704.04825, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1704.04825
-  code: 
-  type: preprint
-
-
-- title: CT Image Denoising with Perceptive Deep Neural Networks
-  author: Qingsong Yang, Pingkun Yan, Mannudeep K Kalra, Ge Wang
-  venue: arXiv preprint arXiv&#581702.07019, 2017
-  year: 2017
-  arxiv: 
-  url: https://arxiv.org/abs/1702.07019
-  code: 
-  type: preprint
-
-
-- title: Deep Learning for the Classification of Lung Nodules
-  author: He Yang, Hengyong Yu, Ge Wang
-  venue: arXiv preprint arXiv&#581611.06651, 2016
-  year: 2016
-  arxiv: 
-  url: https://arxiv.org/abs/1611.06651
-  code: 
-  type: preprint
-
-
-- title: Bibliometric Index for Academic Leadership
-  author: Yang Liu, Fengrong Ou, Yan Deng, Bo Wu, Ruxi Liu, Hui Hua, Yuyuan Guan, Rentong Chen, Lars Gjesteby, Jiansheng Yang, Michael Vannier, Ge Wang
-  venue: arXiv preprint arXiv&#581610.03706, 2016
-  year: 2016
-  arxiv: 
-  url: https://arxiv.org/abs/1610.03706
-  code: 
-  type: preprint
-
-
-- title: Theoretical analysis on x-ray cylindrical grating interferometer
-  author: Wenxiang Cong, Yan Xi, Ge Wang
-  venue: arXiv preprint arXiv&#581502.01043, 2015
-  year: 2015
-  arxiv: 
-  url: https://arxiv.org/abs/1502.01043
-  code: 
-  type: preprint
-
-
-- title: A pilot study on coupling CT and MRI through use of semiconductor nanoparticles
-  author: Matthew Getzin, Lars Gjesteby, Yen-Jun Chuang, Scott McCallum, Wenxiang Cong, Chao Wang, Zhengwei Pan, Guohao Dai, Ge Wang
-  venue: arXiv preprint arXiv&#581412.7554, 2014
-  year: 2014
-  arxiv: 
-  url: https://arxiv.org/abs/1412.7554
-  code: 
-  type: preprint
-
-
-- title: Modulated Luminescent Tomography
-  author: Plamen Stefanov, Wenxiang Cong, Ge Wang
-  venue: arXiv preprint arXiv&#581406.6752, 2014
-  year: 2014
-  arxiv: 
-  url: https://arxiv.org/abs/1406.6752
-  code: 
-  type: preprint
-
-
-- title: First CT-MRI Scanner for multi-dimensional synchrony and multi-physical coupling
-  author: Ge Wang
-  venue: arXiv preprint arXiv&#581402.2647, 2014
-  year: 2014
-  arxiv: 
-  url: https://arxiv.org/abs/1402.2647
-  code: 
-  type: preprint
-
-
-- title: Micro-modulated luminescence tomography
-  author: Wenxiang Cong, Fenglin Liu, Chao Wang, Ge Wang
-  venue: arXiv preprint arXiv&#581311.4107, 2013
-  year: 2013
-  arxiv: 
-  url: https://arxiv.org/abs/1311.4107
-  code: 
-  type: preprint
-
-
-- title: Academic Ranking with Web Mining and Axiomatic Analysis
-  author: Kun Tang, Qiwei Jin, Xin Zou, Jiansheng Yang, Michael Vannier, Ge Wang
-  venue: arXiv preprint arXiv&#581301.1563, 2012
-  year: 2012
-  arxiv: 
-  url: https://arxiv.org/abs/1301.1563
-  code: 
-  type: preprint
-
-
-- title: Omni-tomography&#58 Next-generation Biomedical Imaging
-  author: Ge Wang, Yue Wang, Michael W Vannier
-  venue: arXiv preprint arXiv&#581212.5579, 2012
-  year: 2012
-  arxiv: 
-  url: https://arxiv.org/abs/1212.5579
-  code: 
-  type: preprint
-
-
-- title: X-ray fluorescence sectioning
-  author: Wenxiang Cong, Ge Wang
-  venue: arXiv preprint arXiv&#581210.7198, 2012
-  year: 2012
-  arxiv: 
-  url: https://arxiv.org/abs/1210.7198
-  code: 
-  type: preprint
-
-
-- title: Fourier transform based iterative method for x-ray differential phase-contrast computed tomography
-  author: Wenxiang Cong, Atsushi Momose, Ge Wang
-  venue: arXiv preprint arXiv&#581106.5101, 2011
-  year: 2011
-  arxiv: 
-  url: https://arxiv.org/abs/1106.5101
-  code: 
-  type: preprint
-
-
-- title: Omni-tomography/Multi-tomography--Integrating Multiple Modalities for Simultaneous Imaging
-  author: Ge Wang, Jie Zhang, Hao Gao, Victor Weir, Hengyong Yu, Wenxiang Cong, Xiaochen Xu, Haiou Shen, James Bennett, Yue Wang, Michael Vannier
-  venue: arXiv preprint arXiv&#581106.2124, 2011
-  year: 2011
-  arxiv: 
-  url: https://arxiv.org/abs/1106.2124
-  code: 
-  type: preprint
-
-
-- title: Axiomatic quantification of co-authors' relative contributions
-  author: Ge Wang, Jiansheng Yang
-  venue: arXiv preprint arXiv&#581003.3362, 2010
-  year: 2010
-  arxiv: 
-  url: https://arxiv.org/abs/1003.3362
-  code: 
-  type: preprint
-
-
-- title: Higher-order Reconstruction Method of Differential Phase Shift
-  author: Wenxiang Cong, Ge Wang
-  venue: arXiv preprint arXiv&#581003.3249, 2010
-  year: 2010
-  arxiv: 
-  url: https://arxiv.org/abs/1003.3249
-  code: 
-  type: preprint
-
-- title: Machine Learning for Tomographic Imaging
-  author: Ge Wang, Yi Zhang, Xiaojing Ye and Xuanqin Mou
-  venue: IOP Publishing, 2020
-  year: 2020
-  arxiv: 
-  url: https://iopscience.iop.org/book/978-0-7503-2216-4
-  code: 
-  type: book
-
-- title: X-ray luminescence imaging for small animals
-  author: Michael C Lun, Wenxiang Cong, Md Arifuzzaman, Meenakshi Ranasinghe, Sriparna Bhattacharya, Jeffrey Anker, Ge Wang, Changqing Li
-  venue: Optics and Ionizing Radiation, 11224, 112240F, International Society for Optics and Photonics, 2020
-  year: 2020
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11224/112240F/X-ray-luminescence-imaging-for-small-animals/10.1117/12.2544601.short
-  code: 
-  type: conference
-
-- title: A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code
-  author: Zhao Peng, Xi Fang, Pingkun Yan, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, Bob Liu, Mannu Kalra, X George Xu
-  venue: Medical Physics, 2020
-  year: 2020
-  arxiv: 
-  url: https://arxiv.org/abs/1908.00360
-  code: 
-  type: journal
-
 - title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
   author: Qing Lyu, Hongming Shan, Ge Wang
   venue: IEEE Transactions on Medical Imaging, 2020
@@ -353,6 +7,14 @@
   code: 
   type: journal
 
+- title: A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code
+  author: Zhao Peng, Xi Fang, Pingkun Yan, Hongming Shan, Tianyu Liu, Xi Pei, Ge Wang, Bob Liu, Mannu Kalra, X George Xu
+  venue: Medical Physics, 2020
+  year: 2020
+  arxiv: 
+  url: https://arxiv.org/abs/1908.00360
+  code: 
+  type: journal
 
 - title: Shape and margin-aware lung nodule classification in low-dose CT images via soft activation mapping
   author: Yiming Lei, Yukun Tian, Hongming Shan, Junping Zhang, Ge Wang, Mannudeep K Kalra
@@ -373,6 +35,24 @@
   code: 
   type: journal
 
+
+- title: MRI Super-Resolution with Ensemble Learning and Complementary Priors
+  author: Qing Lyu, Hongming Shan, Ge Wang
+  venue: IEEE Transactions on Computational Imaging, 6, 615--624, 2020
+  year: 2020
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8950304/
+  code: 
+  type: journal
+
+- title: CT super-resolution GAN constrained by the identical, residual, and cycle learning ensemble (GAN-CIRCLE)
+  author: Chenyu You, Guang Li, Yi Zhang, Xiaoliu Zhang, Hongming Shan, Mengzhou Li, Shenghong Ju, Zhen Zhao, Zhuiyang Zhang, Wenxiang Cong, Michael W Vannier, Punam K Saha, Eric A Hoffman, Ge Wang
+  venue: IEEE Transactions on Medical Imaging, 39(1), 188--203, 2020
+  year: 2020
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8736838/
+  code: 
+  type: journal
 
 
 - title: A Framework for Least Squares Nonnegative Matrix Factorizations with Tikhonov Regularization
@@ -434,104 +114,6 @@
   type: journal
 
 
-- title: Quadratic neural networks for CT metal artifact reduction
-  author: Fenglei Fan, Hongming Shan, Lars Gjesteby, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111130W, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130W/Quadratic-neural-networks-for-CT-metal-artifact-reduction/10.1117/12.2530363.short
-  code: 
-  type: conference
-
-
-- title: Smoothing L0-and L1-Norm regularizers and their relations to non-local means for CT reconstruction
-  author: Yueyang Teng, Qing Guo, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111131M, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131M/Smoothing-L0--and-L1-Norm-regularizers-and-their-relations/10.1117/12.2530522.short
-  code: 
-  type: conference
-
-
-- title: Machine learning assisted interior phase contrast CT
-  author: Ohsung Oh, Ge Wang, Seung Wook Lee
-  venue: Developments in X-Ray Tomography XII, 11113, 111131R, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131R/Machine-learning-assisted-interior-phase-contrast-CT/10.1117/12.2530769.short
-  code: 
-  type: conference
-
-
-- title: Low-dose CT via deep CNN with skip connection and network-in-network
-  author: Chenyu You, Linfeng Yang, Yi Zhang, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111131W, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131W/Low-dose-CT-via-deep-CNN-with-skip-connection-and/10.1117/12.2534960.short
-  code: 
-  type: conference
-
-
-- title: Low-dose CT simulation with a generative adversarial network
-  author: Hongming Shan, Xun Jia, Klaus Mueller, Uwe Kruger, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111131F, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131F/Low-dose-CT-simulation-with-a-generative-adversarial-network/10.1117/12.2529698.short
-  code: 
-  type: conference
-
-- title: Simultaneous reconstruction of the initial pressure and sound speed in photoacoustic tomography using a deep-learning approach
-  author: Hongming Shan, Christopher Wiedeman, Ge Wang, Yang Yang
-  venue: Novel Optical Systems, Methods, and Applications XXII (Vol. 11105, p. 1110504). International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11105/1110504/Simultaneous-reconstruction-of-the-initial-pressure-and-sound-speed-in/10.1117/12.2529984.short
-  code: 
-  type: conference
-
-- title: Low-Dose CT via Deep CNN with Skip Connection and Network in Network
-  author: Chenyu You, Linfeng Yang, Yi Zhang, Ge Wang
-  venue: Developments in X-Ray Tomography XII (Vol. 11113, p. 111131W). International Society for Optics and Photonics, 2018
-  year: 2019
-  arxiv: https://arxiv.org/abs/1811.10564
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131W/Low-dose-CT-via-deep-CNN-with-skip-connection-and/10.1117/12.2534960.full?SSO=1
-  code: 
-  type: conference
-
-
-- title: Super-resolution MRI and CT through GAN-CIRCLE
-  author: Qing Lyu, Chenyu You, Hongming Shan, Yi Zhang, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111130X, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: https://arxiv.org/abs/1810.06776
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130X/Super-resolution-MRI-and-CT-through-GAN-CIRCLE/10.1117/12.2530592.short
-  code: 
-  type: conference
-
-
-- title: Deep-learning-based breast CT for radiation dose reduction
-  author: Wenxiang Cong, Hongming Shan, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111131L, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111131L/Deep-learning-based-breast-CT-for-radiation-dose-reduction/10.1117/12.2530234.short
-  code: 
-  type: conference
-
-
-- title: Dual network architecture for few-view CT -- trained on ImageNet data and transferred for medical imaging
-  author: Huidong Xie, Hongming Shan, Wenxiang Cong, Xiaohua Zhang, Shaohua Liu, Ruola Ning, Ge Wang
-  venue: Developments in X-Ray Tomography XII, 11113, 111130V, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11113/111130V/Dual-network-architecture-for-few-view-CT---trained/10.1117/12.2531198.short
-  code: 
-  type: conference
-
-
 - title: A New Iterative Algorithm for Ring Artifact Reduction in CT using Ring Total Variation
   author: Morteza Salehjahromi, Qian Wang, Yanbo Zhang, Lars A Gjesteby, Dan Harrison, Ge Wang, Peter M Edic, Hengyong Yu
   venue: Medical physics, 2019
@@ -550,18 +132,6 @@
   url: https://www.mdpi.com/2079-4991/9/8/1092
   code: 
   type: journal
-
-
-- title: Hybrid Neural Networks for Mortality Prediction from LDCT Images
-  author: Pingkun Yan, Hengtao Guo, Ge Wang, Ruben De Man, Mannudeep K Kalra
-  venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 6243-6246, IEEE, 2019
-  year: 2019
-  arxiv: https://arxiv.org/abs/1810.08503
-  url: https://ieeexplore.ieee.org/abstract/document/8857180/
-  code: 
-  type: conference
-
-
 
 
 
@@ -605,36 +175,6 @@
   type: journal
 
 
-- title: Non-uniformity correction for MARS photon-counting detectors
-  author: Matthew Getzin, Mengzhou Li, David S Rundle, Anthony P Butler, Ge Wang
-  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722W, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722W/Non-uniformity-correction-for-MARS-photon-counting-detectors/10.1117/12.2534914.short
-  code: 
-  type: conference
-
-
-- title: A novel transfer learning framework for low-dose CT
-  author: Hongming Shan, Uwe Kruger, Ge Wang
-  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722Y, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722Y/A-novel-transfer-learning-framework-for-low-dose-CT/10.1117/12.2534848.short
-  code: 
-  type: conference
-
-
-- title: Quadratic autoencoder for low-dose CT denoising
-  author: Fenglei Fan, Hongming Shan, Ge Wang
-  venue: 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 11072, 110722Z, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11072/110722Z/Quadratic-autoencoder-for-low-dose-CT-denoising/10.1117/12.2534908.short
-  code: 
-  type: conference
-
-
 - title: A roadmap for foundational research on artificial intelligence in medical imaging&#58 From the 2018 NIH/RSNA/ACR/The Academy Workshop
   author: Curtis P Langlotz, Bibb Allen, Bradley J Erickson, Jayashree Kalpathy-Cramer, Keith Bigelow, Tessa S Cook, Adam E Flanders, Matthew P Lungren, David S Mendelson, Jeffrey D Rudie, Ge Wang, Krishna Kandarpa
   venue: Radiology, 291(3), 781-791, 2019
@@ -665,26 +205,6 @@
   type: journal
 
 
-- title: A directional TV based ring artifact reduction method
-  author: Morteza Salehjahromi, Qian Wang, Lars A Gjesteby, Dan Harrison, Ge Wang, Hengyong Yu
-  venue: Medical Imaging 2019&#58 Physics of Medical Imaging, 10948, 109482C, International Society for Optics and Photonics, 2019
-  year: 2019
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10948/109482C/A-directional-TV-based-ring-artifact-reduction-method/10.1117/12.2513037.short
-  code: 
-  type: conference
-
-
-- title: Generative Low-Dose CT Image Denoising
-  author: Qingsong Yang, Pingkun Yan, Yanbo Zhang, Hengyong Yu, Yongyi Shi, Xuanqin Mou, Mannudeep K Kalra, Yi Zhang, Ling Sun, Ge Wang
-  venue: Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics, 277-297, Springer, Cham, 2019
-  year: 2019
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-3-030-13969-8_14
-  code: 
-  type: book
-
-
 - title: Accelerated Correction of Reflection Artifacts by Deep Neural Networks in Photo-Acoustic Tomography
   author: Hongming Shan, Ge Wang, Yang Yang
   venue: Applied Sciences, 9(13), 2615, 2019
@@ -701,27 +221,6 @@
   year: 2019
   arxiv: 
   url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13278
-  code: 
-  type: journal
-
-
-- title: 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2D Trained Network (vol 37, pg 1522, 2018)
-  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
-  venue: IEEE TRANSACTIONS ON MEDICAL IMAGING, 37(12), 2750-2750, 2018
-  year: 2018
-  arxiv: 
-  url: http://scholar.google.com/scholar?cluster=16631872686635949186&hl=en&oi=scholarr
-  code: 
-  type: journal
-
-
-
-- title: Structurally-sensitive multi-scale deep neural network for low-dose CT denoising
-  author: Chenyu You, Qingsong Yang, Hongming Shan, Lars Gjesteby, Guang Li, Shenghong Ju, Zhuiyang Zhang, Zhen Zhao, Yi Zhang, Wenxiang Cong, Ge Wang
-  venue: IEEE Access, 6, 41839-41855, 2018
-  year: 2018
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/8416740/
   code: 
   type: journal
 
@@ -806,6 +305,16 @@
   type: journal
 
 
+- title: 3-D convolutional encoder-decoder network for low-dose CT via transfer learning from a 2-D trained network
+  author: Hongming Shan, Yi Zhang, Qingsong Yang, Uwe Kruger, Mannudeep K Kalra, Ling Sun, Wenxiang Cong, Ge Wang
+  venue: IEEE transactions on medical imaging, 37(6), 1522-1534, 2018
+  year: 2018
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/8353466/
+  code: 
+  type: journal
+
+
 - title: Generalized backpropagation algorithm for training second‐order neural networks
   author: Fenglei Fan, Wenxiang Cong, Ge Wang
   venue: International journal for numerical methods in biomedical engineering, 34(5), e2956, 2018
@@ -814,16 +323,6 @@
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956
   code: 
   type: journal
-
-
-- title: Metal artifact reduction for radiation therapy&#58 a simulation study
-  author: Yannan Jin, Drosoula Giantsoudi, Lin Fu, Joost Verburg, Lars Gjesteby, Ge Wang, Harald Paganetti, Bruno De Man
-  venue: Medical Imaging 2018&#58 Physics of Medical Imaging, 10573, 105730Q, International Society for Optics and Photonics, 2018
-  year: 2018
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10573/105730Q/Metal-artifact-reduction-for-radiation-therapy-a-simulation-study/10.1117/12.2293840.short
-  code: 
-  type: conference
 
 
 - title: Radiomics in lung cancer&#58 Its time is here
@@ -882,16 +381,6 @@
   year: 2018
   arxiv: 
   url: https://www.hindawi.com/journals/jo/2018/1296246/abs/
-  code: 
-  type: journal
-
-
-- title: Deep Neural Network for CT Metal Artifact Reduction with a Perceptual Loss Function
-  author: Lars Gjesteby, Hongming Shan, Qingsong Yang, Yan Xi, Bernhard Claus, Yannan Jin, Bruno De Man, Ge Wang
-  venue: In Proceedings of The Fifth International Conference on Image Formation in X-ray Computed Tomography, 2018
-  year: 2018
-  arxiv: 
-  url: http://www.hmshan.io/papers/CT2018.pdf
   code: 
   type: journal
 
@@ -966,46 +455,6 @@
   type: journal
 
 
-- title: CT-MRI
-  author: James Bennett, Ge Wang
-  venue: Hybrid Imaging in Cardiovascular Medicine, 95-116, CRC Press, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.taylorfrancis.com/books/e/9781315374031/chapters/10.1201/9781315374031-5
-  code: 
-  type: book
-
-
-- title: Deep learning methods for CT image-domain metal artifact reduction
-  author: Lars Gjesteby, Qingsong Yang, Yan Xi, Hongming Shan, Bernhard Claus, Yannan Jin, Bruno De Man, Ge Wang
-  venue: Developments in X-Ray Tomography XI, 10391, 103910W, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910W/Deep-learning-methods-for-CT-image-domain-metal-artifact-reduction/10.1117/12.2274427.short
-  code: 
-  type: conference
-
-
-- title: Deep learning for low-dose CT
-  author: Hu Chen, Yi Zhang, Jiliu Zhou, Ge Wang
-  venue: Developments in X-Ray Tomography XI, 10391, 103910I, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910I/Deep-learning-for-low-dose-CT/10.1117/12.2272723.short
-  code: 
-  type: conference
-
-
-- title: Numerical study on simultaneous emission and transmission tomography in the MRI framework
-  author: Lars Gjesteby, Wenxiang Cong, Ge Wang
-  venue: Developments in X-Ray Tomography XI, 10391, 103910F, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103910F/Numerical-study-on-simultaneous-emission-and-transmission-tomography-in-the/10.1117/12.2272505.short
-  code: 
-  type: conference
-
-
 - title: Quest for the ultimate cardiac CT scanner
   author: Paul FitzGerald, Peter Edic, Hewei Gao, Yannan Jin, Jiao Wang, Ge Wang, Bruno De Man
   venue: Medical physics, 44(9), 4506-4524, 2017
@@ -1046,16 +495,6 @@
   type: journal
 
 
-- title: Low-dose CT denoising with convolutional neural network
-  author: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
-  venue: 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017), 143-146, IEEE, 2017
-  year: 2017
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/7950488/
-  code: 
-  type: conference
-
-
 - title: Model and reconstruction of a K-edge contrast agent distribution with an X-ray photon-counting detector
   author: Bo Meng, Wenxiang Cong, Yan Xi, Bruno De Man, Jian Yang, Ge Wang
   venue: Optics Express, 25(8), 9378-9392, 2017
@@ -1064,6 +503,7 @@
   url: https://www.osapublishing.org/abstract.cfm?uri=oe-25-8-9378
   code: 
   type: journal
+
 
 
 
@@ -1077,16 +517,6 @@
   type: journal
 
 
-- title: Deep learning methods to guide CT image reconstruction and reduce metal artifacts
-  author: Lars Gjesteby, Qingsong Yang, Yan Xi, Ye Zhou, Junping Zhang, Ge Wang
-  venue: Medical Imaging 2017&#58 Physics of Medical Imaging, 10132, 101322W, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10132/101322W/Deep-learning-methods-to-guide-CT-image-reconstruction-and-reduce/10.1117/12.2254091.short
-  code: 
-  type: conference
-
-
 - title: New concept on an integrated interior magnetic resonance imaging and medical linear accelerator system for radiation therapy
   author: Xun Jia, Zhen Tian, Yan Xi, Steve B Jiang, Ge Wang
   venue: Journal of Medical Imaging, 4(1), 015004, 2017
@@ -1095,26 +525,6 @@
   url: https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-4/issue-1/015004/New-concept-on-an-integrated-interior-magnetic-resonance-imaging-and/10.1117/1.JMI.4.1.015004.short
   code: 
   type: journal
-
-
-- title: Characteristic performance investigation of a photon counting detector for X-ray fluorescence imaging applications
-  author: Liqiang Ren, Muhammad U Ghani, Di Wu, Yuhua Li, Wei R Chen, Ge Wang, Bin Zheng, Hong Liu
-  venue: Biophotonics and Immune Responses XII, 10065, 100650L, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10065/100650L/Characteristic-performance-investigation-of-a-photon-counting-detector-for-x/10.1117/12.2253008.full?sessionGUID=883c9d90-2bc9-993c-ed26-8bead49a2853&webSyncID=ce46e9e6-ec7a-49da-b6a0-cbad059329ad&sessionGUID=883c9d90-2bc9-993c-ed26-8bead49a2853
-  code: 
-  type: conference
-
-
-- title: New contrasts for x-ray imaging and synergy with optical imaging
-  author: Ge Wang
-  venue: Multimodal Biomedical Imaging XII, 10057, 100570K, International Society for Optics and Photonics, 2017
-  year: 2017
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10057/100570K/New-contrasts-for-x-ray-imaging-and-synergy-with-optical/10.1117/12.2261456.short
-  code: 
-  type: conference
 
 
 - title: Low-dose CT via convolutional neural network
@@ -1137,16 +547,6 @@
   type: journal
 
 
-- title: Low-dose CT restoration with deep neural network
-  author: Hu Chen, Yi Zhang, Weihua Zhang, Peixi Liao, Ke Li, Jiliu Zhou, Ge Wang
-  venue: Proc. 14th Int. Meeting Fully Three-Dimensional Image Reconstruction Radiol. Nucl. Med., 25-28, 2017
-  year: 2017
-  arxiv: 
-  url: http://onlinelibrary.fully3d.org/papers/2017/Fully3D.2017-11-3202013.pdf
-  code: 
-  type: conference
-
-
 - title: Reducing metal streak artifacts in CT images via deep learning&#58 Pilot results
   author: Lars Gjesteby, Qingsong Yang, Yan Xi, Bernhard Claus, Yannan Jin, B De Man, Ge Wang
   venue: The 14th international meeting on fully three-dimensional image reconstruction in radiology and nuclear medicine, 14(6), 611-614, 2017
@@ -1155,16 +555,6 @@
   url: https://pdfs.semanticscholar.org/1134/caf27f52cf608c1144e87bfbab214da68ac4.pdf
   code: 
   type: journal
-
-
-- title: Metal-artifact reduction using deep-learning based Sinogram completion&#58 Initial results
-  author: Bernhard EH Claus, Yannan Jin, Lars A Gjesteby, Ge Wang, Bruno De Man
-  venue: Proc. 14th Int. Meeting Fully Three-Dimensional Image Reconstruction Radiol. Nucl. Med., 631-634, 2017
-  year: 2017
-  arxiv: 
-  url: https://pdfs.semanticscholar.org/8895/2d8bcc1730e6185ddb551305b6d6b2a6a2b4.pdf
-  code: 
-  type: conference
 
 
 - title: Enhancing transferability of features from pretrained deep neural networks for lung nodule classification
@@ -1227,26 +617,6 @@
   type: journal
 
 
-- title: Image guided onco-histology with Tri-contrast, super-high-resolution x-ray CT for rapid tumor characterization and margin delineation
-  author: Wenbing Yun, Mannudeep Kalra, James Michaelson, Janos Kirz, Sylvia J Lewis, Wenxiang Cong, Qingsong Yang, Ge Wang
-  venue: SPIE Optical Engineering+ Applications, 99671F-99671F-10, International Society for Optics and Photonics, 2016
-  year: 2016
-  arxiv: 
-  url: 
-  code: 
-  type: conference
-
-
-- title: Innovation and fusion of x-ray and optical tomography for mouse studies of breast cancer
-  author: Ge Wang, Wenxiang Cong, Qingsong Yang, Qi Pian, Shouping Zhu, Jimin Liang, Margarida Barroso, Xavier Intes
-  venue: Developments in X-Ray Tomography X, 9967, 99671R, International Society for Optics and Photonics, 2016
-  year: 2016
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9967/99671R/Innovation-and-fusion-of-x-ray-and-optical-tomography-for/10.1117/12.2238188.short
-  code: 
-  type: conference
-
-
 - title: A framelet-based iterative maximum-likelihood reconstruction algorithm for spectral CT
   author: Yingmei Wang, Ge Wang, Shuwei Mao, Wenxiang Cong, Zhilong Ji, Jian-Feng Cai, Yangbo Ye
   venue: Inverse Problems, 32(11), 115021, 2016
@@ -1255,36 +625,6 @@
   url: https://iopscience.iop.org/article/10.1088/0266-5611/32/11/115021/meta
   code: 
   type: journal
-
-
-- title: Interior tomography from differential phase contrast data via Hilbert transform based on spline functions
-  author: Qingsong Yang, Wenxiang Cong, Ge Wang
-  venue: Developments in X-Ray Tomography X, 9967, 996709, International Society for Optics and Photonics, 2016
-  year: 2016
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9967/996709/Interior-tomography-from-differential-phase-contrast-data-via-Hilbert-transform/10.1117/12.2237818.short
-  code: 
-  type: conference
-
-
-- title: X-ray interior tensor tomography with 2D gratings
-  author: Mianyi Chen, Qingsong Yang, Wenxiang Cong, Biao Wei, Ge Wang
-  venue: Developments in X-Ray Tomography X, 9967, 99670Y, International Society for Optics and Photonics, 2016
-  year: 2016
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9967/99670Y/X-ray-interior-tensor-tomography-with-2D-gratings/10.1117/12.2238408.short
-  code: 
-  type: conference
-
-
-- title: Enhancing spatial resolution for spectral μCT with aperture encoding
-  author: Matthew Getzin, Tianyu Liu, Qingsong Yang, Mianyi Chen, Wenxiang Cong, George Xu, Ge Wang
-  venue: Developments in X-Ray Tomography X, 9967, 99670W, International Society for Optics and Photonics, 2016
-  year: 2016
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9967/99670W/Enhancing-spatial-resolution-for-spectral-uCT-with-aperture-encoding/10.1117/12.2237840.short
-  code: 
-  type: conference
 
 
 - title: Convex hull aided registration method (charm)
@@ -1545,35 +885,6 @@
 
 
 
-- title: Low-field designs for interior MRI and CT coupling
-  author: Lars Gjesteby, Matthew Getzin, Ge Wang
-  venue: 2015 41st Annual Northeast Biomedical Engineering Conference (NEBEC), 1-2, IEEE, 2015
-  year: 2015
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/7117165/
-  code: 
-  type: conference
-
-
-- title: Material decomposition with dual energy CT
-  author: Qingsong Yang, Wenxiang Cong, Ge Wang
-  venue: 2015 41st Annual Northeast Biomedical Engineering Conference (NEBEC), 1-2, IEEE, 2015
-  year: 2015
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/7117206/
-  code: 
-  type: conference
-
-
-- title: Spectral CT reconstruction using image sparsity and spectral correlation
-  author: Yi Zhang, Yan Xi, Qingsong Yang, Wenxiang Cong, Jiliu Zhou, Ge Wang
-  venue: 2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI), 1600-1603, IEEE, 2015
-  year: 2015
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/7164186/
-  code: 
-  type: conference
-
 
 - title: Energy window optimization for X-ray K-edge tomographic imaging
   author: Bo Meng, Wenxiang Cong, Yan Xi, Bruno De Man, Ge Wang
@@ -1657,26 +968,6 @@
   type: journal
 
 
-- title: A Multi-parameter Joint Demodulation Algorithm Based on Alternating Projection
-  author: Ge Wang, Peijie Zhang, Wei Liu
-  venue: Proceedings of the 27th Conference of Spacecraft TT&C Technology in China, 199-209, Springer, Berlin, Heidelberg, 2015
-  year: 2015
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-3-662-44687-4_18
-  code: 
-  type: book
-
-
-- title: Dictionary learning based low-dose X-ray CT reconstruction
-  author: Qiong Xu, Hengyong Yu, Ge Wang, Xuanqin Mou
-  venue: Frontiers of Medical Imaging, 99-119, 2015
-  year: 2015
-  arxiv: 
-  url: https://www.worldscientific.com/doi/abs/10.1142/9789814611107_0006
-  code: 
-  type: book
-
-
 - title: Unsupervised deconvolution of dynamic imaging reveals intratumor vascular heterogeneity and repopulation dynamics
   author: Li Chen, Peter L Choyke, Niya Wang, Robert Clarke, Zaver M Bhujwalla, Elizabeth MC Hillman, Ge Wang, Yue Wang
   venue: PloS one, 9(11), e112143, 2014
@@ -1715,56 +1006,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/6905825/
   code: 
   type: journal
-
-
-- title: Image reconstruction for x-ray K-edge imaging with a photon counting detector
-  author: Bo Meng, Wenxiang Cong, Yan Xi, Ge Wang
-  venue: Developments in X-Ray Tomography IX, 9212, 921219, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9212/921219/Image-reconstruction-for-x-ray-K-edge-imaging-with-a/10.1117/12.2061392.short
-  code: 
-  type: conference
-
-
-- title: Carotid plaque characterization using CT and MRI scans for synergistic image analysis
-  author: Matthew Getzin, Yiqin Xu, Arhant Rao, Saaussan Madi, Ali Bahadur, Michelle R Lennartz, Ge Wang
-  venue: Developments in X-Ray Tomography IX, 9212, 92121B, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9212/92121B/Carotid-plaque-characterization-using-CT-and-MRI-scans-for-synergistic/10.1117/12.2062144.short
-  code: 
-  type: conference
-
-
-- title: Second order x-ray in-line phase-contrast imaging
-  author: Wenxiang Cong, Ge Wang
-  venue: Developments in X-Ray Tomography IX, 9212, 92120T, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9212/92120T/Second-order-x-ray-in-line-phase-contrast-imaging/10.1117/12.2062077.short
-  code: 
-  type: conference
-
-
-- title: Dictionary learning based low-dose x-ray CT reconstruction using a balancing principle
-  author: Xuanqin Mou, Junfeng Wu, Ti Bai, Qiong Xu, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography IX, 9212, 921207, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9212/921207/Dictionary-learning-based-low-dose-x-ray-CT-reconstruction-using/10.1117/12.2065459.short
-  code: 
-  type: conference
-
-
-- title: Total variation minimization-based multimodality medical image reconstruction
-  author: Xuelin Cui, Hengyong Yu, Ge Wang, Lamine Mili
-  venue: Developments in X-Ray Tomography IX, 9212, 92121D, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9212/92121D/Total-variation-minimization-based-multimodality-medical-image-reconstruction/10.1117/12.2062602.short
-  code: 
-  type: conference
 
 
 - title: Stored luminescence computed tomography
@@ -1867,66 +1108,6 @@
   type: journal
 
 
-- title: X-ray fan-beam luminescence tomography
-  author: Wenxiang Cong, Ge Wang
-  venue: 2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI), 1164-1167, IEEE, 2014
-  year: 2014
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6868082/
-  code: 
-  type: conference
-
-
-- title: TOP-level designs of a hybrid low field MRI-CT system for pulmonary imaging
-  author: Venkata R Yelleswarapu, Fenglin Liu, Wenxiang Cong, Ge Wang
-  venue: 2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI), 975-978, IEEE, 2014
-  year: 2014
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6868035/
-  code: 
-  type: conference
-
-
-- title: High Resolution Fluorescence Laminar Optical Tomography Based on lp-Norm Regularization
-  author: Fugang Yang, Wenxiang Cong, Mehmet S Ozturk, Ge Wang, Xavier Intes
-  venue: Biomedical Optics, BM3A. 41, Optical Society of America, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.osapublishing.org/abstract.cfm?uri=BIOMED-2014-BM3A.41
-  code: 
-  type: conference
-
-
-- title: Compressive Sensing based Reconstruction for Early Time-gate Fluorescence Molecular Tomography
-  author: Lingling Zhao, He Yang, Wenxiang Cong, Ge Wang, Xavier Intes
-  venue: Biomedical Optics, BM3A. 37, Optical Society of America, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.osapublishing.org/abstract.cfm?uri=BIOMED-2014-BM3A.37
-  code: 
-  type: conference
-
-
-- title: Dictionary learning based image reconstruction for spectral CT
-  author: Qiong Xu, Hengyong Yu, Xuanqin Mou, Ge Wang
-  venue: Proc. IEEE Int. Symp. Biomed. Imag.(ISBI), 2014
-  year: 2014
-  arxiv: 
-  url: http://scholar.google.com/scholar?cluster=1994740461910084472&hl=en&oi=scholarr
-  code: 
-  type: conference
-
-
-- title: Rotating and semi-stationary multi-beamline architecture study for cardiac CT imaging
-  author: Jiao Wang, Paul Fitzgerald, Hewei Gao, Yannan Jin, Ge Wang, Bruno De Man
-  venue: Medical Imaging 2014&#58 Physics of Medical Imaging, 9033, 90335Q, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9033/90335Q/Rotating-and-semi-stationary-multi-beamline-architecture-study-for-cardiac/10.1117/12.2043680.short
-  code: 
-  type: conference
-
-
 - title: X-ray micro-modulated luminescence tomography (XMLT)
   author: Wenxiang Cong, Fenglin Liu, Chao Wang, Ge Wang
   venue: Optics express, 22(5), 5572-5580, 2014
@@ -1957,26 +1138,6 @@
   type: journal
 
 
-- title: High resolution 3D image reconstruction in laminar optical tomography based on compressive sensing
-  author: Fugang Yang, Mehmet S Ozturk, Wenxiang Cong, Ge Wang, Xavier Intes
-  venue: Multimodal Biomedical Imaging IX, 8937, 89370R, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8937/89370R/High-resolution-3D-image-reconstruction-in-laminar-optical-tomography-based/10.1117/12.2037890.short
-  code: 
-  type: conference
-
-
-- title: Comparison of lp-regularization-based reconstruction methods for time domain fluorescence molecular tomography on early time gates
-  author: Lingling Zhao, He Yang, Wenxiang Cong, Ge Wang, Xavier Intes
-  venue: Multimodal Biomedical Imaging IX, 8937, 89370V, International Society for Optics and Photonics, 2014
-  year: 2014
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8937/89370V/Comparison-of-lsubp-sub-regularization-based-reconstruction-methods-for-time/10.1117/12.2038662.short
-  code: 
-  type: conference
-
-
 - title: Reconstruction algorithms
   author: Liang Li, Zhiqiang Chen, Ge Wang
   venue: Cone Beam Computed Tomography, 21, 2014
@@ -1985,7 +1146,6 @@
   url: https://content.taylorfrancis.com/books/e/download?dac=C2010-0-32292-4&isbn=9781439846278&doi=10.1201/b16465-10&format=pdf
   code: 
   type: journal
-
 
 
 
@@ -2012,7 +1172,7 @@
 
 - title: X-ray fluorescence computed tomography with polycapillary focusing
   author: Wenxiang Cong, Yan Xi, Ge Wang
-  venue: IEEE Access, 2, 1138-1142, 2014
+  venue: Ieee Access, 2, 1138-1142, 2014
   year: 2014
   arxiv: 
   url: https://ieeexplore.ieee.org/abstract/document/6919257/
@@ -2022,7 +1182,7 @@
 
 - title: SART-type half-threshold filtering approach for CT reconstruction
   author: Hengyong Yu, Ge Wang
-  venue: IEEE Access, 2, 602-613, 2014
+  venue: Ieee Access, 2, 602-613, 2014
   year: 2014
   arxiv: 
   url: https://ieeexplore.ieee.org/abstract/document/6819396/
@@ -2080,16 +1240,6 @@
   type: journal
 
 
-- title: Preclinical Optical Molecular Imaging
-  author: Yujie Lu, Ge Wang
-  venue: Molecular Imaging of Small Animals, 241-273, Springer New York, 2014
-  year: 2014
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-1-4939-0894-3_8
-  code: 
-  type: book
-
-
 - title: Analytic comparison between x-ray fluorescence CT and K-edge CT
   author: Peng Feng, Wenxiang Cong, Biao Wei, Ge Wang
   venue: IEEE Transactions on Biomedical Engineering, 61(3), 975-985, 2013
@@ -2098,26 +1248,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/6680680/
   code: 
   type: journal
-
-
-- title: Spectral CT imaging with hybrid detectors in integrating and dynamic-threshold counting modes
-  author: Liang Li, Jiyang Chu, Shigeng Li, Zhiqiang Chen, Wenxiang Cong, Ge Wang
-  venue: 2013 IEEE Nuclear Science Symposium and Medical Imaging Conference (2013 NSS/MIC), 1-4, IEEE, 2013
-  year: 2013
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6829300/
-  code: 
-  type: conference
-
-
-- title: Spectrography for 3D analysis from a single spectral view
-  author: Yan Xi, Jun Zhao, Xiaojing Huang, Hengyong Yu, Yuxin Wang, Ge Wang
-  venue: Ultrafast Imaging and Spectroscopy, 8845, 88450I, International Society for Optics and Photonics, 2013
-  year: 2013
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8845/88450I/Spectrography-for-3D-analysis-from-a-single-spectral-view/10.1117/12.2023464.short
-  code: 
-  type: conference
 
 
 - title: Combination of current-integrating/photon-counting detector modules for spectral CT
@@ -2380,96 +1510,6 @@
   type: journal
 
 
-- title: Multi-energy CT reconstruction based on low rank and sparsity with the split-bregman method (MLRSS)
-  author: Jiyang Chu, Liang Li, Zhiqiang Chen, Ge Wang, Hao Gao
-  venue: 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC), 2411-2414, IEEE, 2012
-  year: 2012
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6551548/
-  code: 
-  type: conference
-
-
-- title: A reweighted total variation minimization method for few view CT reconstruction in the instant CT
-  author: Zhiqiang Chen, Ming Chang, Liang Li, Yongshun Xiao, Ge Wang
-  venue: 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC), 2362-2365, IEEE, 2012
-  year: 2012
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6551537/
-  code: 
-  type: conference
-
-
-- title: Motion registration and correction based iterative reconstruction method for instant CT
-  author: Ming Chang, Liang Li, Zhiqiang Chen, Yongshun Xiao, Ge Wang
-  venue: 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC), 2366-2369, IEEE, 2012
-  year: 2012
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/6551538/
-  code: 
-  type: conference
-
-
-- title: Stereo-imaging towards spectrography for 3D analysis from a single spectral view
-  author: Yan Xi, Ge Wang, Hengyong Yu, Yuxin Wang, Jun Zhao
-  venue: Developments in X-Ray Tomography VIII, 8506, 85061X, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/85061X/Stereo-imaging-towards-spectrography-for-3D-analysis-from-a-single/10.1117/12.934819.short
-  code: 
-  type: conference
-
-
-- title: A new CT architecture with stationary X-ray sources
-  author: Guohua Cao, Baodong Liu, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography VIII, 8506, 850613, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/850613/A-new-CT-architecture-with-stationary-x-ray-sources/10.1117/12.930571.short
-  code: 
-  type: conference
-
-
-- title: Unified dual-modality image reconstruction with dual dictionaries
-  author: Yang Lu, Jun Zhao, Tiange Zhuang, Ge Wang
-  venue: Developments in X-Ray Tomography VIII, 8506, 85061V, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/85061V/Unified-dual-modality-image-reconstruction-with-dual-dictionaries/10.1117/12.932246.short
-  code: 
-  type: conference
-
-
-- title: High order total variation method for interior tomography
-  author: Jiansheng Yang, Hengyong Yu, Wenxiang Cong, Ming Jiang, Ge Wang
-  venue: Developments in X-Ray Tomography VIII, 8506, 85061B, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/85061B/High-order-total-variation-method-for-interior-tomography/10.1117/12.929123.short
-  code: 
-  type: conference
-
-
-- title: Orthogonal-rotating tetrahedral scanning for cone-beam CT
-  author: B Ye Ivan, Ge Wang
-  venue: Developments in X-Ray Tomography VIII, 8506, 850611, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/850611/Orthogonal-rotating-tetrahedral-scanning-for-cone-beam-CT/10.1117/12.929179.short
-  code: 
-  type: conference
-
-
-- title: Spectrography&#58 volumetric reconstruction from one or two spectral views
-  author: Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography VIII, 8506, 85061Y, International Society for Optics and Photonics, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8506/85061Y/Spectrography-volumetric-reconstruction-from-one-or-two-spectral-views/10.1117/12.939471.short
-  code: 
-  type: conference
-
-
 - title: Assessment of morphometry of pulmonary acini in mouse lungs by nondestructive imaging using multiscale microcomputed tomography
   author: Dragoş M Vasilescu, Zhiyun Gao, Punam K Saha, Leilei Yin, Ge Wang, Beatrice Haefeli-Bleuer, Matthias Ochs, Ewald R Weibel, Eric A Hoffman
   venue: Proceedings of the National Academy of Sciences, 109(42), 17105-17110, 2012
@@ -2510,16 +1550,6 @@
   type: journal
 
 
-- title: Residual strength analysis for rapid response damage assessment (RRDA) of steel ship structures
-  author: AiKuo Lee, Eric VanDerHorn, Ge Wang
-  venue: ASME 2012 31st International Conference on Ocean, Offshore and Arctic Engineering, 491-502, American Society of Mechanical Engineers, 2012
-  year: 2012
-  arxiv: 
-  url: https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2012/44892/491/268770
-  code: 
-  type: conference
-
-
 - title: Towards omni-tomography—grand fusion of multiple modalities for simultaneous interior tomography
   author: Ge Wang, Jie Zhang, Hao Gao, Victor Weir, Hengyong Yu, Wenxiang Cong, Xiaochen Xu, Haiou Shen, James Bennett, Mark Furth, Yue Wang, Michael Vannier
   venue: PloS one, 7(6), e39700, 2012
@@ -2528,16 +1558,6 @@
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387257/
   code: 
   type: journal
-
-
-- title: A Nondestructive Fiber-Based Imaging System to Assess Tissue-Engineered Vascular Grafts
-  author: Bryce M Whited, Matthias C Hofmann, Peng Lu, Christopher G Rylander, Shay Soker, Ge Wang, Yong Xu, Marissa Nichole Rylander
-  venue: ASME 2012 Summer Bioengineering Conference, 493-494, American Society of Mechanical Engineers, 2012
-  year: 2012
-  arxiv: 
-  url: https://asmedigitalcollection.asme.org/SBC/proceedings-abstract/SBC2012/44809/493/333687
-  code: 
-  type: conference
 
 
 - title: Scanning-fiber-based imaging method for tissue engineering
@@ -2640,16 +1660,6 @@
   type: journal
 
 
-- title: Medical Imaging
-  author: Ge Wang, Alex Cong, Hao Gao, Jie Zhang, Victor J Weir, Xiaochen Xu, James Bennett
-  venue: Handbook of Research on Biomedical Engineering Education and Advanced Bioengineering Learning&#58 Interdisciplinary Concepts, 634-712, IGI Global, 2012
-  year: 2012
-  arxiv: 
-  url: https://www.igi-global.com/chapter/content/63403
-  code: 
-  type: book
-
-
 - title: TV-based image reconstruction of multiple objects in a fixed source-detector geometry
   author: Yang Lu, Zhenyu Yang, Jun Zhao, Ge Wang
   venue: Journal of X-ray Science and Technology, 20(3), 277-289, 2012
@@ -2688,16 +1698,6 @@
   url: https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst00329
   code: 
   type: journal
-
-
-- title: Dose Reduction on Computed Tomography Angiography Using Adaptive Control Techniques
-  author: Zhijun Cai, Er-Wei Bai, Ge Wang
-  venue: Computed Tomography-Clinical Applications, InTech, 2012
-  year: 2012
-  arxiv: 
-  url: http://books.google.com/books?hl=en&lr=&id=xnSfDwAAQBAJ&oi=fnd&pg=PA331&dq=info:uusxnHPD7Z4J:scholar.google.com&ots=BuoHpg_bho&sig=AhMWReac0-hbLAAYPvj0jWfgac4
-  code: 
-  type: book
 
 
 - title: Finite detector based projection model for high spatial resolution
@@ -2820,26 +1820,6 @@
   type: journal
 
 
-- title: Non-Destructive Real-Time Imaging of Cell Seeded Tissue Engineered Scaffolds
-  author: Bryce M Whited, Matthias C Hofmann, Chris G Rylander, Aaron S Goldstein, Joseph W Freeman, Mark Furth, Shay Soker, Ge Wang, Yong Xu, Marissa N Rylander
-  venue: ASME 2011 Summer Bioengineering Conference, 361-362, American Society of Mechanical Engineers, 2011
-  year: 2011
-  arxiv: 
-  url: https://asmedigitalcollection.asme.org/SBC/proceedings-abstract/SBC2011/54587/361/290859
-  code: 
-  type: conference
-
-
-- title: Non-destructive real-time imaging of cell morphology for tissue-engineering applications
-  author: Matthias C Hofmann, Bryce M Whited, Aaron S Goldstein, Joseph W Freeman, Marissa Nichole Rylander, Chris Rylander, Mark Furth, Ge Wang, Shay Soker, Yong Xu
-  venue: 2011 10th Euro-American Workshop on Information Optics, 1-3, IEEE, 2011
-  year: 2011
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/5981465/
-  code: 
-  type: conference
-
-
 - title: Spectrally resolving and scattering-compensated x-ray luminescence/fluorescence computed tomography
   author: Wenxiang Cong, Haiou Shen, Ge Wang
   venue: Journal of biomedical optics, 16(6), 066014, 2011
@@ -2890,16 +1870,6 @@
   type: journal
 
 
-- title: Biomedical imaging and image processing in tissue engineering
-  author: Haiou Shen, Aaron S Goldstein, Ge Wang
-  venue: Tissue Engineering, 155-178, Springer Berlin Heidelberg, 2011
-  year: 2011
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-3-642-02824-3_9
-  code: 
-  type: book
-
-
 - title: Speedup performance analysis of parallel Katsevich algorithm for 3D CT image reconstruction
   author: Jun Ni, Junjun Deng, Tao He, Hengyong Yu, Ge Wang
   venue: International Journal of Computational Science and Engineering, 6(3), 151-159, 2011
@@ -2918,16 +1888,6 @@
   url: https://www.osapublishing.org/abstract.cfm?uri=boe-2-1-44
   code: 
   type: journal
-
-
-- title: Adaptive bolus chasing Computed Tomography Angiography&#58 Modeling, identification, control and experimental results
-  author: Zhijun Cai, Er-Wei Bai, Ge Wang
-  venue: 49th IEEE Conference on Decision and Control (CDC), 3397-3402, IEEE, 2010
-  year: 2010
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/5717608/
-  code: 
-  type: conference
 
 
 - title: Development of a Novel Imaging-Bioreactor System Based on Holey Scaffolds
@@ -2960,16 +1920,6 @@
   type: journal
 
 
-- title: Recent progress in local reconstruction
-  author: Hengyong Yu, Qiong Xu, Xuanqin Mou, Ge Wang
-  venue: Developments in X-Ray Tomography VII, 7804, 78040V, International Society for Optics and Photonics, 2010
-  year: 2010
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7804/78040V/Recent-progress-in-local-reconstruction/10.1117/12.859772.short
-  code: 
-  type: conference
-
-
 - title: On a Derivative-Free Fan-Beam Reconstruction Formula
   author: Ge Wang, Yuchuan Wei
   venue: IEEE Transactions on Image Processing, 20(4), 1173-1176, 2010
@@ -2978,16 +1928,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/5580069/
   code: 
   type: journal
-
-
-- title: Overview of multisource CT systems and methods
-  author: Jun Zhao, Yang Lu, Tiange Zhuang, Ge Wang
-  venue: Developments in X-Ray Tomography VII, 7804, 78040H, International Society for Optics and Photonics, 2010
-  year: 2010
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7804/78040H/Overview-of-multisource-CT-systems-and-methods/10.1117/12.860307.short
-  code: 
-  type: conference
 
 
 - title: Differential evolution approach for regularized bioluminescence tomography
@@ -3209,20 +2149,6 @@
   code: 
   type: journal
 
-
-- title: A new control strategy for stand-alone fuel cell-battery hybrid power supply system
-  author: Vadim Zheglov, Wenzhong Gao, Eduard Muljadi, Ge Wang
-  venue: Power & Energy Society General Meeting, 2009. PES'09. IEEE, 1-6, IEEE, 2009
-  year: 2009
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/5275277/
-  code: 
-  type: conference
-
-
-
-
-
 - title: An integrated solution and analysis of bioluminescence tomography and diffuse optical tomography
   author: Weimin Han, Wenxiang Cong, Kamran Kazmi, Ge Wang
   venue: Communications in numerical methods in engineering, 25(6), 639-656, 2009
@@ -3241,16 +2167,6 @@
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.1206
   code: 
   type: journal
-
-
-- title: Multiscale 3D Bioimaging&#58 from cell, tissue to whole organism
-  author: SH Lau, Ge Wang, Margam Chandrasekeran, Victor Fan, Mohd Nazrul, Hauyee Chang, Tiffany Fong, Jeff Gelb, Michael Feser, Wenbing Yun
-  venue: Scanning Microscopy 2009, 7378, 73781V, International Society for Optics and Photonics, 2009
-  year: 2009
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7378/73781V/Multiscale-3D-bioimaging-from-cell-tissue-to-whole-organism/10.1117/12.828043.short
-  code: 
-  type: conference
 
 
 - title: Cardiac computed tomography radiation dose reduction using interior reconstruction algorithm with the aorta and vertebra as known information
@@ -3301,16 +2217,6 @@
   url: https://www.sciencedirect.com/science/article/pii/S1076633208005266
   code: 
   type: journal
-
-
-- title: Exact and stable interior ROI reconstruction for radial MRI
-  author: Jie Zhang, Hengyong Yu, Curt Corum, Michael Garwood, Ge Wang
-  venue: Medical Imaging 2009&#58 Physics of Medical Imaging, 7258, 72585G, International Society for Optics and Photonics, 2009
-  year: 2009
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7258/72585G/Exact-and-stable-interior-ROI-reconstruction-for-radial-MRI/10.1117/12.812035.short
-  code: 
-  type: conference
 
 
 - title: Studies of a mathematical model for temperature-modulated bioluminescence tomography
@@ -3411,56 +2317,6 @@
   url: https://www.sciencedirect.com/science/article/pii/S1746809408000335
   code: 
   type: journal
-
-
-- title: X-ray phase-contrast imaging with 2D grating interferometry
-  author: Ming Jiang, Christopher Lee Wyatt, Ge Wang
-  venue: Developments in X-Ray Tomography VI, 7078, 707816, International Society for Optics and Photonics, 2008
-  year: 2008
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7078/707816/X-ray-phase-contrast-imaging-with-2D-grating-interferometry/10.1117/12.794069.short
-  code: 
-  type: conference
-
-
-- title: Exact image reconstruction for triple-source cone-beam CT along saddle trajectories
-  author: Yang Lu, Jun Zhao, Ge Wang
-  venue: Developments in X-Ray Tomography VI, 7078, 70780K, International Society for Optics and Photonics, 2008
-  year: 2008
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7078/70780K/Exact-image-reconstruction-for-triple-source-cone-beam-CT-along/10.1117/12.793716.short
-  code: 
-  type: conference
-
-
-- title: Investigation of helix-saddle trajectories for cone-beam CT
-  author: Yang Lu, Jun Zhao, Erwei Bai, Ge Wang
-  venue: Developments in X-Ray Tomography Vi, 7078, 70780I, International Society for Optics and Photonics, 2008
-  year: 2008
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7078/70780I/Investigation-of-helix-saddle-trajectories-for-cone-beam-CT/10.1117/12.793728.short
-  code: 
-  type: conference
-
-
-- title: Determination of the exact reconstruction region in the cone-beam composite-circling mode
-  author: Lena Ye, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography VI, 7078, 70780J, International Society for Optics and Photonics, 2008
-  year: 2008
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7078/70780J/Determination-of-the-exact-reconstruction-region-in-the-cone-beam/10.1117/12.791284.short
-  code: 
-  type: conference
-
-
-- title: Interior tomography&#58 Theory, algorithms and applications
-  author: Hengyong Yu, Yangbo Ye, Ge Wang
-  venue: Developments in X-Ray Tomography VI, 7078, 70780F, International Society for Optics and Photonics, 2008
-  year: 2008
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7078/70780F/Interior-tomography-theory-algorithms-and-applications/10.1117/12.794981.short
-  code: 
-  type: conference
 
 
 - title: A filtered backprojection algorithm for triple-source helical cone-beam CT
@@ -3663,16 +2519,6 @@
   type: journal
 
 
-- title: Erratum&#58“A unified framework for exact cone‐beam reconstruction formulas”
-  author: Shiying Zhao, Hengyong Yu, Ge Wang
-  venue: Medical Physics, 34(12), 4979-4980, 2007
-  year: 2007
-  arxiv: 
-  url: https://pdfs.semanticscholar.org/2dba/4cd218fcae0a4974ad838d28507dcf8aef57.pdf
-  code: 
-  type: journal
-
-
 - title: Digital tomosynthesis aided by low-resolution exact computed tomography
   author: Kai Zeng, Hengyong Yu, Shiying Zhao, Laurie Lee Fajardo, Christopher Ruth, Zhenxue Jing, Ge Wang
   venue: Journal of computer assisted tomography, 31(6), 976-983, 2007
@@ -3761,26 +2607,6 @@
   url: https://www.sciencedirect.com/science/article/pii/S1076633207000025
   code: 
   type: journal
-
-
-- title: A MULTI-SCALE METHOD FOR BIOLUMINESCENCE TOMOGRAPHY USING MULTIPLE TYPES OF A PRIORI INFORMATION
-  author: Yujie Lv, Jie Tian, Wei Yang, Chenghu Qin, Wenxiang Cong, Ge Wang
-  venue: 2007 4th IEEE International Symposium on Biomedical Imaging&#58 From Nano to Macro, 816-819, IEEE, 2007
-  year: 2007
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4193411/
-  code: 
-  type: conference
-
-
-- title: 3D bioluminescent source localization of different depths with spectrum information and adaptive finite element analysis
-  author: Yujie Lv, Jie Tian, Wenxiang Cong, Ge Wang, Wei Yang, Min Xu
-  venue: Medical Imaging 2007&#58 Physics of Medical Imaging, 6510, 651025, International Society for Optics and Photonics, 2007
-  year: 2007
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6510/651025/3D-bioluminescent-source-localization-of-different-depths-with-spectrum-information/10.1117/12.709018.short
-  code: 
-  type: conference
 
 
 - title: Numerical study on the validity of the diffusion approximation for computational optical biopsy
@@ -3963,16 +2789,6 @@
   type: journal
 
 
-- title: A general exact method for synthesizing parallel-beam projections from cone-beam projections by filtered backprojection
-  author: Liang Li, Zhiqiang Chen, Yuxiang Xing, Li Zhang, Kejun Kang, Ge Wang
-  venue: 2006 IEEE Nuclear Science Symposium Conference Record, 6, 3476-3479, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4179791/
-  code: 
-  type: conference
-
-
 - title: Bolus characteristics based on magnetic resonance angiography
   author: Zhijun Cai, Alan Stolpen, Melhem J Sharafuddin, Robert McCabe, Henri Bai, Tom Potts, Michael Vannier, Debiao Li, Xiaoming Bi, James Bennett, Jafar Golzarian, Shiliang Sun, Ge Wang, Er-Wei Bai
   venue: Biomedical engineering online, 5(1), 53, 2006
@@ -4023,136 +2839,6 @@
   type: journal
 
 
-- title: Approximate and exact cone-beam reconstruction with standard and non-standard spiral scanning
-  author: Ge Wang, Yangbo Ye, Hengyong Yu
-  venue: Developments in X-Ray Tomography V, 6318, 63180F, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63180F/Approximate-and-exact-cone-beam-reconstruction-with-standard-and-non/10.1117/12.682265.short
-  code: 
-  type: conference
-
-
-- title: General formulation for X-ray computed tomography
-  author: Yuchuan Wei, Hengyong Yu, Jiang Hsieh, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181N, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181N/General-formulation-for-x-ray-computed-tomography/10.1117/12.680745.short
-  code: 
-  type: conference
-
-
-- title: Iterative method for bioluminescence tomography based on the radiative transport equation
-  author: Wenxiang Cong, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 631826, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/631826/Iterative-method-for-bioluminescence-tomography-based-on-the-radiative-transport/10.1117/12.681268.short
-  code: 
-  type: conference
-
-
-- title: Image reconstruction via truncated lambda tomography
-  author: Hengyong Yu, Yangbo Ye, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181K, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181K/Image-reconstruction-via-truncated-lambda-tomography/10.1117/12.677359.short
-  code: 
-  type: conference
-
-
-- title: Skew cone beam lambda tomography
-  author: Yangbo Ye, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63180G, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63180G/Skew-cone-beam-lambda-tomography/10.1117/12.683236.short
-  code: 
-  type: conference
-
-
-- title: Rotational velocity control for cardiac CT
-  author: Jie Liu, Chenglin Wang, Ying Liu, Erwei Bai, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181W, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181W/Rotational-velocity-control-for-cardiac-CT/10.1117/12.683218.short
-  code: 
-  type: conference
-
-
-- title: Geometrical study on two tilting arcs based exact cone-beam CT for breast imaging
-  author: Kai Zeng, Hengyong Yu, Laurie L Fajardo, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181M, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181M/Geometrical-study-on-two-tilting-arcs-based-exact-cone-beam/10.1117/12.678814.short
-  code: 
-  type: conference
-
-
-- title: Exact reconstruction for unequally spaced triple-source helical cone-beam CT
-  author: Yannan Jin, Jun Zhao, Ming Jiang, Tiange Zhuang, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181Q, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181Q/Exact-reconstruction-for-unequally-spaced-triple-source-helical-cone-beam/10.1117/12.681398.short
-  code: 
-  type: conference
-
-
-- title: Localizing source distribution based on the adaptive finite element methods for bioluminescence tomography
-  author: Yujie Lv, Jie Tian, Jie Luo, Hui Li, Wenxiang Cong, Ge Wang, Wei Yang
-  venue: Developments in X-Ray Tomography V, 6318, 63181L, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181L/Localizing-source-distribution-based-on-the-adaptive-finite-element-methods/10.1117/12.678268.short
-  code: 
-  type: conference
-
-
-- title: Simulation studies for triple-source helical cone-beam CT
-  author: Jun Zhao, Yannan Jin, Ming Jiang, Tiange Zhuang, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181R, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181R/Simulation-studies-for-triple-source-helical-cone-beam-CT/10.1117/12.681418.short
-  code: 
-  type: conference
-
-
-- title: System generated by strip-based projections in discrete tomography
-  author: Jiehua Zhu, Xiezhang Li, Yangbo Ye, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63181O, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63181O/System-generated-by-strip-based-projections-in-discrete-tomography/10.1117/12.680852.short
-  code: 
-  type: conference
-
-
-- title: Development of bioluminescence tomography
-  author: Ming Jiang, Tie Zhou, Jiantao Cheng, Wenxiang Cong, Ge Wang
-  venue: Developments in X-Ray Tomography V, 6318, 63180E, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63180E/Development-of-bioluminescence-tomography/10.1117/12.680720.short
-  code: 
-  type: conference
-
-
-- title: Modeling the forward problem based on the adaptive FEMs framework in bioluminescence tomography
-  author: Yujie Lv, Jie Tian, Hui Li, Jie Luo, Wenxiang Cong, Ge Wang, Durairaj Kumar
-  venue: Developments in X-Ray Tomography V, 6318, 63180I, International Society for Optics and Photonics, 2006
-  year: 2006
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6318/63180I/Modeling-the-forward-problem-based-on-the-adaptive-FEMs-framework/10.1117/12.678273.short
-  code: 
-  type: conference
-
-
 - title: A multilevel adaptive finite element algorithm for bioluminescence tomography
   author: Yujie Lv, Jie Tian, Wenxiang Cong, Ge Wang, Jie Luo, Wei Yang, Hui Li
   venue: Optics Express, 14(18), 8211-8223, 2006
@@ -4181,16 +2867,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/1673417/
   code: 
   type: journal
-
-
-- title: MicroCT-guided bioluminescence tomography based on the adaptive finite element tomographic algorithm
-  author: Yujie Lv, Jie Tian, Wenxiang Cong, Ge Wang, Durairaj Kumar
-  venue: 2006 International Conference of the IEEE Engineering in Medicine and Biology Society, 381-384, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4461766/
-  code: 
-  type: conference
 
 
 - title: Temperature-modulated bioluminescence tomography
@@ -4233,36 +2909,6 @@
   type: journal
 
 
-- title: Deployment of One-Sided Communication Technique for Parallel Computing in Katsevich CT Image Reconstruction
-  author: Tao He, Jun Ni, Junjun Deng, Hengyong Yu, Ge Wang
-  venue: First International Multi-Symposiums on Computer and Computational Sciences (IMSCCS'06), 1, 416-423, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4673583/
-  code: 
-  type: conference
-
-
-- title: Analysis of performance evaluation of parallel Katsevich algorithm for 3-D CT image reconstruction
-  author: Jun Ni, Junjun Deng, Hengyong Yu, Tao He, Ge Wang
-  venue: First International Multi-Symposiums on Computer and Computational Sciences (IMSCCS'06), 1, 258-265, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4673556/
-  code: 
-  type: conference
-
-
-- title: A heterogeneous windows cluster system for medical image reconstruction
-  author: Tao He, Jun Ni, Ge Wang
-  venue: First International Multi-Symposiums on Computer and Computational Sciences (IMSCCS'06), 1, 410-415, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/4673582/
-  code: 
-  type: conference
-
-
 - title: Data consistency based translational motion artifact reduction in fan-beam CT
   author: Hengyong Yu, Yuchuan Wei, Jiang Hsieh, Ge Wang
   venue: IEEE transactions on medical imaging, 25(6), 792-803, 2006
@@ -4291,16 +2937,6 @@
   url: https://www.hindawi.com/journals/ijbi/2006/012819/abs/
   code: 
   type: journal
-
-
-- title: Recent development in bioluminescence tomography
-  author: Ge Wang, Wenxiang Cong, Yi Li, Weimin Han, Durai Kumar, Xin Qian, Haiou Shen
-  venue: 3rd IEEE International Symposium on Biomedical Imaging&#58 Nano to Macro, 2006., 678-681, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/1625007/
-  code: 
-  type: conference
 
 
 - title: A general axiomatic system for image resolution quantification
@@ -4393,32 +3029,12 @@
   type: journal
 
 
-- title: A reconstruction algorithm for triple-source helical cone-beam CT
-  author: Jun Zhao, Ming Jiang, Tiange Zhuang, Ge Wang
-  venue: 2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 1875-1878, IEEE, 2006
-  year: 2006
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/1616816/
-  code: 
-  type: conference
-
-
 - title: Cultural characteristics of Trichoderma harzianum and its inhibition to Phytophthora nicotianae
   author: Meiyun Li, Lihua Tan, Dunhuang Fang, Tianfei Li, Ge Wang, Kaiqi Liu
   venue: Wei sheng wu xue tong bao, 33(6), 79-83, 2006
   year: 2006
   arxiv: 
   url: https://europepmc.org/abstract/cba/632044
-  code: 
-  type: journal
-
-
-- title: Proliferation and apoptosis of KM_3 cells after decreasing APE1 protein level using silencing RNA [J]
-  author: Jia-yin XIE, Dong WANG, Zhen-zhou YANG, Ge WANG, De-bing XIANG, Zeng-peng LI
-  venue: Acta Academiae Medicinae Militaris Tertiae, 7, 2006
-  year: 2006
-  arxiv: 
-  url: http://en.cnki.com.cn/Article_en/CJFDTotal-DSDX200607033.htm
   code: 
   type: journal
 
@@ -4481,16 +3097,6 @@
   url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.258102
   code: 
   type: journal
-
-
-- title: Scenario of application layers for Grid-enhanced International Digital Library in medical imaging
-  author: Jun Ni, Tao He, Ge Wang, Shaowen Wang, Boyd Knosp
-  venue: 2005 International Conference on Grid Computing and Applications, GCA'05, 196-202, 2005
-  year: 2005
-  arxiv: 
-  url: https://experts.illinois.edu/en/publications/scenario-of-application-layers-for-grid-enhanced-international-di
-  code: 
-  type: conference
 
 
 - title: Accuracy of facial soft tissue thickness measurements in personal computer-based multiplanar reconstructed computed tomographic images
@@ -4623,26 +3229,6 @@
   type: journal
 
 
-- title: Interactive graphic editing tools in bioluminescent imaging simulation
-  author: Hui Li, Jie Tian, Jie Luo, Ge Wang, Wenxiang Cong
-  venue: Photonic Therapeutics and Diagnostics, 5686, 407-414, International Society for Optics and Photonics, 2005
-  year: 2005
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5686/0000/Interactive-graphic-editing-tools-in-bioluminescent-imaging-simulation/10.1117/12.589930.short
-  code: 
-  type: conference
-
-
-- title: Spectroscopic luminescent tomographic imaging for quantitative assessment of hemoglobin oxygenation
-  author: Wenxiang Cong, Durairaj Kumar, Alexander Cong, Ge Wang
-  venue: Medical Imaging 2005&#58 Physics of Medical Imaging, 5745, 121-127, International Society for Optics and Photonics, 2005
-  year: 2005
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5745/0000/Spectroscopic-luminescent-tomographic-imaging-for-quantitative-assessment-of-hemoglobin-oxygenation/10.1117/12.595427.short
-  code: 
-  type: conference
-
-
 - title: A backprojection-filtration algorithm for nonstandard spiral cone-beam CT with an n-PI-window
   author: Hengyong Yu, Yangbo Ye, Shiying Zhao, Ge Wang
   venue: Physics in Medicine & Biology, 50(9), 2099, 2005
@@ -4651,26 +3237,6 @@
   url: https://iopscience.iop.org/article/10.1088/0031-9155/50/9/012
   code: 
   type: journal
-
-
-- title: Image-guided simulation for bioluminescence tomographic imaging
-  author: Durairaj Kumar, Wenxiang Cong, Jacqueline Thiesse, Earl Nixon, John Meinel, Alex Cong, Geoffrey McLennan, Eric A Hoffman, Jiang Ming, Ge Wang
-  venue: Medical Imaging 2005&#58 Visualization, Image-Guided Procedures, and Display, 5744, 741-748, International Society for Optics and Photonics, 2005
-  year: 2005
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5744/0000/Image-guided-simulation-for-bioluminescence-tomographic-imaging/10.1117/12.595387.short
-  code: 
-  type: conference
-
-
-- title: Geometrical modeling using multiregional marching tetrahedra for bioluminescence tomography
-  author: Alexander Cong, Yi Liu, Durai Kumar, Wenxiang Cong, Ge Wang
-  venue: Medical Imaging 2005&#58 Visualization, Image-Guided Procedures, and Display, 5744, 756-763, International Society for Optics and Photonics, 2005
-  year: 2005
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5744/0000/Geometrical-modeling-using-multiregional-marching-tetrahedra-for-bioluminescence-tomography/10.1117/12.595403.short
-  code: 
-  type: conference
 
 
 - title: An intuitive discussion on the ideal ramp filter in computed tomography (I)
@@ -4733,16 +3299,6 @@
   type: journal
 
 
-- title: Parallel Iterative CT Image Reconstruction on a Linux Cluster of Legacy Computers
-  author: Xiang Li, Jun Ni, Tao He, Ge Wang, Shaowen Wang
-  venue: Current Trends in High Performance Computing and Its Applications, 369-373, Springer, Berlin, Heidelberg, 2005
-  year: 2005
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/3-540-27912-1_46
-  code: 
-  type: book
-
-
 - title: Review of" Electrical Impedance Tomography" Edited by David S. Holder
   author: Ge Wang
   venue: BioMedical Engineering OnLine, 4, 27, 2005
@@ -4791,136 +3347,6 @@
   url: https://www.academicradiology.org/article/S1076-6332(04)00552-5/abstract
   code: 
   type: journal
-
-
-- title: Minimum detection window and inter-helix PI-line with triple-source helical cone-beam scanning
-  author: Jun Zhao, Ming Jiang, Tiange Zhuang, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 599-610, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Minimum-detection-window-and-inter-helix-PI-line-with-triple/10.1117/12.560256.short
-  code: 
-  type: conference
-
-
-- title: CT reconstruction filter design in the real space
-  author: Yuchuan Wei, Ge Wang, Jiang Hsieh
-  venue: Developments in X-Ray Tomography IV, 5535, 628-635, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/CT-reconstruction-filter-design-in-the-real-space/10.1117/12.560251.short
-  code: 
-  type: conference
-
-
-- title: Development of lung tissue phantoms for bioluminescent imaging
-  author: Durairaj Kumar, Wenxiang Cong, Frank Bohenkamp, Tarun Kakaday, Peter Taft, Lihong V Wang, Geoffrey McLennan, Eric A Hoffman, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 687-694, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Development-of-lung-tissue-phantoms-for-bioluminescent-imaging/10.1117/12.560530.short
-  code: 
-  type: conference
-
-
-- title: In vivo tomographic imaging based on bioluminescence
-  author: Wenxiang Cong, Durairaj Kumar, Yubin Kang, Patrick Sinn, Earl Nixon, John Mienel Jr, Melissa J Suter, Lihong V Wang, Geoffrey McLennan, Eric A Hoffman, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 212-219, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/In-vivo-tomographic-imaging-based-on-bioluminescence/10.1117/12.560522.short
-  code: 
-  type: conference
-
-
-- title: Constrained block-iterative Landweber scheme for image reconstruction
-  author: Ming Jiang, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 531-539, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Constrained-block-iterative-Landweber-scheme-for-image-reconstruction/10.1117/12.559039.short
-  code: 
-  type: conference
-
-
-- title: Numerical studies on Feldkamp-type and Katsevich-type algorithms for cone-beam scanning along nonstandard spirals
-  author: Jiehua Zhu, Shiying Zhao, Hengyong Yu, Yangbo Ye, Seung Wook Lee, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 558-565, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Numerical-studies-on-Feldkamp-type-and-Katsevich-type-algorithms-for/10.1117/12.559876.short
-  code: 
-  type: conference
-
-
-- title: Katsevich-type algorithims for variable radius spiral cone-beam CT
-  author: Hengyong Yu, Yangbo Ye, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 550-557, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Katsevich-type-algorithms-for-variable-radius-spiral-cone-beam-CT/10.1117/12.559300.short
-  code: 
-  type: conference
-
-
-- title: A family of analytic algorithms for cone-beam CT
-  author: Shiying Zhao, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 318-328, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/A-family-of-analytic-algorithms-for-cone-beam-CT/10.1117/12.560242.short
-  code: 
-  type: conference
-
-
-- title: Studies on artifacts of the Katsevich algorithm for spiral cone-beam CT
-  author: Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 540-549, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Studies-on-artifacts-of-the-Katsevich-algorithm-for-spiral-cone/10.1117/12.559286.short
-  code: 
-  type: conference
-
-
-- title: Image reconstruction for bioluminescence tomography
-  author: Ming Jiang, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 335-351, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Image-reconstruction-for-bioluminescence-tomography/10.1117/12.559038.short
-  code: 
-  type: conference
-
-
-- title: A practical method to determine the light source distribution in bioluminescent imaging
-  author: Wenxiang Cong, Durairaj Kumar, Yi Liu, Alexander Cong, GE Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 679-686, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/A-practical-method-to-determine-the-light-source-distribution-in/10.1117/12.560524.short
-  code: 
-  type: conference
-
-
-- title: Exact reconstruction for cone-beam scanning along nonstandard spirals and other curves
-  author: Yangbo Ye, Shiying Zhao, Hengyong Yu, Ge Wang
-  venue: Developments in X-Ray Tomography IV, 5535, 293-300, International Society for Optics and Photonics, 2004
-  year: 2004
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5535/0000/Exact-reconstruction-for-cone-beam-scanning-along-nonstandard-spirals-and/10.1117/12.559087.short
-  code: 
-  type: conference
-
-
-- title: EM medical image reconstruction in a peer-to-peer systems
-  author: Jun Ni, Tao He, Xiang Li, Shaowen Wang, Ge Wang
-  venue: International Conference on Grid and Cooperative Computing, 495-501, Springer, Berlin, Heidelberg, 2004
-  year: 2004
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-3-540-30208-7_68
-  code: 
-  type: conference
 
 
 - title: Modeling of elastic modulus evolution of cirrhotic human liver
@@ -5313,36 +3739,6 @@
   type: journal
 
 
-- title: Convergence of iterative algorithms for image reconstruction
-  author: Ming Jiang, Ge Wang
-  venue: Proceedings IEEE International Symposium on Biomedical Imaging, 685-688, IEEE, 2002
-  year: 2002
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/1029350/
-  code: 
-  type: conference
-
-
-- title: Block-iterative algorithms for image reconstruction
-  author: Ming Jiang, Ge Wang
-  venue: Mathematical Software, 51-60, 2002
-  year: 2002
-  arxiv: 
-  url: https://www.worldscientific.com/doi/abs/10.1142/9789812777171_0006
-  code: 
-  type: book
-
-
-- title: Cone-beam reconstruction for micro-CT
-  author: Ge Wang, Ming Jiang, Seung Wook Lee, Hong Liu, Eric Hoffman
-  venue: Proceedings IEEE International Symposium on Biomedical Imaging, 384-387, IEEE, 2002
-  year: 2002
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/1029274/
-  code: 
-  type: conference
-
-
 - title: A wavelet method for metal artifact reduction with multiple metallic objects in the field of view
   author: Shiying Zhao, Kyongtae T Bae, Bruce Whiting, Ge Wang
   venue: Journal of X-ray Science and Technology, 10(1, 2), 67-76, 2002
@@ -5381,26 +3777,6 @@
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3452370/
   code: 
   type: journal
-
-
-- title: Blind deblurring of spiral CT images
-  author: Ming Jiang, Ge Wang, Margaret W Skinner, Jay T Rubinstein, Michael W Vannier
-  venue: Conference Record of Thirty-Fifth Asilomar Conference on Signals, Systems and Computers (Cat. No. 01CH37256), 2, 1692-1696, IEEE, 2001
-  year: 2001
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/987773/
-  code: 
-  type: conference
-
-
-- title: Convergence of the simultaneous algebraic reconstruction technique (SART)
-  author: Ming Jiang, Ge Wang
-  venue: Signals, Systems and Computers, 2001. Conference Record of the Thirty-Fifth Asilomar Conference on, 1, 360-364, IEEE, 2001
-  year: 2001
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/1217272/
-  code: 
-  type: conference
 
 
 - title: Localization error analysis for stereo X-ray image guidance with probability method
@@ -5493,16 +3869,6 @@
   type: journal
 
 
-- title: Cone-beam x-ray tomography using continuous wavelet transformation
-  author: Shiying Zhao, Ge Wang
-  venue: Wavelet Applications in Signal and Image Processing VIII, 4119, 660-668, International Society for Optics and Photonics, 2000
-  year: 2000
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4119/0000/Cone-beam-x-ray-tomography-using-continuous-wavelet-transformation/10.1117/12.408655.short
-  code: 
-  type: conference
-
-
 - title: X-ray CT metal artifact reduction using wavelets&#58 an application for imaging total hip prostheses
   author: Shiying Zhao, DD Robeltson, Ge Wang, Bruce Whiting, Kyongtae T Bae
   venue: IEEE transactions on medical imaging, 19(12), 1238-1247, 2000
@@ -5583,16 +3949,6 @@
   type: journal
 
 
-- title: Three-dimensional geometric modeling of the cochlea
-  author: SunKook Yoo, Ge Wang, Jay T Rubinstein, Michael W Vannier
-  venue: Medical Imaging 2000&#58 Image Processing, 3979, 1573-1581, International Society for Optics and Photonics, 2000
-  year: 2000
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3979/0000/Three-dimensional-geometric-modeling-of-the-cochlea/10.1117/12.387671.short
-  code: 
-  type: conference
-
-
 - title: Three-dimensional modeling and visualization of the cochlea on the internet
   author: Sun K Yoo, Ge Wang, Jay T Rubinstein, Margaret W Skinner, Michael W Vannier
   venue: IEEE Transactions on Information Technology in biomedicine, 4(2), 144-151, 2000
@@ -5611,16 +3967,6 @@
   url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.598953
   code: 
   type: journal
-
-
-- title: Model of intravenous bolus propagation for optimization of contrast enhancement
-  author: Ge Wang, Gary M Raymond, Yi Li, Gary D Schweiger, Melhem Sharafuddin, Alan H Stolpen, Siying Yang, Zheng Li, James B Bassingthwaighte, Michael W Vannier
-  venue: Medical Imaging 2000&#58 Physiology and Function from Multidimensional Images, 3978, 436-447, International Society for Optics and Photonics, 2000
-  year: 2000
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3978/0000/Model-of-intravenous-bolus-propagation-for-optimization-of-contrast-enhancement/10.1117/12.383425.short
-  code: 
-  type: conference
 
 
 - title: Localization of cochlear implant electrodes in radiographs
@@ -5661,16 +4007,6 @@
   url: https://www.spiedigitallibrary.org/journalIssue/Download?fullDOI=10.1117%2F1.482727
   code: 
   type: journal
-
-
-- title: Generalized Feldkamp image reconstruction from equiangular cone-beam projection data
-  author: Ben Wang, Hong Liu, Ge Wang
-  venue: Proceedings 13th IEEE Symposium on Computer-Based Medical Systems. CBMS 2000, 123-128, IEEE, 2000
-  year: 2000
-  arxiv: 
-  url: https://ieeexplore.ieee.org/abstract/document/856889/
-  code: 
-  type: conference
 
 
 - title: Exact and approximate conebeam x-ray microtomography
@@ -5723,16 +4059,6 @@
   type: journal
 
 
-- title: Colon unraveling based on electrical field&#58 Recent progress and further work
-  author: Ge Wang, Sanjay B Dave, Bruce P Brown, Zhan Zhang, Elizabeth G McFarland, John W Haller, Michael W Vannier
-  venue: Medical Imaging 1999&#58 Physiology and Function from Multidimensional Images, 3660, 125-132, International Society for Optics and Photonics, 1999
-  year: 1999
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3660/0000/Colon-unraveling-based-on-electrical-field--recent-progress-and/10.1117/12.349581.short
-  code: 
-  type: conference
-
-
 - title: Interpolation algorithms for digital mammography systems with multiple detectors
   author: Hong Liu, Ge Wang, Jinghong Chen, Laurie L Fajardo
   venue: Academic radiology, 6(3), 170-175, 1999
@@ -5741,16 +4067,6 @@
   url: https://www.sciencedirect.com/science/article/pii/S1076633299804036
   code: 
   type: journal
-
-
-- title: New X-Ray Imaging Strategies&#58 Implication for Cochlear Implantation
-  author: Michael W Vannier, Ge Wang, Margaret W Skinner, Jay T Rubinstein
-  venue: Review of Progress in Quantitative Nondestructive Evaluation, 1569-1573, Springer, Boston, MA, 1999
-  year: 1999
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-1-4615-4791-4_201
-  code: 
-  type: book
 
 
 - title: Techniques of CT colonography (virtual colonoscopy)
@@ -5883,26 +4199,6 @@
   type: journal
 
 
-- title: Wavelet operators and their applications in computerized tomography
-  author: Shiying Zhao, Ge Wang
-  venue: Wavelet Applications in Signal and Image Processing V, 3169, 337-348, International Society for Optics and Photonics, 1997
-  year: 1997
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3169/0000/Wavelet-operators-and-their-applications-in-computerized-tomography/10.1117/12.279695.short
-  code: 
-  type: conference
-
-
-- title: Spiral CT&#58 current status and future directions
-  author: Ge Wang, Ping Chin Cheng, Michael W Vannier
-  venue: Developments in X-Ray Tomography, 3149, 203-212, International Society for Optics and Photonics, 1997
-  year: 1997
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3149/0000/Spiral-CT-current-status-and-future-directions/10.1117/12.279358.short
-  code: 
-  type: conference
-
-
 - title: Optimal pitch in spiral computed tomography
   author: Ge Wang, Michael W Vannier
   venue: Medical physics, 24(10), 1635-1639, 1997
@@ -5911,16 +4207,6 @@
   url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.597971
   code: 
   type: journal
-
-
-- title: Colonic polyp detection with spiral CT colonography
-  author: Elizabeth G McFarland, John Loh, James A Brink, Dennis M Balfe, Jay P Heiken, Barry S Brunsden, Ge Wang, Michael W Vannier
-  venue: Medical Imaging 1997&#58 Physiology and Function from Multidimensional Images, 3033, 424-432, International Society for Optics and Photonics, 1997
-  year: 1997
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3033/0000/Colonic-polyp-detection-with-spiral-CT-colonography/10.1117/12.274068.short
-  code: 
-  type: conference
 
 
 - title: Spiral computed tomographic colonography&#58 determination of the central axis and digital unraveling of the colon
@@ -5961,16 +4247,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/538943/
   code: 
   type: journal
-
-
-- title: GI tract unraveling in volumetric CT
-  author: Ge Wang, Michael W Vannier, Elizabeth G McFarland, Jay P Heiken, James A Brink
-  venue: International Conference on Visualization in Biomedical Computing, 1-12, Springer, Berlin, Heidelberg, 1996
-  year: 1996
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/BFb0046930
-  code: 
-  type: conference
 
 
 - title: Unwrapping cochlear implants by spiral CT
@@ -6031,16 +4307,6 @@
   url: https://ieeexplore.ieee.org/abstract/document/387702/
   code: 
   type: journal
-
-
-- title: GI tract unraveling by spiral CT
-  author: Ge Wang, Michael W Vannier
-  venue: Medical Imaging 1995&#58 Image Processing, 2434, 307-315, International Society for Optics and Photonics, 1995
-  year: 1995
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2434/0000/GI-tract-unraveling-by-spiral-CT/10.1117/12.208702.short
-  code: 
-  type: conference
 
 
 - title: Feldkamp-type cone-beam reconstruction&#58 revisited
@@ -6113,36 +4379,14 @@
   type: journal
 
 
-
-
-- title: Image restoration in light microscopy
-  author: Ge Wang, Wen-shan Liou, Tein-Hsiang Lin, Ping-chin Cheng
-  venue: Multidimensional Microscopy, 191-208, Springer, New York, NY, 1994
+- title: Ping-chin Cheng, Dayakar R. Pareddy, Tein-Hsiang Lin, Jagath K. Samarabandu
+  author: Raj Acharya, Ge Wang, Wen-Shan Liou
+  venue: Multidimensional Microscopy, 339, 1994
   year: 1994
   arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_11
+  url: http://scholar.google.com/scholar?cluster=11667343066884731245&hl=en&oi=scholarr
   code: 
-  type: book
-
-
-- title: Cone-beam X-ray microtomography
-  author: Ge Wang, Tein-Hsiang Lin, Douglus M Shinozaki, Hyo-gun Kim, Ping-chin Cheng
-  venue: Multidimensional Microscopy, 151-169, Springer, New York, NY, 1994
-  year: 1994
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_9
-  code: 
-  type: book
-
-
-- title: Confocal microscopy of botanical specimens
-  author: Ping-chin Cheng, Dayakar R Pareddy, Tein-Hsiang Lin, Jagath K Samarabandu, Raj Acharya, Ge Wang, Wen Shan Liou
-  venue: Multidimensional Microscopy, 339-380, Springer New York, 1994
-  year: 1994
-  arxiv: 
-  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_19
-  code: 
-  type: book
+  type: journal
 
 
 - title: Spiral CT refines imaging of temporal bone disorders.
@@ -6184,42 +4428,3 @@
   code: 
   type: journal
 
-
-- title: New extended fan-beam reconstruction formula
-  author: Ge Wang, TH Lin, Ping Chin Cheng
-  venue: Biomedical Image Processing and Three-Dimensional Microscopy, 1660, 262-273, International Society for Optics and Photonics, 1992
-  year: 1992
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1660/0000/New-extended-fan-beam-reconstruction-formula/10.1117/12.59612.short
-  code: 
-  type: conference
-
-
-- title: Preliminary error analysis of the general cone-beam reconstruction algorithm
-  author: Ge Wang, TH Lin, Ping Chin Cheng, DM Shinozaki
-  venue: Biomedical Image Processing and Three-Dimensional Microscopy, 1660, 274-285, International Society for Optics and Photonics, 1992
-  year: 1992
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1660/0000/Preliminary-error-analysis-of-the-general-cone-beam-reconstruction-algorithm/10.1117/12.59613.short
-  code: 
-  type: conference
-
-
-- title: Scanning cone-beam reconstruction algorithms for x-ray microtomography
-  author: Ge Wang, Tein-Hsiang Lin, Ping Chin Cheng, Douglas M Shinozaki, Hyo-Gun Kim
-  venue: Scanning Microscopy Instrumentation, 1556, 99-112, International Society for Optics and Photonics, 1992
-  year: 1992
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1556/0000/Scanning-cone-beam-reconstruction-algorithms-for-x-ray-microtomography/10.1117/12.134891.short
-  code: 
-  type: conference
-
-
-- title: X-ray projection microscopy and cone-beam microtomography
-  author: Ge Wang, TH Lin, Ping Chin Cheng, DM Shinozaki, SP Newberry
-  venue: CAN-AM Eastern'90, 1398, 180-190, International Society for Optics and Photonics, 1991
-  year: 1991
-  arxiv: 
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1398/0000/X-ray-projection-microscopy-and-cone-beam-microtomography/10.1117/12.47803.short
-  code: 
-  type: conference

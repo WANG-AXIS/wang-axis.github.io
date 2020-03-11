@@ -1,0 +1,147 @@
+- title: Machine Learning for Tomographic Imaging
+  author: Ge Wang, Yi Zhang, Xiaojing Ye and Xuanqin Mou
+  venue: IOP Publishing, 2020
+  year: 2020
+  arxiv: 
+  url: https://iopscience.iop.org/book/978-0-7503-2216-4
+  code: 
+  type: book
+  
+- title: Generative Low-Dose CT Image Denoising
+  author: Qingsong Yang, Pingkun Yan, Yanbo Zhang, Hengyong Yu, Yongyi Shi, Xuanqin Mou, Mannudeep K Kalra, Yi Zhang, Ling Sun, Ge Wang
+  venue: Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics, 277-297, Springer, Cham, 2019
+  year: 2019
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-3-030-13969-8_14
+  code: 
+  type: book
+
+
+- title: CT-MRI
+  author: James Bennett, Ge Wang
+  venue: Hybrid Imaging in Cardiovascular Medicine, 95-116, CRC Press, 2017
+  year: 2017
+  arxiv: 
+  url: https://www.taylorfrancis.com/books/e/9781315374031/chapters/10.1201/9781315374031-5
+  code: 
+  type: book
+
+
+- title: A Multi-parameter Joint Demodulation Algorithm Based on Alternating Projection
+  author: Ge Wang, Peijie Zhang, Wei Liu
+  venue: Proceedings of the 27th Conference of Spacecraft TT&C Technology in China, 199-209, Springer, Berlin, Heidelberg, 2015
+  year: 2015
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-3-662-44687-4_18
+  code: 
+  type: book
+
+
+- title: Dictionary learning based low-dose X-ray CT reconstruction
+  author: Qiong Xu, Hengyong Yu, Ge Wang, Xuanqin Mou
+  venue: Frontiers of Medical Imaging, 99-119, 2015
+  year: 2015
+  arxiv: 
+  url: https://www.worldscientific.com/doi/abs/10.1142/9789814611107_0006
+  code: 
+  type: book
+
+
+- title: Preclinical Optical Molecular Imaging
+  author: Yujie Lu, Ge Wang
+  venue: Molecular Imaging of Small Animals, 241-273, Springer New York, 2014
+  year: 2014
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-1-4939-0894-3_8
+  code: 
+  type: book
+
+
+- title: Medical Imaging
+  author: Ge Wang, Alex Cong, Hao Gao, Jie Zhang, Victor J Weir, Xiaochen Xu, James Bennett
+  venue: Handbook of Research on Biomedical Engineering Education and Advanced Bioengineering Learning&#58 Interdisciplinary Concepts, 634-712, IGI Global, 2012
+  year: 2012
+  arxiv: 
+  url: https://www.igi-global.com/chapter/content/63403
+  code: 
+  type: book
+
+
+- title: Dose Reduction on Computed Tomography Angiography Using Adaptive Control Techniques
+  author: Zhijun Cai, Er-Wei Bai, Ge Wang
+  venue: Computed Tomography-Clinical Applications, InTech, 2012
+  year: 2012
+  arxiv: 
+  url: http://books.google.com/books?hl=en&lr=&id=xnSfDwAAQBAJ&oi=fnd&pg=PA331&dq=info:uusxnHPD7Z4J:scholar.google.com&ots=BuoHpg_bho&sig=AhMWReac0-hbLAAYPvj0jWfgac4
+  code: 
+  type: book
+
+
+- title: Biomedical imaging and image processing in tissue engineering
+  author: Haiou Shen, Aaron S Goldstein, Ge Wang
+  venue: Tissue Engineering, 155-178, Springer Berlin Heidelberg, 2011
+  year: 2011
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-3-642-02824-3_9
+  code: 
+  type: book
+
+
+- title: Parallel Iterative CT Image Reconstruction on a Linux Cluster of Legacy Computers
+  author: Xiang Li, Jun Ni, Tao He, Ge Wang, Shaowen Wang
+  venue: Current Trends in High Performance Computing and Its Applications, 369-373, Springer, Berlin, Heidelberg, 2005
+  year: 2005
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/3-540-27912-1_46
+  code: 
+  type: book
+
+
+- title: Block-iterative algorithms for image reconstruction
+  author: Ming Jiang, Ge Wang
+  venue: Mathematical Software, 51-60, 2002
+  year: 2002
+  arxiv: 
+  url: https://www.worldscientific.com/doi/abs/10.1142/9789812777171_0006
+  code: 
+  type: book
+
+
+- title: New X-Ray Imaging Strategies&#58 Implication for Cochlear Implantation
+  author: Michael W Vannier, Ge Wang, Margaret W Skinner, Jay T Rubinstein
+  venue: Review of Progress in Quantitative Nondestructive Evaluation, 1569-1573, Springer, Boston, MA, 1999
+  year: 1999
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-1-4615-4791-4_201
+  code: 
+  type: book
+
+
+- title: Image restoration in light microscopy
+  author: Ge Wang, Wen-shan Liou, Tein-Hsiang Lin, Ping-chin Cheng
+  venue: Multidimensional Microscopy, 191-208, Springer, New York, NY, 1994
+  year: 1994
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_11
+  code: 
+  type: book
+
+
+- title: Cone-beam X-ray microtomography
+  author: Ge Wang, Tein-Hsiang Lin, Douglus M Shinozaki, Hyo-gun Kim, Ping-chin Cheng
+  venue: Multidimensional Microscopy, 151-169, Springer, New York, NY, 1994
+  year: 1994
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_9
+  code: 
+  type: book
+
+
+- title: Confocal microscopy of botanical specimens
+  author: Ping-chin Cheng, Dayakar R Pareddy, Tein-Hsiang Lin, Jagath K Samarabandu, Raj Acharya, Ge Wang, Wen Shan Liou
+  venue: Multidimensional Microscopy, 339-380, Springer New York, 1994
+  year: 1994
+  arxiv: 
+  url: https://link.springer.com/chapter/10.1007/978-1-4613-8366-6_19
+  code: 
+  type: book

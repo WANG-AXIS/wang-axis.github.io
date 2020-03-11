@@ -54,7 +54,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Preprint
 
 <ol reversed>
-{%- for pub in site.data.publist -%}
+{%- for pub in site.data.pub_preprint -%}
 {% if pub.type == "preprint" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
@@ -75,7 +75,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Book (Chapter)
 
 <ol reversed>
-{%- for pub in site.data.publist -%}
+{%- for pub in site.data.pub_book -%}
 {% if pub.type == "book" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
@@ -96,7 +96,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Journal
 
 <ol reversed>
-{%- for pub in site.data.publist -%}
+{%- for pub in site.data.pub_journal -%}
 {% if pub.type == "journal" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
@@ -117,7 +117,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Conference
 
 <ol reversed="">
-{%- for pub in site.data.publist -%}
+{%- for pub in site.data.pub_conference -%}
 {% if pub.type == "conference" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
