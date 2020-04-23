@@ -26,7 +26,7 @@ We are open to collaborate with peers, control teaching quality and improve lear
 </div>
 
 
-<div class="container text-right" >
+<div class="container text-left" >
   <a href="dot-qa" class="btn btn-warning btn-lg custom" role="button">Q&A</a>
   <a href="dot-qa" class="btn btn-info btn-lg custom" role="button">Demo</a>
   <a href="dot-qa" class="btn btn-sample btn-lg custom" role="button">Exam</a>    
