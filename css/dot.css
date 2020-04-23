@@ -47,3 +47,7 @@ fieldset[disabled] .btn-sample.active {
   color: #611BBD; 
   background-color: #ffffff; 
 }
+
+.btn {
+  text-transform: unset !important;
+}
