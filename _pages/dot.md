@@ -9,6 +9,7 @@ permalink: /dot/
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="{{ site.url }}/css/dot.css">
 
 <div>
 <img src="{{ site.url }}/images/dot.jpg" class="img-responsive" width="95%"/>
@@ -24,10 +25,10 @@ We are open to collaborate with peers, control teaching quality and improve lear
 <p style='text-align: right;'> RPI DOT Team, April 18, 2020 </p>
 
 
-<div class="container">
-  <button type="button" class="btn btn-primary btn-lg">Demo</button>
-  <button type="button" class="btn btn-success btn-lg">Exam</button>
-  <a href="dot-qa" class="btn btn-info btn-lg" role="button">Q&A</a>    
+<div class="container mx-auto" >
+  <a href="dot-qa" class="btn btn-danger btn-lg custom" role="button">Demo</a>
+  <a href="dot-qa" class="btn btn-success btn-lg custom" role="button">Exam</a>
+  <a href="dot-qa" class="btn btn-primary btn-lg custom" role="button">Q&A</a>    
 </div>
 
 ## References
