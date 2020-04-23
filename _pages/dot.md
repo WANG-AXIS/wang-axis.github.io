@@ -6,9 +6,6 @@ sitemap: false
 permalink: /dot/
 ---
 
-# Distanced Online Testing
-
-
 
 <div>
 <img src="{{ site.url }}/images/dot.jpg" class="img-responsive" width="95%"/>
@@ -24,6 +21,6 @@ We are open to collaborate with peers, control teaching quality and improve lear
 <p style='text-align: right;'> RPI DOT Team, April 18, 2020 </p>
 
 
-## Reference:
-Nizam, N. I., Gao, S., Li, M., Mohamed, H., Wang, G. (2020). Scheme for Cheating Prevention in Online Exams during Social Distancing.
+## Reference
+Nizam, N. I., Gao, S., Li, M., Mohamed, H., Wang, G. (2020). [Scheme for Cheating Prevention in Online Exams during Social Distancing.](https://www.preprints.org/manuscript/202004.0327/v1)
 
