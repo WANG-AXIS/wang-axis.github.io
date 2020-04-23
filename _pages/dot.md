@@ -23,10 +23,11 @@ We are open to collaborate with peers, control teaching quality and improve lear
 
 <p style='text-align: right;'> RPI DOT Team, April 18, 2020 </p>
 
-<div>
-	<button type="button" class="btn btn-primary btn-lg">Demo</button>
-	<button type="button" class="btn btn-success btn-lg">Exam</button>
-	<a href="dot-qa" class="btn btn-info btn-lg" role="button">Q&A</a>  
+
+<div class="container">
+  <button type="button" class="btn btn-primary btn-lg">Demo</button>
+  <button type="button" class="btn btn-success btn-lg">Exam</button>
+  <a href="dot-qa" class="btn btn-info btn-lg" role="button">Q&A</a>    
 </div>
 
 ## References
