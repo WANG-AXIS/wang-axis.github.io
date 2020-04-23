@@ -12,9 +12,18 @@ permalink: /dot/
 <link rel="stylesheet" href="{{ site.url }}/css/dot.css">
 
 <div>
-<img src="{{ site.url }}/images/dot.png" class="img-responsive" width="100%"/>
+<img src="{{ site.url }}/images/dot.jpg" class="img-responsive" width="100%"/>
 </div>
 
+Social distancing immediately makes online learning the higher education globally. RPI’s patent-pending Distanced Online Testing (DOT) platform is our solution that cost-effectively beats cheating behaviors in an online exam performed in individual homes. 
+
+The key idea is to present a set of problems in different sequences to students and let them to solve each of their problems only within an allocated time slot so that cheating gains become insignificant when the exam is optimally designed based on a prior distribution of students’ levels of competence. Furthermore, cheating incidents can be detected and penalized using statistical techniques. 
+
+We are open to collaborate with peers, control teaching quality and improve learning experience with our DOT techniques.
+
+<div class="container">
+<img src="{{ site.url }}/images/dot_logo.jpg" class="img-responsive" align="right" width="15%"/>
+</div>
 
 
 <div class="container text-right" >
