@@ -24,3 +24,4 @@ We are open to collaborate with peers, control teaching quality and improve lear
 ## Reference
 Nizam, N. I., Gao, S., Li, M., Mohamed, H., Wang, G. (2020). [Scheme for Cheating Prevention in Online Exams during Social Distancing.](https://www.preprints.org/manuscript/202004.0327/v1)
 
+Cheating Prevention In Online Objective Exams During Social Distancing, U.S. Patent Application No. 63/007,729 (Our Ref. 104529-100; RPI 2020-083)
