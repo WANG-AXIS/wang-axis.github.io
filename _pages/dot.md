@@ -37,11 +37,13 @@ permalink: /dot/
   <a href="http://161.35.62.103:5000/" class="btn btn-info btn-lg custom" role="button">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://161.35.62.103:5000/" class="btn btn-sample btn-lg custom" role="button">Exam</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="dot-members" class="btn btn-success btn-lg custom" role="button">Team</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="dot-members" class="btn btn-danger btn-lg custom" role="button">Feedback</a>  
+  <a href="https://www.surveymonkey.com/r/3FL5BZD" class="btn btn-danger btn-lg custom" role="button">Feedback</a>  
 </div>
 </div>
 <br />
-___Note that to try out the Demo, you can use the login info: "1" and "ge" for the two fields respectively.___
+
+<p style="color:#74bddd">Note that to try out the Demo, you can use the login info: "1" and "ge" for the two fields respectively.</p>
+
 
 
 ## References
