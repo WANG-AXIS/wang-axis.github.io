@@ -4,7 +4,7 @@
   email: wangg6@rpi.edu
   url: https://www.linkedin.com/in/ge-wang-axis/
   department: BME
-  Role: XXXX
+
 
 - name: Mengzhou Li
   photo: rock.jpg
@@ -12,7 +12,7 @@
   email: lim23@rpi.edu
   url: https://wang-axis.github.io/dot/
   department: BME
-  Role: XXXX
+
 
 - name: Shan Gao
   photo: gaos4.jpg
@@ -20,7 +20,7 @@
   email: gaos4@rpi.edu
   url: https://wang-axis.github.io/dot/
   department: BME
-  Role: XXXX
+
 
 - name: Navid Nizam
   photo: nizamn.png
@@ -28,7 +28,7 @@
   email: nizamn@rpi.edu
   url: https://wang-axis.github.io/dot/
   department: BME
-  Role: XXXX
+
 
 - name: Hisham Mohamed 
   photo: mohamh2.jpg
@@ -36,7 +36,7 @@
   email: mohamh2@rpi.edu
   url: https://wang-axis.github.io/dot/
   department: BME
-  Role: XXXX
+
 
 - name: Hongming Shan
   photo: shanh.jpg
@@ -44,7 +44,7 @@
   email: shanh@rpi.edu
   url: hmshan.io
   department: BME
-  Role: XXXX
+
 
 - name: Lirong Xia
   photo: xial.jpg
@@ -52,7 +52,6 @@
   email: xial@cs.rpi.edu
   url: https://www.cs.rpi.edu/~xial/
   department: CS
-  Role: XXXX
 
 - name: Lei Luo
   photo: luol3.jpg
@@ -60,7 +59,7 @@
   email: luol3@rpi.edu
   url: https://wang-axis.github.io/dot/
   department: CS
-  Role: XXXX
+
 
 - name: Sujoy Sikdar
   photo: sujoy.jpg
@@ -68,4 +67,4 @@
   email: sujoyks@gmail.com
   url: https://sujoyksikdar.github.io/
   department: CS
-  Role: XXXX
+
