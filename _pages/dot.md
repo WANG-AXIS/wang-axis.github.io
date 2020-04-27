@@ -36,7 +36,8 @@ permalink: /dot/
   <a href="dot-qa" class="btn btn-warning btn-lg custom" role="button">Q & A</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://161.35.62.103:5000/" class="btn btn-info btn-lg custom" role="button">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://161.35.62.103:5000/" class="btn btn-sample btn-lg custom" role="button">Exam</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="dot-members" class="btn btn-success btn-lg custom" role="button">Team</a>  
+  <a href="dot-members" class="btn btn-success btn-lg custom" role="button">Team</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="dot-members" class="btn btn-danger btn-lg custom" role="button">Feedback</a>  
 </div>
 </div>
 
