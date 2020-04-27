@@ -40,7 +40,8 @@ permalink: /dot/
   <a href="dot-members" class="btn btn-danger btn-lg custom" role="button">Feedback</a>  
 </div>
 </div>
-
+<br />
+___Note that to try out the Demo, you can use the login info: "1" and "ge" for the two fields respectively.___
 
 
 ## References
