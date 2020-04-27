@@ -40,13 +40,14 @@ permalink: /dot/dot-members/
 </div>
 {% endif %}
 
+{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 
-{% endif %}
+
 {% endif %}
 
 
@@ -81,12 +82,13 @@ permalink: /dot/dot-members/
 </div>
 {% endif %}
 
+{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 
-{% endif %}
+
 {% endif %}
 
