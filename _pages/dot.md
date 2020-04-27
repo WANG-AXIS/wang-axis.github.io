@@ -27,14 +27,17 @@ permalink: /dot/
 <img src="{{ site.url }}/images/dot_cartoon.png" class="img-responsive" width="100%">
 </div>
 
+<br />
+<br />
+<br />
 
-
-
-<div class="d-flex justify-content-around">
-  <a href="dot-qa" class="btn btn-warning btn-lg custom" role="button">Q & A</a>
-  <a href="http://161.35.62.103:5000/" class="btn btn-info btn-lg custom" role="button">Demo</a>
-  <a href="http://161.35.62.103:5000/" class="btn btn-sample btn-lg custom" role="button">Exam</a>
-  <a href="dot-members" class="btn btn-success btn-lg custom" role="button">Team</a>    
+<div class="row">
+<div class="text-center">
+  <a href="dot-qa" class="btn btn-warning btn-lg custom" role="button">Q & A</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://161.35.62.103:5000/" class="btn btn-info btn-lg custom" role="button">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://161.35.62.103:5000/" class="btn btn-sample btn-lg custom" role="button">Exam</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="dot-members" class="btn btn-success btn-lg custom" role="button">Team</a>  
+</div>
 </div>
 
 
