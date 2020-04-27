@@ -6,6 +6,14 @@
   department: BME
 
 
+- name: Hisham Mohamed 
+  photo: mohamh2.jpg
+  info: Lecturer
+  email: mohamh2@rpi.edu
+  url: https://wang-axis.github.io/dot/
+  department: BME
+
+
 - name: Mengzhou Li
   photo: rock.jpg
   info: PhD Student
@@ -30,12 +38,6 @@
   department: BME
 
 
-- name: Hisham Mohamed 
-  photo: mohamh2.jpg
-  info: Lecturer
-  email: mohamh2@rpi.edu
-  url: https://wang-axis.github.io/dot/
-  department: BME
 
 
 - name: Hongming Shan
