@@ -12,7 +12,7 @@ permalink: /dot/
 <link rel="stylesheet" href="{{ site.url }}/css/dot.css">
 
 <div>
-<img src="{{ site.url }}/images/dot.jpg" class="img-responsive" width="100%">
+<a href="https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang"> <img src="{{ site.url }}/images/dot.jpg" class="img-responsive" width="100%"></a>
 </div>
 
 #### Social distancing immediately makes online learning the higher education globally. RPI’s patent-pending Distanced Online Testing (DOT) platform is our solution that cost-effectively beats cheating behaviors in an online exam performed in individual homes. 
