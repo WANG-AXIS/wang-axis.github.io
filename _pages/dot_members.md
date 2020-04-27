@@ -31,7 +31,6 @@ permalink: /dot/dot-members/
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
   
-  Role: {{ member.role }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -73,7 +72,6 @@ permalink: /dot/dot-members/
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
   
-  Role: {{ member.role }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
