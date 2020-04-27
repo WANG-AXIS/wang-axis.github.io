@@ -30,7 +30,7 @@ permalink: /dot/
 
 
 
-<div class="text-left" >
+<div class="d-flex justify-content-around">
   <a href="dot-qa" class="btn btn-warning btn-lg custom" role="button">Q & A</a>
   <a href="http://161.35.62.103:5000/" class="btn btn-info btn-lg custom" role="button">Demo</a>
   <a href="http://161.35.62.103:5000/" class="btn btn-sample btn-lg custom" role="button">Exam</a>
