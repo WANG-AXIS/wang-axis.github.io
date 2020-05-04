@@ -14,6 +14,12 @@
   department: BME
 
 
+- name: Uwe Kruger 
+  photo: krugeu.jpg
+  info: Professor of Practice
+  email: krugeu@rpi.edu
+  url: https://wang-axis.github.io/dot/
+
 - name: Mengzhou Li
   photo: rock.jpg
   info: PhD Student
@@ -37,9 +43,6 @@
   url: https://wang-axis.github.io/dot/
   department: BME
 
-
-
-
 - name: Hongming Shan
   photo: shanh.jpg
   info: Research Scientist
@@ -47,6 +50,13 @@
   url: http://hmshan.io/
   department: BME
 
+
+- name: Melanie Kruger 
+  photo: krugem.jpg
+  info: Undergraduate
+  email: mkruger2002@gmail.com
+  url: https://wang-axis.github.io/dot/
+  department: BME
 
 - name: Lirong Xia
   photo: xial.jpg
