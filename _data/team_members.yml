@@ -12,7 +12,7 @@
 
 - name: Wenxiang Cong
   photo: congw.jpg
-  info: Research Scientists
+  info: Research Scientist
   email: congw@rpi.edu
   url: https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en
   number_educ: 1
@@ -23,7 +23,7 @@
 
 - name: Hongming Shan
   photo: shanh.jpg
-  info: Postdoc Research Associate, 04/17 - Now
+  info: Research Scientist, 04/17 - Now
   email: shanh@rpi.edu
   url: https://scholar.google.com/citations?user=RYfSzKwAAAAJ&hl=en&oi=ao
   number_educ: 2
@@ -53,7 +53,7 @@
   education3:
 
 - name: Mengzhou Li
-  photo: rock.jpg
+  photo: lim23.jpg
   info: PhD Student, 09/18 - Now
   email: lim23@rpi.edu
   url: "no"
