@@ -43,7 +43,6 @@ permalink: /dot/
 </div>
 <br />
 
-<p style="color:#74bddd">Note that to try out the Demo, you can use the login info: "1" and "ge" for the two fields respectively.</p>
 
 
 
