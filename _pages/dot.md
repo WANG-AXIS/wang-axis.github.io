@@ -24,7 +24,7 @@ permalink: /dot/
 
 
 <div>
-<img src="{{ site.url }}/images/dot_cartoon.png" class="img-responsive" width="100%">
+<img src="{{ site.url }}/images/dot_cartoon.jpg" class="img-responsive" width="100%">
 </div>
 
 <br />
