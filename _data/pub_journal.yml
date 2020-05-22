@@ -1,3 +1,15 @@
+
+
+
+- title: Synergizing Medical Imaging and Radiotherapy with Deep Learning
+  author: Hongming Shan, Xun Jia, Pingkun Yan, Yunyao Li, Harald Paganetti, Ge Wang
+  venue: Machine Learning&#58; Science and Technology, 2020
+  year: 2020
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/2632-2153/ab869f
+  code: 
+  type: journal
+
 - title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
   author: Qing Lyu, Hongming Shan, Ge Wang
   venue: IEEE Transactions on Medical Imaging, 2020
