@@ -20,16 +20,6 @@
   education2: xx
   education3: xx
 
-
-- name: Hongming Shan
-  photo: shanh.jpg
-  info: Research Scientist, 04/17 - Now
-  email: shanh@rpi.edu
-  url: https://scholar.google.com/citations?user=RYfSzKwAAAAJ&hl=en&oi=ao
-  number_educ: 2
-  education1: PhD Fudan University, China, 2017
-  education2: BS Shandong University of Technology, China, 2011
-
 - name: Chuang Niu
   photo: niuc.jpg
   info: Postdoc Research Associate, 06/20- Now
