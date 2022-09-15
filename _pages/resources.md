@@ -26,15 +26,15 @@ The industrial universal CT bench-top system (Figure 3) emulates many CT configu
 The system contains a medical x-ray source, a small flat panel detector, and a phantom stage. These are mounted on a set of high-accuracy PC-controlled translation and rotation stages (Figure 4). While the stages are steered, data can be acquired under a pre-defined protocol.
 
 <u>X-ray Source</u>
-* <i>60kW GE tube for 64-slice CT</i>
-* <i>High-V generator, 40-140kVp</i>
+  <i>60kW GE tube for 64-slice CT</i>
+  <i>High-V generator, 40-140kVp</i>
 <u>Detector/DAS</u>
-* <i>Partial GE VCT-LightSpeed detector</i>
-* <i>64-slice (Z) by 128 pixels (X), 1x1 mm2 per pixel</i>
-* <i>Alternative 32-slice by 64 pixels, 2x2mm2 per pixel</i>
+  <i>Partial GE VCT-LightSpeed detector</i>
+  <i>64-slice (Z) by 128 pixels (X), 1x1 mm2 per pixel</i>
+  <i>Alternative 32-slice by 64 pixels, 2x2mm2 per pixel</i>
 <u>Motion Stages</u>
-* <i>Source: X, Y, Z, and φ</i>
-* <i>Detector: X, Y, and φ</i>
-* <i>Phantom: Z and φ</i>
+  <i>Source: X, Y, Z, and φ</i>
+  <i>Detector: X, Y, and φ</i>
+  <i>Phantom: Z and φ</i>
 
 
