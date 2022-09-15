@@ -29,16 +29,7 @@
   education2: BS Xidian University, China, 2015
 
 
-- name: Fenglei Fan
-  photo: fanf2.jpg
-  info: PhD Student, 09/17 - Now
-  email: fanf2@rpi.edu
-  url: https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en&oi=ao
-  number_educ: 1
-  education1: BS Harbin Institute of Technology, China, 2017
-  education2:
-  education3:
-  education4:
+
 
 - name: Qing Lyu
   photo: lyuq.jpg
@@ -73,6 +64,57 @@
   education3:
   education4:
 
+
+  
+  
+  
+  
+- name: Asif Sushmit
+  photo: sushmit.jpg
+  info: PhD Student, 09/21- Now
+  email: sushma@rpi.edu
+  number_educ: 1
+  education1: BS Bangladesh University of Engineering and Technology, 2019  
+  education2:
+  education3:
+  education4:
+  
+  
+
+- name: Syed Tanveer (Derik)
+  photo: derik.jpg
+  info: PhD Student, 09/21- Now
+  email: azamm@rpi.edu
+  number_educ: 1
+  education1: BS Bangladesh University of Engineering and Technology, 2019  
+  education2:
+  education3:
+  education4:
+    
+  
+- name: Yongyi Shi
+  photo: yongyi.jpg
+  info: Postdoc Research Associate, 08/22- Now
+  email: shiy11@rpi.edu
+  number_educ: 2
+  education1: PhD Xidian University, China, 2020
+  education2: BS Xidian University, China, 2015
+  education3:
+  education4:
+
+
+- name: Wenjun Xia
+  photo: wenjun.jpg
+  info: Postdoc Research Associate, 08/22- Now
+  email: xiaw4@rpi.edu
+  number_educ: 2
+  education1: PhD Xidian University, China, 2020
+  education2: BS Xidian University, China, 2015
+  education3:
+  education4:
+  
+  
+  
 - name: Hanqing Chao
   photo: chaoq.jpg
   info: PhD Student, 09/19 - Now
@@ -83,5 +125,6 @@
   education2: BS Nanjing University of Aeronautics and Astronautics, China, 2016
   education3:
   education4:
+
 
 
