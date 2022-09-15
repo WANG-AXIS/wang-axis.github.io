@@ -40,35 +40,35 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
 
 
 
-<u>X-ray Grating-based Imaging Platform:</u> 
+## X-ray Grating-based Imaging Platform:
 
 This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed under the NIH grant R01 EB016977. A customized open x-ray source and a micro-focus x-ray source (L10101, Hamamatsu Photonics, Inc.) are used. The CMOS flat panel detector (XMARU1215-Master Plus, Rayence) has 2352x2944 pixels covering an area of 11.6x14.5cm2 at a maximum frame rate of 60fps with 4x4 binning. Two sets of three gratings G0, G1 and G2 (Micro-Works, Germany) are available for 28keV and 50keV x-ray imaging studies, respectively. The G2 grating is controlled by a high-precision linear stage (XA04A-R101, Kohzu Precision, Japan) with a minimum resolution 0.05µm. The distances among the source, detector, and gratings can be freely adjusted by translation stages (VP-25XA, Newport).
 
 
-<u>Photon-counting Micro-CT Scanner MARS:</u>
+## Photon-counting Micro-CT Scanner MARS:
 
 The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users.
 
 
-<u>CBIS Micro-CT Core:</u>
+## CBIS Micro-CT Core:
 
 The micro-CT scanner Scanco Viva CT40 resolves dense tissues including bone and contrast-enhanced vasculature. It is equipped with a micro-focus x-ray source of 5µm spot size at 50-70kVp, 8W (160µA) to achieve 10µm resolution. It covers a maximum scan length of 145mm and has a field-of-view up to 38mm. Animal husbandry, veterinary, and other facilities are provided by the Bioresearch Core.
 
 
-<u>CBIS BioResearch Core:</u>
+## CBIS BioResearch Core:
   
 This Core is a state-of-the–art small animal housing and research facility. It includes nine barriers, three quarantine holding rooms, and six procedure rooms for ABSL-1 and 2 work. The staff are capable of performing major and minor survival surgery, orthopedic testing, in vivo MRI, fluorescence imaging, behavioral testing, cardiovascular physiology, and more. An animal veterinarian is available on-call. The services include protocol development, IACUC submission, animal identification, tissue specimen and blood collection, phenotype assessment, drug administration, surgical preparation and operation, postoperative recovery and care, breeding colony maintenance, embryo, egg and sperm cryopreservation, animal model development, necropsy and euthanasia.
 
-<u>CBIS Micro-MRI Core:</u>
+## CBIS Micro-MRI Core:
   
 Micro-MRI is ideally suited to perform in vivo studies of animals and ex vivo studies of excised tissues and samples. There are two state-of-the-art high-field micro-MRI scanners (7T/16cm and 14T/8.9cm Bruker AVIII). These are equipped with an array of imaging coils including dedicated high-sensitivity surface and volume resonators for brain and abdomen imaging of mice and rats. In combination with high-performance actively shielded gradients, these systems allow high sensitivity, fast speed, and great flexibility. Animal monitoring equipment is used for triggered data acquisition on respiratory and cardio biometric signatures. Inhaled anesthesia delivery systems, MRI-compatible blood-oxygen sensor, and a small animal ventilator are also available. In addition, the MRI core is current licensed to use many commercial software analysis packages.
 
-<u>GPU Workstations:</u>
+## GPU Workstations:
 
 State-of-the-art GPU workstations are dedicated to deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA, and two TITAN RTX GPUs interconnected via NVIDIA NVLink. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB) for high-resolution volumetric image reconstruction. The standard software packages are installed on all workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
 
 
-<u>High-performance Computing Infrastructure:</u>
+## High-performance Computing Infrastructure:
   
 The Center for Computational Innovations (CCI) at RPI is based on a $100M partnership among Rensselaer, IBM, and New York State. The main workhorse of the CCI is the Artificial Intelligence Multiprocessing Optimized System (AIMOS). It combines POWER9 CPUs and NVIDIA GPUs, and performs eight quadrillion calculations per second. It is the most powerful supercomputer housed in a university setting, and the 24th most powerful supercomputer in the world.
 Publicly Shared AI Software: We are committed to data sharing and reproducible research. Most our deep learning-based software packages will be made publicly available with sufficient documentation and domo datasets on our lab website on GitHub, currently under construction.
