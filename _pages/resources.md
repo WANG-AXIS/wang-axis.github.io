@@ -23,14 +23,9 @@ Figure 1. Biomedical Imaging Center (BIC) in CBIS on the main campus of Renssela
 </p>
 
 
-
-
-
 ## AI-based X-ray Imaging System (AXIS) Lab:
 
 This laboratory owns a Universal CT Bench-top system of $1M investment donated by GE Global Research Center (New York, USA), a grating-based x-ray Talbot-Lau interferometer developed under an NIH R01 support, and a photon-counting micro-CT scanner of $0.5M donated by MARS Bioimaging (Christchurch, New Zealand) (Figure 2).
-
-
 
 <p align = "center">
   <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2a.png" />
@@ -75,7 +70,7 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
 </p>
 
 
-
+{{ site.baseurl }}
 
 
 
