@@ -140,7 +140,7 @@ permalink: /members/
 {% endif %}
 
 
-## Master and Bachelor Students
+## Former Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
