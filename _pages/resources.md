@@ -16,7 +16,7 @@ The mission of Biomedical Imaging Center (BIC) at Rensselaer Polytechnic Institu
 
 
 <p align = "center">
-<img src = "https://github.com/sushmit0109/resource/blob/eedee5416d72903336f36786ed72cc2e280d4e45/files/resource1.png">
+<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource1.png">
 </p>
 <p align = "center">
 Figure 1. Biomedical Imaging Center (BIC) in CBIS on the main campus of Rensselaer Polytechnic Institute (RPI).
