@@ -31,6 +31,25 @@ Figure 1. Biomedical Imaging Center (BIC) in CBIS on the main campus of Renssela
 This laboratory owns a Universal CT Bench-top system of $1M investment donated by GE Global Research Center (New York, USA), a grating-based x-ray Talbot-Lau interferometer developed under an NIH R01 support, and a photon-counting micro-CT scanner of $0.5M donated by MARS Bioimaging (Christchurch, New Zealand) (Figure 2).
 
 
+<p align = "center">
+<img src = "https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource1.png">
+</p>
+<p align = "center">
+
+</p>
+
+
+<p align = "center">
+  <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2a.png" />
+  <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2b.png" /> 
+  Figure 2. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
+</p>
+
+
+
+
+
+
 ## Universal CT Bench-top System:
 
 The industrial universal CT bench-top system (Figure 3) emulates many CT configurations. This emulator can reveal physical effects like scatter that is difficult to simulate numerically. This system is critical for development of x-ray imaging technologies such as photon-counting detectors.
