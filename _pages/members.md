@@ -77,7 +77,7 @@ permalink: /members/
 {% endif %}
 
 
-## Visiting Scholar
+## Previous Visiting Scholar
 {% assign number_printed = 0 %}
 {% for member in site.data.team_visitors %}
 
