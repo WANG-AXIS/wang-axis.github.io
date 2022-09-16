@@ -79,9 +79,9 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
 
 
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5a.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5b.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5c.jpg" />
+  <img style="width: "20vw"; min-width: "330px";" src="https://github.com/sushmit0109/resource/blob/main/files/resource5a.jpg" />
+  <img style="width: "20vw"; min-width: "330px";" src="https://github.com/sushmit0109/resource/blob/main/files/resource5b.jpg" />
+  <img style="width: "20vw"; min-width: "330px";" src="https://github.com/sushmit0109/resource/blob/main/files/resource5c.jpg" />
   
   Figure 5. X-ray gratings G0, G1 and G2 for x-ray imaging at 50keV (the other set in the lab for 28keV, not shown).   
   
