@@ -10,6 +10,16 @@
   education4: 
   education5: 
 
+- name: Chuang Niu
+  photo: niuc.jpg
+  info: Associate Lab Director. Postdoc Research Associate, 06/20- Now
+  email: niuc@rpi.edu
+  url: https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl=en
+  number_educ: 2
+  education1: PhD Xidian University, China, 2020
+  education2: BS Xidian University, China, 2015
+
+
 - name: Wenxiang Cong
   photo: congw.jpg
   info: Research Scientist
@@ -19,17 +29,6 @@
   education1: PhD Beijing University of Science and Technology, China, 1998
   education2: xx
   education3: xx
-
-- name: Chuang Niu
-  photo: niuc.jpg
-  info: <b>Associate Lab Director</b> Postdoc Research Associate, 06/20- Now
-  email: niuc@rpi.edu
-  url: https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl=en
-  number_educ: 2
-  education1: PhD Xidian University, China, 2020
-  education2: BS Xidian University, China, 2015
-
-
 
 
 - name: Qing Lyu
