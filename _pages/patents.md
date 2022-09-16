@@ -58,6 +58,49 @@ second GAN , to optimize the optimization function .
 
 
 
+# DETECTION SCHEME FOR X-RAY SMALL ANGLE SCATTERING
+
+<b>Inventors</b>
+Ge Wang, Guang Li, Wenxiang Cong
+
+<b>Publication date :</b> 2022/7/14
+
+<b>Patent office :</b> US
+
+<b>Application number</b> : 17711171
+
+<b>Description</b>: 
+A detection scheme for x-ray small angle scattering is described. An x-ray small angle scattering apparatus may include a first grating and a complementary second grating. The first grating includes a plurality of first grating cells. The complementary second grating includes a plurality of second grating cells. The second grating is positioned relative to the first grating. A configuration of the first grating, a configuration of the second grating and the relative positioning of the gratings are configured to pass one or more small angle scattered photons and to block one or more Compton scattered photons and one or more main x-ray photons.
+
+
+# SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)
+
+<b>Inventors</b>
+Ge Wang, Lars Arne Gjesteby
+
+<b>Publication date :</b> 2022/6/9
+
+<b>Patent office :</b> US
+
+<b>Application number</b> : 17679716
+
+<b>Description</b>: 
+Systems and methods for obtaining simultaneous X-ray—magnetic resonance imaging (MRI) images are provided. A magnetic resonance X-ray CT (MRX) system can combine X-ray imaging and MRI in a cost-effective and relatively simple solution for improved imaging. During imaging of a subject, the X-ray source and X-ray detector can be simultaneously rotated around the subject, and the means for generating a magnetic field can also be rotated around the subject. The means for generating a magnetic field can be a plurality of permanent magnets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
