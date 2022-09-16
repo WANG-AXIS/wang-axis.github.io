@@ -17,8 +17,6 @@ permalink: /multimedia/
 #### Machine Learning for Tomographic Imaging presented at University of Minnesota
 <iframe width="640" height="360" src="https://reel.ima.umn.edu/videos/2019/SW10.14-18.19/Wang-10-16-19.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Looking Forward as RPI Leads Innovative Cancer Research, Spectrum News
-<iframe width="640" height="360" src="https://ns8-ns-twc-com.akamaized.net/news/mpx/133/247/40825778_AL%20Cancer%20Imaging%20Business%20Beat%20PKG.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Gallery
 (Right-click *'view image'* to see a larger image.)
