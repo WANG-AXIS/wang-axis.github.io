@@ -28,8 +28,8 @@ Figure 1. Biomedical Imaging Center (BIC) in CBIS on the main campus of Renssela
 This laboratory owns a Universal CT Bench-top system of $1M investment donated by GE Global Research Center (New York, USA), a grating-based x-ray Talbot-Lau interferometer developed under an NIH R01 support, and a photon-counting micro-CT scanner of $0.5M donated by MARS Bioimaging (Christchurch, New Zealand) (Figure 2).
 
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/eedee5416d72903336f36786ed72cc2e280d4e45/files/resource2a.png" /> 
-  <img style="width: 21vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/eedee5416d72903336f36786ed72cc2e280d4e45/files/resource2b.png" /> 
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource2a.png" /> 
+  <img style="width: 21vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource2b.png" /> 
   
   Figure 2. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
 </p>
@@ -56,15 +56,17 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
 
 
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/eedee5416d72903336f36786ed72cc2e280d4e45/files/resource3a.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/eedee5416d72903336f36786ed72cc2e280d4e45/files/resource3b.jpg" /> 
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource3a.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource3b.jpg" /> 
   
   Figure 3. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
 </p>
 
 
+
+
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource4.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource4.jpg" />
   
   Figure 4. Specifications of the universal CT emulator with its source, detector and phantom base on supporting stages.
 </p>
@@ -79,9 +81,9 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
 
 
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5a.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5b.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource5c.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5a.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5b.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5c.jpg" />
   
   Figure 5. X-ray gratings G0, G1 and G2 for x-ray imaging at 50keV (the other set in the lab for 28keV, not shown).   
   
@@ -90,9 +92,9 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
 
 
 <p align = "center">
-  <img style="width: 40vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource6a.png" />
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource6b.png" />
-  <img style="width: 27vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource6c.png" />
+  <img style="width: 40vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource6a.png" />
+  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource6b.png" />
+  <img style="width: 27vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource6c.png" />
   
   Figure 6. X-ray grating-based imaging platform. (a) The system configured in a zooming mode, (b) images of a plant sample, and (c) projections of a       mouse in attenuation, phase, and small angle scattering contrasts respectively.
   
@@ -112,7 +114,7 @@ The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging
 
 
 <p align = "center">
-  <img style="width: 40vw; min-width: 330px;" src="https://github.com/sushmit0109/resource/blob/main/files/resource7.png" />
+  <img style="width: 40vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource7.png" />
 
   Figure 7. Photon-counting micro-CT scanner donated by MARS Bioimaging to Wang’s lab.
   
