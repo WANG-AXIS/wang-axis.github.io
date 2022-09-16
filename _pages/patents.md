@@ -73,7 +73,10 @@ Ge Wang, Guang Li, Wenxiang Cong
 A detection scheme for x-ray small angle scattering is described. An x-ray small angle scattering apparatus may include a first grating and a complementary second grating. The first grating includes a plurality of first grating cells. The complementary second grating includes a plurality of second grating cells. The second grating is positioned relative to the first grating. A configuration of the first grating, a configuration of the second grating and the relative positioning of the gratings are configured to pass one or more small angle scattered photons and to block one or more Compton scattered photons and one or more main x-ray photons.
 
 
-# SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)
+
+
+# <a href="https://patentimages.storage.googleapis.com/89/04/7d/780bc1f5954cbe/US20220175329A1.pdf">link SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)</a>
+
 
 <b>Inventors</b>
 Ge Wang, Lars Arne Gjesteby
