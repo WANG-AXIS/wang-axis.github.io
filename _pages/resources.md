@@ -33,8 +33,9 @@ This laboratory owns a Universal CT Bench-top system of $1M investment donated b
 
 
 <p align = "center">
-  <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2a.png" />
-  <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2b.png" /> 
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2a.png" />
+  <img style="width: 21vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource2b.png" /> 
+  
   Figure 2. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
 </p>
 
@@ -59,6 +60,15 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
   <i>Source: X, Y, Z, and φ</i>
   <i>Detector: X, Y, and φ</i>
   <i>Phantom: Z and φ</i>
+
+
+<p align = "center">
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3a.png" />
+  <img style="width: 21vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3b.png" />
+  
+  Figure 3. Photos of the universal CT bench-top system. (a) A top view and (b) the control cabinet.
+</p>
+
 
 
 
