@@ -15,6 +15,11 @@ permalink: /resources/
 The mission of Biomedical Imaging Center (BIC) at Rensselaer Polytechnic Institute (RPI) is to define and advance imaging frontiers, theories and technologies, realize clinical, preclinical and other potentials, as well as train scientists and engineers. BIC is directed by Dr. Ge Wang and occupies office and laboratory space of ~3,000sf in the Center for Biotechnology and Interdisciplinary Studies (CBIS) (Figure 1), which ranks among the world's most advanced research facilities.
 
 
+![alt text](https://github.com/WANG-AXIS/wang-axis.github.io/tree/master/images/resourceImg/resource1.png)
+
+
+
+
 ## AI-based X-ray Imaging System (AXIS) Lab:
 
 This laboratory owns a Universal CT Bench-top system of $1M investment donated by GE Global Research Center (New York, USA), a grating-based x-ray Talbot-Lau interferometer developed under an NIH R01 support, and a photon-counting micro-CT scanner of $0.5M donated by MARS Bioimaging (Christchurch, New Zealand) (Figure 2).
