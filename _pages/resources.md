@@ -70,9 +70,6 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
 </p>
 
 
-{{ site.baseurl }}
-
-
 
 ## X-ray Grating-based Imaging Platform:
 
