@@ -75,7 +75,7 @@ A detection scheme for x-ray small angle scattering is described. An x-ray small
 
 
 
-# <a href="https://patentimages.storage.googleapis.com/89/04/7d/780bc1f5954cbe/US20220175329A1.pdf">link SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)</a>
+# <a href="https://patentimages.storage.googleapis.com/89/04/7d/780bc1f5954cbe/US20220175329A1.pdf"> SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)</a>
 
 
 <b>Inventors</b>
