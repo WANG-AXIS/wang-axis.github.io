@@ -41,9 +41,6 @@ This laboratory owns a Universal CT Bench-top system of $1M investment donated b
 
 
 
-
-
-
 ## Universal CT Bench-top System:
 
 The industrial universal CT bench-top system (Figure 3) emulates many CT configurations. This emulator can reveal physical effects like scatter that is difficult to simulate numerically. This system is critical for development of x-ray imaging technologies such as photon-counting detectors.
@@ -62,12 +59,21 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
   <i>Phantom: Z and φ</i>
 
 
+
 <p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3a.png" />
-  <img style="width: 21vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3b.png" />
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3a.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource3b.jpg" /> 
   
-  Figure 3. Photos of the universal CT bench-top system. (a) A top view and (b) the control cabinet.
+  Figure 3. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
 </p>
+
+
+<p align = "center">
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource4.jpg" />
+  
+  Figure 4. Specifications of the universal CT emulator with its source, detector and phantom base on supporting stages.
+</p>
+
 
 
 
@@ -78,9 +84,53 @@ The system contains a medical x-ray source, a small flat panel detector, and a p
 This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed under the NIH grant R01 EB016977. A customized open x-ray source and a micro-focus x-ray source (L10101, Hamamatsu Photonics, Inc.) are used. The CMOS flat panel detector (XMARU1215-Master Plus, Rayence) has 2352x2944 pixels covering an area of 11.6x14.5cm2 at a maximum frame rate of 60fps with 4x4 binning. Two sets of three gratings G0, G1 and G2 (Micro-Works, Germany) are available for 28keV and 50keV x-ray imaging studies, respectively. The G2 grating is controlled by a high-precision linear stage (XA04A-R101, Kohzu Precision, Japan) with a minimum resolution 0.05µm. The distances among the source, detector, and gratings can be freely adjusted by translation stages (VP-25XA, Newport).
 
 
+
+
+<p align = "center">
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource5a.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource5b.jpg" />
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource5c.jpg" />
+  
+  Figure 5. X-ray gratings G0, G1 and G2 for x-ray imaging at 50keV (the other set in the lab for 28keV, not shown).   
+  
+</p>
+
+
+
+<p align = "center">
+  <img style="width: 40vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource6a.png" />
+  <img style="width: 20vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource6b.png" />
+  <img style="width: 27vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource6c.png" />
+  
+  Figure 6. X-ray grating-based imaging platform. (a) The system configured in a zooming mode, (b) images of a plant sample, and (c) projections of a       mouse in attenuation, phase, and small angle scattering contrasts respectively.
+  
+</p>
+
+
+ 
+
+
+
+
+
+
 ## Photon-counting Micro-CT Scanner MARS:
 
 The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users.
+
+
+<p align = "center">
+  <img style="width: 40vw; min-width: 330px;" src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/resourceImg/resource7.png" />
+ 
+  
+  
+  Figure 7. Photon-counting micro-CT scanner donated by MARS Bioimaging to Wang’s lab.
+  
+</p>
+
+
+
+
 
 
 ## CBIS Micro-CT Core:
