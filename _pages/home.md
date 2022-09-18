@@ -33,45 +33,6 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
             </div>
         </div>    
          
-        <div class="item">
-            <a href="https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 2" />
-            </a>
-            <div class="carousel-caption carousel-caption-color">
-              <p>Integrated Imaging Technology Aims To Provide Real-Time Look at Cancer Treatment</p>
-            </div>
-           
-        </div>
-        
-            
-        </div>
-        <div class="item">
-            <a href="https://ieeeaccess.ieee.org/featured-articles/deepimaging/">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/access-perspective.jpg" alt="Slide 3" />
-            </a>
-            <div class="carousel-caption carousel-caption-color">
-              <p>IEEE Access featured Dr. Wang's perspective</p>
-            </div>
-            
-        </div>
-        <div class="item">
-            <a href="https://www.nature.com/articles/s42256-019-0057-9">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nmi-mapnn.jpg" alt="Slide 4" />
-            </a>
-            <div class="carousel-caption carousel-caption-color">
-              <p>Machine learning approach for low-dose CT imaging yields superior results</p>
-            </div>
-           
-        </div>
-        <div class="item">
-            <a href="https://iopscience.iop.org/book/978-0-7503-2216-4">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wang-book.jpg" alt="Slide 5" />
-            </a>
-            <div class="carousel-caption carousel-caption-color">
-              <p>Ge Wang Co-Authors Book on Machine Learning for Tomographic Imaging</p>
-            </div>
-            
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
