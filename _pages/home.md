@@ -31,8 +31,8 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
             <div class="carousel-caption carousel-caption-color">
               <p>Ge Wang recieves 2022 SPIE Aden and Marjorie Meinel Technology Achievement Award</p>
             </div>
-            
-            
+        </div>    
+         
         <div class="item">
             <a href="https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment">
               <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 2" />
