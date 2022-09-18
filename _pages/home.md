@@ -33,7 +33,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
             </div>
             
             
-        <div class="item active">
+        <div class="item">
             <a href="https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment">
               <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 2" />
             </a>
