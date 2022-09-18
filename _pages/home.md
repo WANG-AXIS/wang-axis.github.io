@@ -14,7 +14,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="1" class="active"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
@@ -23,22 +23,26 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
+        
+        <div class="item active">
+            <a href="https://spie.org/about-spie/awards-programs/awards-listing/spie-aden-and-marjorie-meinel-technology-achievement-award">
+              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/newspic/16805223459462_RPI_BME_Ge%20Wang_20221024_1.png" alt="Slide 1" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Ge Wang recieves 2022 SPIE Aden and Marjorie Meinel Technology Achievement Award</p>
+            </div>
+            
+            
         <div class="item active">
             <a href="https://news.rpi.edu/content/2019/09/18/integrated-imaging-technology-aims-provide-real-time-look-cancer-treatment">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 1" />
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rpi-cancer-research.jpg" alt="Slide 2" />
             </a>
             <div class="carousel-caption carousel-caption-color">
               <p>Integrated Imaging Technology Aims To Provide Real-Time Look at Cancer Treatment</p>
             </div>
            
         </div>
-        <div class="item">
-            <a href="https://ieee-tmi.org/fast-facts/featured-article.asp?id=30&title=Special-Issue-on-Machine-Learning-for-Image-Reconstruction,-June-2018">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tmi-special-issue.jpg" alt="Slide 2" />
-            </a>
-            <div class="carousel-caption carousel-caption-color">
-              <p>Special Issue on Machine Learning for Image Reconstruction, June 2018</p>
-            </div>
+        
             
         </div>
         <div class="item">
