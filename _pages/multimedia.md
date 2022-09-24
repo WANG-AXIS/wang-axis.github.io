@@ -18,6 +18,10 @@ permalink: /multimedia/
 <iframe width="640" height="360" src="https://reel.ima.umn.edu/videos/2019/SW10.14-18.19/Wang-10-16-19.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+#### CT - Ideas & Impacts by Ge Wang:
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=DShSGYHaKgY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
