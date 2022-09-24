@@ -21,6 +21,9 @@ permalink: /multimedia/
 #### CT - Ideas & Impacts by Ge Wang:
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=DShSGYHaKgY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### CT - Ideas & Impacts by Ge Wang:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DShSGYHaKgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Gallery
 (Right-click *'view image'* to see a larger image.)
