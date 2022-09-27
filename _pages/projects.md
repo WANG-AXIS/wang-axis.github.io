@@ -9,7 +9,7 @@ permalink: /projects/
 # Projects
 
 ## Artificial Intelligence / Machine Learning for Tomographic Imaging
-*	**2016 [First perspective](https://ieeexplore.ieee.org/document/7733110) on machine learning / deep learning for tomographic imaging**, as a roadmap for the new area of “deep reconstruction” / “deep imaging” and a basis for the 1st special journal issue on this theme (IEEE Trans. Medical Imaging (TMI)), recognized as 2018 [IEEE Access Featured Article](https://ieeeaccess.ieee.org/featured-articles/deepimaging/)
+*	**2016 [First perspective](https://ieeexplore.ieee.org/document/7733110) on machine learning / deep learning for tomographic imaging**, as a roadmap for the new area of “deep reconstruction” / “Deep imaging” and a basis for the 1st special journal issue on this theme (IEEE Trans. Medical Imaging (TMI)), recognized as 2018 [IEEE Access Featured Article](https://ieeeaccess.ieee.org/featured-articles/deepimaging/)
 
 *	**2017 Top 10 most downloaded articles of Med. Phys.** (Wang G, Kalra M, Orton C: [Machine learning will transform radiology significantly within the next 5 years](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12204), Med. Phys. 44:2041-2044; by the end of 2017, it received 1727 downloads)
 
