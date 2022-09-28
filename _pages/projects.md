@@ -6,6 +6,9 @@ sitemap: false
 permalink: /projects/
 ---
 
+
+<!-- This content will not appear in the rendered Markdown 
+
 # Projects
 
 ## Artificial Intelligence / Machine Learning for Tomographic Imaging
@@ -37,7 +40,118 @@ which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.
 18.19/28288)
 
 *	**Wang G, et al., Textbook “[Machine Learning for Tomographic Imaging](https://iopscience.iop.org/book/978-0-7503-2216-4)” (410 pages), IOP, 2019** (The first and only book in this area, announced in “[Physics World](https://physicsworld.com/a/a-machine-learning-revolution/)”), published in 2019, [Link](https://physicsworld.com/a/machine-learning-for-tomographic-imaging)
+-->
 
+# Project (Active Grants)
+
+## Deep Learning for Medical CT
+
+The goal is to develop medical CT algorithms.
+
+* Industrial grant from General Electric
+* PI: Wang
+* Project schedule: 01/01/2021– 12/31/2022 (0.25 Calendar)
+
+
+## Preclinical Micro-CT
+
+The goal is to develop preclinical micro-CT algorithms
+
+* Industrial grant from FirstImaging (Shanghai, China)
+* PI: Wang
+* Project schedule: 01/01/2021– 12/31/2021 (0.25 Calendar)
+
+
+
+## Focused X-ray Luminescence at µCT Resolution and µM-level Sensitivity
+
+The goal is to develop the first-of-its-kind focused x-ray luminescence tomography (FXLT) scanner to “slice” deep cancers/tissues sensitively and longitudinally at 150μm resolution at a radiation dose comparable to that of a regular micro-CT scan.
+
+* Grant from NIH/NIBIB
+* PI: Li, Sub-PI: Wang
+* Project schedule: 07/01/2018 – 03/31/2022 (1.0 Calendar)
+
+## Prognostic Radiomic Markers of Response and Recurrence for Patients with Colorectal Liver Metastases
+
+The goal is to develop and validate robust imaging features by standardizing image acquisition, improve automated tools for clinical trial use, and validate the predictive power of imaging features with external data.
+
+* Grant from NIH/NCI
+* PI: Do, Sub-PI: Wang
+* Project schedule: 03/01/2019 – 08/31/2024 (0.56 Calendar)
+
+## Photon-counting X-ray and Optical Tomography for Preclinical Cancer
+
+The goal is to develop a hybrid x-ray and optical prototype for High-dimensional Optical Tomography (HOT) Guided-by Energy-resolved Micro-CT (GEM), visualize and quantitate breast tumor heterogeneity, HER2 expression and dimerization, and therapeutic response in preclinical models.
+
+* Grant from NIH/NCI
+* Contact PI: Wang
+* Project schedule: 09/01/2019 – 08/31/2024 (1.5 Calendar)
+
+
+## Cardiac CT Deblooming 
+
+The goal is to use deep learning to eliminate blooming artifacts without costly redesign of the CT hardware.
+
+* Grant from NIH/NIBIB
+* MPI: Wang
+* Project schedule: 04/01/2020 – 06/30/2024 (2.0 Calendar)
+
+
+## Bio-tissue Oxygenation Nanophosphor Enabled Sensing (BONES) for Quantifying Hypoxia in Bone Marrow
+
+The goal is to develop radiomics/rawdiomics for personalized treatment of colorectal liver metastases.
+
+* Grant from NIH/NIGMS
+* PI: Wen
+* Project schedule: 06/01/2021 – 11/30/2023 (0.25 Calendar)
+
+
+## SPECT with a Compton Camera for Thyroid Cancer Imaging
+
+The goal is to design a high-efficiency and high-quality Compton camera based tomographic imaging system.
+
+* Grant from NIH/NCI
+* MPI: Wang
+* Project schedule: 05/01/2021 – 04/30/2023 (0.5 Calendar)
+
+
+## Constrained Disentanglement (CODE) Network for CT Metal Artifact Reduction in Radiation Therapy
+
+The goal is to develop deep learning algorithms for CT metal artifact reduction in the context of proton therapy.
+
+* Grant from NIH/NIBIB
+* Contact PI: Wang
+* Project schedule: 09/01/2021 – 08/31/2024 (1.5 Calendar)
+
+
+## Adversarially Based Virtual CT Workflow for Evaluation of AI Imaging
+
+The goal is to develop an FDA workflow evaluating, approving, and monitoring AI imaging software.
+
+
+* Grant from NIH/NIBIB
+* Contact PI: Wang
+* Project schedule: 04/01/2022 – 03/31/2026 (1.25 Calendar)
+
+
+
+
+
+# Projects (Pending/Upcoming)
+
+
+## Empowering CT for Temporal Bone Imaging With Interior Tomography, Deep Learning, and Robotics
+
+The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ray source and photon-counting detector technologies for temporal bone imaging.
+
+* Grant from NIH/NIBIB
+* Contact PI: Wang
+* Project Schedule: 04/01/2023-03/31/2027	(0.625 Calendar)
+
+
+
+
+# Projects (Completed)
 
 ## Auto-driving Vehicle-based Affordable Tomography-Analytics Robots (AVATAR)
 
