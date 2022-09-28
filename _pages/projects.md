@@ -133,9 +133,9 @@ The goal is to develop an FDA workflow evaluating, approving, and monitoring AI 
 * Contact PI: Wang
 * Project schedule: 04/01/2022 – 03/31/2026 (1.25 Calendar)
 
-
-
-
+\
+\
+\
 
 # Projects (Pending/Upcoming)
 
@@ -149,7 +149,9 @@ The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ra
 * Project Schedule: 04/01/2023-03/31/2027	(0.625 Calendar)
 
 
-
+\
+\
+\
 
 # Projects (Completed)
 
