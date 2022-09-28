@@ -135,7 +135,7 @@ The goal is to develop an FDA workflow evaluating, approving, and monitoring AI 
 
 \
 \
-\
+
 
 # Projects (Pending/Upcoming)
 
@@ -151,7 +151,7 @@ The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ra
 
 \
 \
-\
+
 
 # Projects (Completed)
 
