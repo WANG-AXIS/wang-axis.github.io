@@ -51,6 +51,29 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 <p> &nbsp; </p>
 
 
+
+## Representative Works
+
+<ol reversed>
+{%- for pub in site.data.pub_journal2 -%}
+{% if pub.type == "journal" %}
+<li>
+<p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
+  {{ pub.author }}<br>
+  {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
+  {%- if pub.url -%}
+  [<a href="{{ pub.url}}">link</a>]
+  {%- endif -%}
+</p>
+</li>
+{% endif %}
+{%- endfor -%}
+
+</ol>
+
+
+
+<!-- This content will not appear in the rendered Markdown 
 ## Preprint
 
 <ol reversed>
@@ -93,24 +116,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <p> &nbsp; </p>
 
-## Journal
-
-<ol reversed>
-{%- for pub in site.data.pub_journal -%}
-{% if pub.type == "journal" %}
-<li>
-<p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
-  {{ pub.author }}<br>
-  {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
-  {%- if pub.url -%}
-  [<a href="{{ pub.url}}">link</a>]
-  {%- endif -%}
-</p>
-</li>
-{% endif %}
-{%- endfor -%}
-
-</ol>
 
 <p> &nbsp; </p>
 
@@ -132,3 +137,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 {%- endfor -%}
 
 </ol>
+-->
+
+
