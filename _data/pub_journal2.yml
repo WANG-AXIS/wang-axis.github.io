@@ -1,4 +1,13 @@
 
+- title: Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography
+  author: Hanqing Chao, Hongming Shan, Fatemeh Homayounieh, Ramandeep Singh, Ruhani Doda Khera, Hengtao Guo, Timothy Su, Ge Wang, Mannudeep K Kalra, Pingkun Yan
+  venue: Nature communications
+  year: 2021
+  arxiv: 
+  url: https://www.nature.com/articles/s41467-021-23235-4
+  code: 
+  type: journal
+
 
 - title: Multi-Contrast Super-Resolution MRI Through a Progressive Network
   author: Qing Lyu, Hongming Shan, Ge Wang
@@ -24,6 +33,15 @@
   year: 2020
   arxiv: 
   url: https://www.sciencedirect.com/science/article/pii/S1361841519301641
+  code: 
+  type: journal
+
+- title: Deep learning for tomographic image reconstruction
+  author: Ge Wang, Jong Chul Ye, Bruno De Man
+  venue: Nature Machine Intelligence
+  year: 2020
+  arxiv: 
+  url: https://www.nature.com/articles/s42256-020-00273-z
   code: 
   type: journal
 
@@ -596,6 +614,14 @@
   code: 
   type: journal
 
+- title: Addendum: Wnt4 signaling prevents skeletal aging and inflammation by inhibiting nuclear factor-κB
+  author: Bo Yu, Jia Chang, Yunsong Liu, Jiong Li, Kareena Kevork, Khalid Al-Hezaimi, Dana T Graves, No-Hee Park, Cun-Yu Wang
+  venue: Nature medicine
+  year: 2015
+  arxiv: 
+  url: https://www.nature.com/articles/nm0915-1101
+  code: 
+  type: journal
 
 - title: Spherical grating based x‐ray Talbot interferometry
   author: Wenxiang Cong, Yan Xi, Ge Wang
