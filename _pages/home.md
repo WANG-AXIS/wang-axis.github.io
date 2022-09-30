@@ -14,7 +14,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="1" class="active"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
@@ -32,7 +32,18 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
               <p>Ge Wang recieves 2022 SPIE Aden and Marjorie Meinel Technology Achievement Award</p>
             </div>
         </div>    
-         
+      
+        <div class="item active">
+            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/slider7001400/SPIE-Chuang-MZ.jpg" alt="Slide 2" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Lab members Chuang and Mengzhou in SPIE Conference</p>
+            </div>
+        </div> 
+        
+        
+        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
