@@ -27,3 +27,25 @@
   url: https://www.sciencedirect.com/science/article/abs/pii/S1076633203800788
   code: 
   type: journal
+  
+
+- title: Convergence studies on iterative algorithms for image reconstruction
+  author: Ming Jiang and Ge Wang
+  venue: IEEE Transactions on Medical Imaging ( Volume: 22, Issue: 5)
+  year: 2003
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/1207392
+  code: 
+  type: journal
+  
+  
+- title: Uniqueness theorems in bioluminescence tomography
+  author: Ge Wang, Yi Li and Ming Jiang
+  venue: Medical physics ( Volume: 31, Issue: 8)
+  year: 2004
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.1766420
+  code: 
+  type: journal
+  
+  
