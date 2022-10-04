@@ -1,1 +1,29 @@
 
+- title: A general cone-beam reconstruction algorithm
+  author: Ge Wang, T H Lin, Ping-chin Cheng and Douglus M Shinozaki
+  venue: IEEE Transactions on Medical Imaging ( Volume: 12, Issue: 3)
+  year: 1993
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/241876
+  code: 
+  type: journal
+  
+  
+- title: Longitudinal resolution in volumetric x-ray computerized tomography—analytical comparison between conventional and helical computerized tomography
+  author: Ge Wang and M W Vannier
+  venue: Medical Physics ( Volume: 21, Issue: 3)
+  year: 1994
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.597306
+  code: 
+  type: journal
+  
+  
+- title: Spatial variation of resolution and noise in multi-slice spiral CT
+  author: John F Meinel Jr, Ge Wang, Ming Jiang, Troy Frei, Michael Vannier and Eric Hoffman
+  venue: Academic Radiology ( Volume: 10, Issue: 6)
+  year: 2003
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1076633203800788
+  code: 
+  type: journal
