@@ -51,11 +51,10 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 <p> &nbsp; </p>
 
 
-<!--
-## Representative Works
+## Journals
 
 <ol reversed>
-{%- for pub in site.data.pub_journal2 -%}
+{%- for pub in site.data.pub_journal -%}
 {% if pub.type == "journal" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
@@ -70,7 +69,6 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 {%- endfor -%}
 
 </ol>
--->
 
 
 ## Preprint
