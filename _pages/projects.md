@@ -163,7 +163,7 @@ The goal is to develop preclinical micro-CT algorithms.
 
 
 
-# Projects (Pending/Upcoming)
+# Projects (In Progress/Upcoming)
 
 
 ## Empowering CT for Temporal Bone Imaging With Interior Tomography, Deep Learning, and Robotics
