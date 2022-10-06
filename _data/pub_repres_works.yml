@@ -1,0 +1,137 @@
+
+- title: : Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography
+  author: Chao HQ, Shan HM, Homayounieh F, Singh R, Khera RD, Guo HT, Su T, Wang G, Kalra MK, Yan PK
+  venue: Nature Communications
+  year: 2021
+  arxiv: 
+  url: https://www.nature.com/articles/s41467-021-23235-4
+  code: 
+  type: works
+  
+- title: : Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction
+  author: Shan HM, Padole A, Homayounieh F, Kruger U, Khera RD, Nitiwarangkul C, Kalra MK, Wang G
+  venue: Nature Machine Intelligence
+  year: 2019
+  arxiv: 
+  url: https://www.nature.com/articles/s42256-019-0057-9
+  code: 
+  type: works
+  
+- title: : A novel edge-on structure for energy-resolved x-ray detection
+  author: Shi ZF, Yang HY, Cong WX, Wang G
+  venue: Physics in Medicine & Biology
+  year: 2016
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/0031-9155/61/11/4183
+  code: 
+  type: works
+  
+- title: : Determining scientific impact using a collaboration index
+  author: Stallings J, Vance E, Yang JS, Vannier MW, Liang J, Pang L, Dai L, Ye I, Wang G
+  venue: PNAS
+  year: 2013
+  arxiv: 
+  url: https://www.pnas.org/doi/abs/10.1073/pnas.1220184110
+  code: 
+  type: works
+  
+- title: : Low-dose x-ray CT reconstruction via dictionary learning
+  author: Xu Q, Yu HY, Mou XQ, Zhang L, Wang G
+  venue: IEEE Transactions on Medical Imaging
+  year: 2012
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/6188527
+  code: 
+  type: works
+  
+- title: : Stability of the interior problem with polynomial attenuation in region of interest
+  author: Katsevich G, Katsevich A, Wang G
+  venue: Inverse Problems
+  year: 2012
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/0266-5611/28/6/065022/
+  code: 
+  type: works
+  
+- title: : Multi-energy CT based on a prior rank, intensity and sparsity model (PRISM)
+  author: Gao H, Yu HY, Osher S, Wang G
+  venue: Inverse Problems
+  year: 2011
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/0266-5611/27/11/115012/
+  code: 
+  type: works
+
+- title: : Non-uniqueness and instability of ‘Ankylography’
+  author: Wang G, Yu H, Cong W, Katsevich A
+  venue: Nature
+  year: 2011
+  arxiv: 
+  url: https://www.nature.com/articles/nature10635
+  code: 
+  type: works
+  
+- title: : Compressive sensing based interior tomography
+  author: Yu H, Wang G
+  venue: Physics in Medicine & Biology
+  year: 2009
+  arxiv: 
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246307
+  code: 
+  type: works
+  
+- title: : In vivo mouse studies with bioluminescence tomography
+  author: Wang G, Cong WX, Kumar D, Qian X, Shen H, Sinn P, Hoffman E, McLennan G, Henry M
+  venue: Optics Express
+  year: 2006
+  arxiv: 
+  url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-14-17-7801&id=97670
+  code: 
+  type: works
+
+- title: : Uniqueness theorems in bioluminescence tomography
+  author: Wang G, Li Y, Jiang M
+  venue: Medical Physics
+  year: 2004
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.1766420
+  code: 
+  type: works
+
+- title: : Convergence studies on iterative algorithms for image reconstruction
+  author: Jiang M, Wang G
+  venue: IEEE Transactions on Medical Imaging
+  year: 2003
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/1207392
+  code: 
+  type: works
+  
+- title: : Spatial variation of resolution and noise in multi-slice spiral CT
+  author: Meinel Jr. JF, Wang G, Jiang M, Frei T, Vannier MW, Hoffman EA
+  venue: Academic Radiology
+  year: 2003
+  arxiv: 
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1076633203800788
+  code: 
+  type: works
+  
+- title: Longitudinal resolution in volumetric X-ray CT – Analytical comparison between conventional and helical CT
+  author: Wang G, Vannier MW
+  venue: Medical Physics
+  year: 1994
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.597306
+  code: 
+  type: works
+  
+- title: A general cone-beam reconstruction algorithm
+  author: Wang G, Lin TH, Cheng PC, Shinozaki DM
+  venue: IEEE Transactions on Medical Imaging
+  year: 1993
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/241876
+  code: 
+  type: works
+  
+  
