@@ -51,12 +51,12 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 <p> &nbsp; </p>
 
 
-## Journals
+## Representative Works
 
 <!--<ol reversed>-->
 <ol>
-{%- for pub in site.data.pub_journal -%}
-{% if pub.type == "journal" %}
+{%- for pub in site.data.pub_repres_works -%}
+{% if pub.type == "works" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -72,12 +72,12 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 </ol>
 
 
-## Preprint
+## Representative Perspectives/Reviews
 
 <!--<ol reversed>-->
 <ol>
-{%- for pub in site.data.pub_preprint -%}
-{% if pub.type == "preprint" %}
+{%- for pub in site.data.pub_repres_perspective -%}
+{% if pub.type == "perspective" %}
 <li>
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
@@ -94,10 +94,12 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 <p> &nbsp; </p>
 
+
+<!--
 ## Book (Chapter)
 
 
-<!--<ol reversed>-->
+
 <ol>
 {%- for pub in site.data.pub_book -%}
 {% if pub.type == "book" %}
@@ -123,7 +125,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 ## Conference
 
 
-<!--<ol reversed="">-->
+
 <ol>
 {%- for pub in site.data.pub_conference -%}
 {% if pub.type == "conference" %}
@@ -141,3 +143,4 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 </ol>
 
+-->
