@@ -1,5 +1,5 @@
 
-- title: : Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography
+- title: Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography
   author: Chao HQ, Shan HM, Homayounieh F, Singh R, Khera RD, Guo HT, Su T, Wang G, Kalra MK, Yan PK
   venue: Nature Communications
   year: 2021
@@ -8,7 +8,7 @@
   code: 
   type: works
   
-- title: : Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction
+- title: Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction
   author: Shan HM, Padole A, Homayounieh F, Kruger U, Khera RD, Nitiwarangkul C, Kalra MK, Wang G
   venue: Nature Machine Intelligence
   year: 2019
@@ -17,7 +17,7 @@
   code: 
   type: works
   
-- title: : A novel edge-on structure for energy-resolved x-ray detection
+- title: A novel edge-on structure for energy-resolved x-ray detection
   author: Shi ZF, Yang HY, Cong WX, Wang G
   venue: Physics in Medicine & Biology
   year: 2016
@@ -26,7 +26,7 @@
   code: 
   type: works
   
-- title: : Determining scientific impact using a collaboration index
+- title: Determining scientific impact using a collaboration index
   author: Stallings J, Vance E, Yang JS, Vannier MW, Liang J, Pang L, Dai L, Ye I, Wang G
   venue: PNAS
   year: 2013
@@ -35,7 +35,7 @@
   code: 
   type: works
   
-- title: : Low-dose x-ray CT reconstruction via dictionary learning
+- title: Low-dose x-ray CT reconstruction via dictionary learning
   author: Xu Q, Yu HY, Mou XQ, Zhang L, Wang G
   venue: IEEE Transactions on Medical Imaging
   year: 2012
@@ -44,7 +44,7 @@
   code: 
   type: works
   
-- title: : Stability of the interior problem with polynomial attenuation in region of interest
+- title: Stability of the interior problem with polynomial attenuation in region of interest
   author: Katsevich G, Katsevich A, Wang G
   venue: Inverse Problems
   year: 2012
@@ -53,7 +53,7 @@
   code: 
   type: works
   
-- title: : Multi-energy CT based on a prior rank, intensity and sparsity model (PRISM)
+- title: Multi-energy CT based on a prior rank, intensity and sparsity model (PRISM)
   author: Gao H, Yu HY, Osher S, Wang G
   venue: Inverse Problems
   year: 2011
@@ -62,7 +62,7 @@
   code: 
   type: works
 
-- title: : Non-uniqueness and instability of ‘Ankylography’
+- title: Non-uniqueness and instability of ‘Ankylography’
   author: Wang G, Yu H, Cong W, Katsevich A
   venue: Nature
   year: 2011
@@ -71,7 +71,7 @@
   code: 
   type: works
   
-- title: : Compressive sensing based interior tomography
+- title: Compressive sensing based interior tomography
   author: Yu H, Wang G
   venue: Physics in Medicine & Biology
   year: 2009
@@ -80,7 +80,7 @@
   code: 
   type: works
   
-- title: : In vivo mouse studies with bioluminescence tomography
+- title: In vivo mouse studies with bioluminescence tomography
   author: Wang G, Cong WX, Kumar D, Qian X, Shen H, Sinn P, Hoffman E, McLennan G, Henry M
   venue: Optics Express
   year: 2006
@@ -89,7 +89,7 @@
   code: 
   type: works
 
-- title: : Uniqueness theorems in bioluminescence tomography
+- title: Uniqueness theorems in bioluminescence tomography
   author: Wang G, Li Y, Jiang M
   venue: Medical Physics
   year: 2004
@@ -98,7 +98,7 @@
   code: 
   type: works
 
-- title: : Convergence studies on iterative algorithms for image reconstruction
+- title: Convergence studies on iterative algorithms for image reconstruction
   author: Jiang M, Wang G
   venue: IEEE Transactions on Medical Imaging
   year: 2003
@@ -107,7 +107,7 @@
   code: 
   type: works
   
-- title: : Spatial variation of resolution and noise in multi-slice spiral CT
+- title: Spatial variation of resolution and noise in multi-slice spiral CT
   author: Meinel Jr. JF, Wang G, Jiang M, Frei T, Vannier MW, Hoffman EA
   venue: Academic Radiology
   year: 2003
