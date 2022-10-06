@@ -73,7 +73,8 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 ## Preprint
 
-<ol reversed>
+<!--<ol reversed>-->
+<ol>
 {%- for pub in site.data.pub_preprint -%}
 {% if pub.type == "preprint" %}
 <li>
@@ -94,7 +95,9 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 ## Book (Chapter)
 
-<ol reversed>
+
+<!--<ol reversed>-->
+<ol>
 {%- for pub in site.data.pub_book -%}
 {% if pub.type == "book" %}
 <li>
@@ -118,7 +121,9 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 ## Conference
 
-<ol reversed="">
+
+<!--<ol reversed="">-->
+<ol>
 {%- for pub in site.data.pub_conference -%}
 {% if pub.type == "conference" %}
 <li>
