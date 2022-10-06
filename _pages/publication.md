@@ -83,7 +83,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" }}<br>
   {%- if pub.url -%}
-  [<a href="{{ pub.url}}">arXiv</a>]
+  [<a href="{{ pub.url}}">link</a>]
   {%- endif -%}
 </p>
 </li>
