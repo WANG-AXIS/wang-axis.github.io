@@ -1,0 +1,128 @@
+  
+- title: On interpretability of artificial neural networks
+  author: Fan FL, Xiong JJ, Wang G
+  venue: IEEE Transactions on Radiation and Plasma Medical Sciences
+  year: 2021
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/9380482
+  code: 
+  type: perspective
+  
+- title: Deep learning for tomographic image reconstruction
+  author: Wang G, Ye JC, De Man B
+  venue: Nature Machine Intelligence
+  year: 2020
+  arxiv: 
+  url: https://www.nature.com/articles/s42256-020-00273-z
+  code: 
+  type: perspective
+  
+- title: Perspective on deep imaging
+  author: Wang G
+  venue: IEEE Access
+  year: 2016
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/7733110
+  code: 
+  type: perspective
+  
+- title: Hybrid imaging system for simultaneous spiral MR and X-ray (MRX) scans
+  author: Gjesteby L, Xi Y, Kalra M, Yang QS
+  venue: IEEE Access
+  year: 2016
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/7779075
+  code: 
+  type: perspective
+  
+- title: Simultaneous CT-MRI - Next chapter of multi-modality imaging
+  author: Wang G, Kalra M, Murugan V, Xi Y, Gjesteby L, Getzin M, Yang QS, Cong WX, Vannier MW
+  venue: Medical Physics
+  year: 2015
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.4929559
+  code: 
+  type: perspective
+  
+- title: Spectral CT with photon-counting detectors – The next wave of the CT field
+  author: Wang G, Butler A, Yu HY, Campbell M
+  venue: IEEE Transactions on Medical Imaging
+  year: 2015
+  arxiv: 
+  url: https://ieeexplore.ieee.org/abstract/document/7051331
+  code: 
+  type: perspective
+
+- title: The meaning of interior tomography
+  author: Wang G, HY Yu
+  venue: Physics in Medicine & Biology
+  year: 2013
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/0031-9155/58/16/R161
+  code: 
+  type: perspective
+  
+- title: Achieving Routine Submillisievert CT Scanning: Report from the Summit on Management of Radiation Dose in CT
+  author: McCollough GH, Chen GH, Kalender WA, Leng S, Samei E, Taguchi K, Wang G, Yu L, Pettigrew R
+  venue: Radiology
+  year: 2012
+  arxiv: 
+  url: https://pubs.rsna.org/doi/10.1148/radiol.12112265
+  code: 
+  type: perspective
+  
+- title: Towards omni-tomography
+  author:Wang G, Zhang J, Gao H, Weir V, Yu HY, Cong WX, Xu XC, Shen HO, Bennett J, Furth M, Wang Y, Vannier MW
+  venue: PLoS ONE
+  year: 2012
+  arxiv: 
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039700
+  code: 
+  type: perspective
+
+- title: Gel’fand-Graev’s reconstruction formula in the 3D real space
+  author: Ye YB, Yu HY, Wang G
+  venue: Medical Physics
+  year: 2011
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3577765
+  code: 
+  type: perspective
+
+- title: Compressive sensing for medical imaging
+  author: Wang G, Bresler Y, Ntziachristos V
+  venue: IEEE Transactions on Medical Imaging
+  year: 2011
+  arxiv: 
+  url: https://ieeexplore.ieee.org/document/5760046
+  code: 
+  type: perspective
+  
+- title: Overview of bioluminescence tomography - A new molecular imaging modality
+  author: Wang G, Cong WX, Shen H, Qian X, Henry M, Wang Y
+  venue: Frontiers in Bioscience
+  year: 2008
+  arxiv: 
+  url: https://pubmed.ncbi.nlm.nih.gov/17981629
+  code: 
+  type: perspective
+  
+- title: An outlook on x-ray CT research and development
+  author: Wang G, Yu HY, DeMan B
+  venue: Medical Physics
+  year: 2008
+  arxiv: 
+  url: https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.2836950
+  code: 
+  type: perspective
+  
+- title: Approximate and exact cone-beam reconstruction with standard and non-standard spiral scanning
+  author: Wang G, Lin TH, Cheng PC, Shinozaki DM
+  venue: Physics in Medicine & Biology
+  year: 2007
+  arxiv: 
+  url: https://iopscience.iop.org/article/10.1088/0031-9155/52/6/R01
+  code: 
+  type: perspective
+  
+ 
