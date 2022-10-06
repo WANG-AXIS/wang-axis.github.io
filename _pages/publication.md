@@ -51,7 +51,7 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 <p> &nbsp; </p>
 
 
-
+<!--
 ## Representative Works
 
 <ol reversed>
@@ -70,10 +70,9 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 {%- endfor -%}
 
 </ol>
+-->
 
 
-
-<!-- This content will not appear in the rendered Markdown 
 ## Preprint
 
 <ol reversed>
@@ -137,6 +136,4 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 {%- endfor -%}
 
 </ol>
--->
-
 
