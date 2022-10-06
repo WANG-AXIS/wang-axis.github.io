@@ -53,7 +53,8 @@ For a full list see [Google Scholar Profile](https://scholar.google.com/citation
 
 ## Journals
 
-<ol reversed>
+<!--<ol reversed>-->
+<ol>
 {%- for pub in site.data.pub_journal -%}
 {% if pub.type == "journal" %}
 <li>
