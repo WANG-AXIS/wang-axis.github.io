@@ -6,8 +6,12 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Resources
 
+
+<br/>
+<br/>
+<br/>
+<!--# Resources-->
 
 
 ## Biomedical Imaging Center (BIC), Rensselaer Polytechnic Institute (RPI)
