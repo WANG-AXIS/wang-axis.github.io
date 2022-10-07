@@ -7,6 +7,9 @@ permalink: /projects/
 ---
 
 
+<br/>
+<br/>
+<br/>
 <!-- This content will not appear in the rendered Markdown 
 
 # Projects
