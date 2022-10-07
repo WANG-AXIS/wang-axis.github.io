@@ -6,10 +6,8 @@ sitemap: false
 permalink: /members/
 ---
 
-# Group Members
 
-
-## Staff
+## Present Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -227,7 +225,7 @@ permalink: /members/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former Visitors, BSc/ MSc Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
