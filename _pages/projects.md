@@ -49,7 +49,7 @@ which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.
 # Project (Active Grants)
 
 
-## Photon-counting X-ray and Optical Tomography for Preclinical Cancer
+## Photon-counting CT and Optical Molecular Tomography
 
 <!--
 The goal is to develop a hybrid x-ray and optical prototype for High-dimensional Optical Tomography (HOT) Guided-by Energy-resolved Micro-CT (GEM), visualize and quantitate breast tumor heterogeneity, HER2 expression and dimerization, and therapeutic response in preclinical models.
@@ -88,7 +88,7 @@ SPECT with a Compton Camera for Thyroid Cancer Imaging ABSTRACT The thyroid glan
 * Project schedule: 05/01/2021 – 04/30/2023
 
 
-## Constrained Disentanglement (CODE) Network for CT Metal Artifact Reduction in Radiation Therapy
+## Constrained Disentanglement for CT Metal Artifact Reduction
 
 <!--
 The goal is to develop deep learning algorithms for CT metal artifact reduction in the context of proton therapy.
@@ -116,7 +116,7 @@ Adversarially Based Virtual CT Workflow for Evaluation of AI in Medical Imaging 
 
 
 
-## Bio-tissue Oxygenation Nanophosphor Enabled Sensing (BONES) for Quantifying Hypoxia in Bone Marrow
+## Bio-tissue Oxygenation Nanophosphor Enabled Sensing (BONES)
 
 The goal is to develop radiomics/rawdiomics for personalized treatment of colorectal liver metastases.
 
@@ -126,7 +126,7 @@ The goal is to develop radiomics/rawdiomics for personalized treatment of colore
 
 
 
-## Focused X-ray Luminescence at µCT Resolution and µM-level Sensitivity
+## Focused X-ray Luminescence Tomography
 
 The goal is to develop the first-of-its-kind focused x-ray luminescence tomography (FXLT) scanner to “slice” deep cancers/tissues sensitively and longitudinally at 150μm resolution at a radiation dose comparable to that of a regular micro-CT scan.
 
@@ -134,7 +134,7 @@ The goal is to develop the first-of-its-kind focused x-ray luminescence tomograp
 * PI: Li, Sub-PI: Wang
 * Project schedule: 07/01/2018 – 03/31/2022
 
-## Prognostic Radiomic Markers of Response and Recurrence for Patients with Colorectal Liver Metastases
+## Radiomic Markers of Response and Recurrence for Cancer Patients
 
 The goal is to develop and validate robust imaging features by standardizing image acquisition, improve automated tools for clinical trial use, and validate the predictive power of imaging features with external data.
 
@@ -170,7 +170,7 @@ The goal is to develop preclinical micro-CT algorithms.
 # Projects (In Progress/Upcoming)
 
 
-## Empowering CT for Temporal Bone Imaging With Interior Tomography, Deep Learning, and Robotics
+## Temporal Bone CT With Interior, Deep and Robotic Imaging
 
 The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ray source and photon-counting detector technologies for temporal bone imaging.
 
@@ -179,7 +179,7 @@ The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ra
 * Project Schedule: 04/01/2023-03/31/2027
 
 
-## Auto-driving Vehicle-based Affordable Tomography-Analytics Robots (AVATAR)
+## Auto-driving Vehicle for Affordable Tomo-Analytic Robots (AVATAR)
 
 Given unprecedented progresses in the engineering field over the past decade or so, the development of AVATAR is timely to integrate cutting-edge machine learning, auto-driving, medical imaging, robot, computer vision, virtual/mixed reality, high-performance computing, and internet technologies, and change the landscape of the imaging world. This is particularly helpful for cancer screening, diagnosis, and follow-up in underdeveloped countries. We are open to collaborate with those who are interested to address the healthcare needs in low-middle income countries (LMIC).
 
