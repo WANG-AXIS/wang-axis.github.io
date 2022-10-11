@@ -46,7 +46,7 @@ which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.
 <br/>
 <br/>
 
-# Project (Active Grants)
+# Projects in Progress
 
 
 ## Photon-counting CT and Optical Molecular Tomography
@@ -167,7 +167,7 @@ The goal is to develop preclinical micro-CT algorithms.
 
 
 
-# Projects (In Progress/Upcoming)
+# Projects in Preparation
 
 
 ## Temporal Bone CT With Interior, Deep and Robotic Imaging
