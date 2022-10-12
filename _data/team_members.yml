@@ -5,7 +5,7 @@
   url: https://www.linkedin.com/in/ge-wang-axis/
   number_educ: 3
   education1: Fellow of IEEE, SPIE, OSA, AIMBE, AAPM, AAAS, and NAI.
-  education2: Areas":" AI, Medical Imaging
+  education2: Areas - AI, Medical Imaging
   education3: See my <a href="../highlights" a> highlights </a>
   education4: 
   education5: 
@@ -15,9 +15,9 @@
   info: Associate Lab Director. Postdoc Research Associate, 06/20- Now
   email: niuc@rpi.edu
   url: https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl=en
-  number_educ: 1
+  number_educ: 2
   education1: PhD, Xidian Univ., China, 2020
-  education2: BS Xidian University, China, 2015
+  education2: Areas - Deep Learning, Medical Imaging
 
 
 - name: Wenxiang Cong
@@ -25,9 +25,9 @@
   info: Research Scientist
   email: congw@rpi.edu
   url: https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en
-  number_educ: 1
+  number_educ: 2
   education1: PhD, Beijing Univ. of Sci. & Tech., China, 1998
-  education2: xx
+  education2: Areas - Optical Imaging, CT, Deep Learning
   education3: xx
 
 
@@ -36,9 +36,9 @@
   info: PhD Student, 09/17 - Now
   email: lyuq@rpi.edu
   url: https://scholar.google.com/citations?user=2oJmlPIAAAAJ&hl=en&oi=ao
-  number_educ: 1
+  number_educ: 2
   education1: PhD, Rensselaer Poly. Institute, USA, 2022
-  education2: BS Shanghai Jiao Tong University, Shanghai, China, 2013
+  education2: Areas - MRI, Deep Learning
   education3:
 
 - name: Mengzhou Li
@@ -46,9 +46,9 @@
   info: PhD Student, 09/18 - Now
   email: lim23@rpi.edu
   url: https://www.linkedin.com/in/mengzhou-li-14122719a/
-  number_educ: 1
+  number_educ: 2
   education1: BS, Harbin Inst. of Tech., China, 2015
-  education2:
+  education2: Areas - Photon-counting CT, Deep Learning
   education3:
   education4:
 
@@ -58,9 +58,9 @@
   info: PhD Student, 09/19 - Now
   email: wiedec@rpi.edu
   url: https://scholar.google.com/citations?user=LHxYDBgAAAAJ&hl=en
-  number_educ: 1
+  number_educ: 2
   education1: BS, Arizona State Univ., USA, 2019
-  education2: 
+  education2: Areas - Photon-counting CT, Deep Learning
   education3:
   education4:
   
@@ -70,9 +70,9 @@
   info: PhD Student, 09/21- Now
   email: sushma@rpi.edu
   url: https://scholar.google.com/citations?user=S3FHKh4AAAAJ&hl=en&oi=ao
-  number_educ: 1
+  number_educ: 2
   education1: BS, Bangladesh Univ. of Eng. & Tech., Bangladesh, 2019  
-  education2:
+  education2: Areas - CT, Deep Learning
   education3:
   education4:
   
@@ -83,9 +83,9 @@
   info: PhD Student, 08/22- Now
   email: azamm@rpi.edu
   url: https://scholar.google.com/citations?user=r7_LAU8AAAAJ&hl=en
-  number_educ: 1
+  number_educ: 2
   education1: BS, Bangladesh Univ. of Eng. & Tech., Bangladesh, 2019
-  education2:
+  education2: Areas - MRI, Deep Learning
   education3:
   education4:
     
@@ -94,9 +94,9 @@
   photo: yongyi.jpg
   info: Postdoc Research Associate, 08/22- Now
   email: shiy11@rpi.edu
-  number_educ: 1
+  number_educ: 2
   education1: PhD, Xian Jiaotong Univ., China, 2022
-  education2: MS Xian Jiaotong University, China, 2016
+  education2: Areas - CT, Deep Learning
   education3: BS Xidian University, China, 2014
   education4:
 
@@ -105,26 +105,33 @@
   photo: wenjun.jpg
   info: Postdoc Research Associate, 08/22- Now
   email: xiaw4@rpi.edu
-  number_educ: 1
+  number_educ: 2
   education1: PhD, Sichuan Univ., China, 2022
-  education2: B.S. degree in Sichuan University, China, 2012
+  education2: Areas - CT, Deep Learning
   education3:
   education4:
   
-
-
   
-  
-- name: Hanqing Chao
+- name: Hanqing Chao, Chao, Co-advised with Prof. PK Yan
   photo: chaoq.jpg
   info: PhD Student, 09/19 - Now
   email: chaoq@rpi.edu
   url: https://scholar.google.com/citations?user=P4Y_RSgAAAAJ&hl=en&oi=ao
-  number_educ: 1
+  number_educ: 2
   education1: MS, Fudan Univ., China, 2019
-  education2: BS Nanjing University of Aeronautics and Astronautics, China, 2016
+  education2: Areas - Deep Learning, Image Analysis
   education3:
   education4:
 
 
+- name: Yuxuan Liang, Chao, Co-advised with Prof. PK Yan
+  photo: liangy.jpg
+  info: PhD Student, 09/22 - Now
+  email: liangy15@rpi.edu
+  url: 
+  number_educ: 2
+  education1: BS, Univ. of Sci. & Tech. of China
+  education2: Areas - Deep Learning, Image Analysis
+  education3:
+  education4:
 
