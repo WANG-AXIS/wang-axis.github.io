@@ -12,3 +12,4 @@ permalink: /members/
       {include member.path}
     {%- endif -%}
   {%- endif -%}
+{% endfor %}
