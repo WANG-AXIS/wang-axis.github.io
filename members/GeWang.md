@@ -12,4 +12,4 @@ permalink: /members/
 
 Ge Wang
 
-{% include_relative members/GeWang/GeWang.html %}
+{% include members/GeWang/GeWang.html %}
