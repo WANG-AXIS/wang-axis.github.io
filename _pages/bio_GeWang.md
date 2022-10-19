@@ -44,7 +44,7 @@ permalink: bio_GeWang.html
 {% endif %}
 {% endfor %}
   
-<img src="{{ site.url }}{{ site.baseurl }}/bios/{{ member.path }}.png" class="img-responsive" width="100%" style="float: left" />
+<img src="https://raw.githubusercontent.com/{{ site.url }}{{ site.baseurl }}/bios/{{ member.path }}.png" class="img-responsive" width="100%" style="float: left" />
 
 <br/>
 <br/>
