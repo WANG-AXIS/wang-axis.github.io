@@ -44,3 +44,17 @@ permalink: bio_GeWang.html
 {% endif %}
 
 {% endfor %}
+  
+
+<br/>
+<br/>
+<br/>
+  
+{% include_relative  members/GeWang.html %}
+  
+
+<br/>
+<br/>
+<br/>
+  
+  
