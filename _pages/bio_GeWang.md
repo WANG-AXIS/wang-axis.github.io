@@ -50,8 +50,7 @@ permalink: bio_GeWang.html
 <br/>
 <br/>
   
-{% include_relative  members/GeWang.html %}
-  
+<object data="../bios/GeWang.pdf" width="600" type='application/pdf'></object>
 
 <br/>
 <br/>
