@@ -18,10 +18,9 @@ permalink: bio_GeWang.html
   
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% if member.url == "no" %}
   <h4><b>{{ member.name }}</b></h4>
-  {% else %}
-  <h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>
+  {% if member.url == "yes" %}
+  <a href = "{{ member.url }}" > [Google Scholar] </a>
   {% endif %}
   <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden">
