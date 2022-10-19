@@ -10,4 +10,4 @@ permalink: /members/
 <br/>
 <br/>
 
-{% include members/GeWang/GeWang.html %}
+<!--{% include members/GeWang/GeWang.html %}-->
