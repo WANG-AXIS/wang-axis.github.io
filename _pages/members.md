@@ -25,8 +25,8 @@ permalink: /members/
   {% if member.url == "no" %}
   <h4><b>{{ member.name }}</b></h4>
   {% else %}
-  <h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>
-  <!--<h4> <b>[{{member.name}}]({{member.path}})</b> </h4>-->
+  <!--<h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>-->
+  <h4> <b>[{{member.name}}]({{member.path}.md})</b> </h4>
   {% endif %}
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
