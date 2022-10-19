@@ -10,4 +10,6 @@ permalink: /members/
 <br/>
 <br/>
 
+Ge Wang
+
 {% include_relative members/GeWang/GeWang.html %}
