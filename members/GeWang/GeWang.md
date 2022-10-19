@@ -12,4 +12,3 @@ permalink: /members/
 
 Ge Wang
 
-<!--{% include_relative members/GeWang/GeWang.html %}-->
