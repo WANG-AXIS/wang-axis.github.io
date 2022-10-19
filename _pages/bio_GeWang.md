@@ -42,10 +42,9 @@ permalink: bio_GeWang.html
 </div>
 
 {% endif %}
-
 {% endfor %}
   
-<object data="../bios/GeWang.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../bios/GeWang.pdf" width="794" height="1123" type='application/pdf'></object>
 
 <br/>
 <br/>
