@@ -54,7 +54,7 @@ which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.
 The goal is to develop a preclinical x-ray and optical prototype for High-dimensional Optical Tomography (HOT) Guided-by Energy-resolved Micro-CT (GEM), visualize breast tumor heterogeneity, HER2 expression and dimerization, and therapeutic response in mice.
 
 <p align = "left">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/photon_counting.png">
+<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/photon_counting.png" width="600">
 </p>
 <p align = "left">
 </p>
