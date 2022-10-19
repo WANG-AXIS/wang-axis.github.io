@@ -12,7 +12,7 @@ permalink: bio_GeWang.html
 
 {% for member in site.data.team_members %}
 
-{% if member.name == "Ge Wang"}
+{% if member.name == "Ge Wang" %}
 
 <div class="row">
   
