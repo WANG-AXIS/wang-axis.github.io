@@ -45,12 +45,7 @@ permalink: bio_GeWang.html
 
 {% endfor %}
   
-
-<br/>
-<br/>
-<br/>
-  
-<object data="../bios/GeWang.pdf" width="600" type='application/pdf'></object>
+<object data="../bios/GeWang.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br/>
 <br/>
