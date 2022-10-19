@@ -19,13 +19,12 @@ permalink: bio_GeWang.html
 <div class="row">
 {% endif %}
 
+{% if member.name == "Ge Wang"}
+  
+  
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% if member.url == "no" %}
   <h4><b>{{ member.name }}</b></h4>
-  {% else %}
-  <!--<h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>-->
-  <h4> <b> <a href = "{{ site.url }}{{ site.baseurl }}/{{ member.path }}" > {{ member.name }}</a> </b> </h4>
   {% endif %}
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
@@ -63,6 +62,8 @@ permalink: bio_GeWang.html
 
   </ul>
 </div>
+  
+{% endif %}
 
 {% assign number_printed = number_printed | plus: 1 %}
 
