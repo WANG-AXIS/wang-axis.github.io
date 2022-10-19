@@ -1,5 +1,5 @@
 ---
-title: "WANG-AXIS Lab - Members"
+title: "WANG-AXIS Lab - Ge Wang"
 layout: gridlay
 excerpt: "WANG-AXIS Lab: Members"
 sitemap: false
@@ -8,5 +8,7 @@ sitemap: false
 <br/>
 <br/>
 <br/>
+
+Ge Wang
 
 {include GeWang/GeWang.html}
