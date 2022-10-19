@@ -1,12 +1,10 @@
-<!--
 ---
 title: "Ge Wang"
 layout: gridlay
 excerpt: "WANG-AXIS Lab: Members"
 sitemap: false
-permalink: /members/
+permalink: /GeWang.html
 ---
--->
 
 <br/>
 <br/>
