@@ -22,6 +22,7 @@ permalink: bio_GeWang.html
   <h4><b>{{ member.name }}</b></h4>
   {% else %}
   <h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>
+  {% endif %}
   <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden">
 
