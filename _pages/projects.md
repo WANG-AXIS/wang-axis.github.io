@@ -194,9 +194,9 @@ The goal is to develop preclinical micro-CT algorithms.
 
 The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ray source and photon-counting detector technologies for temporal bone imaging.
 
-* Grant from NIH/NIBIB
+<!--* Grant from NIH/NIBIB
 * Contact PI: Wang
-* Project Schedule: 04/01/2023-03/31/2027
+* Project Schedule: 04/01/2023-03/31/2027-->
 
 
 ## Auto-driving Vehicle for Affordable Tomo-Analytic Robots (AVATAR)
