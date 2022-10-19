@@ -3,7 +3,7 @@ title: "WANG-AXIS Lab - Ge Wang"
 layout: gridlay
 excerpt: "WANG-AXIS Lab: Members"
 sitemap: false
-permalink: members
+permalink: /members/
 ---
 
 <br/>
@@ -12,4 +12,4 @@ permalink: members
 
 Ge Wang
 
-{% include GeWang/GeWang.html %}
+{% include members/GeWang/GeWang.html %}
