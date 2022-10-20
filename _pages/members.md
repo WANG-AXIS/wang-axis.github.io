@@ -22,8 +22,8 @@ permalink: /members/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% if member.path == "no" %}
-  {% if member.url == "no" %}
+  {% if member.path == null %}
+  {% if member.url == null %}
   <h4><b>{{ member.name }}</b></h4>
   {% else %}
   <h4> <b> <a href = "{{ member.url }}" > {{ member.name }} </a> </b> </h4>
