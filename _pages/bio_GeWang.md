@@ -47,12 +47,7 @@ permalink: bio_GeWang.html
 {% endif %}
 {% endfor %}
 
-img {
-  border: 0px solid #fff;
-  border-radius: 0px;
-  padding: 1px;
-}
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" class="img-responsive" width="100%" />
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" class="img-responsive" width="100%" style:"border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/>
 
 <br/>
 <br/>
