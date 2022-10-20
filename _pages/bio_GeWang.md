@@ -47,7 +47,7 @@ permalink: bio_GeWang.html
 {% endif %}
 {% endfor %}
   
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" width="100%" />
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" width="100%" style="text-align:center" />
 
 <br/>
 <br/>
