@@ -16,7 +16,7 @@ permalink: bio_GeWang.html
 
 <!--<div class="row">-->
   
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix" style="width:100%;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><b>{{ member.name }}</b></h4>
   {% if member.url != "no" %}
