@@ -14,7 +14,7 @@ permalink: bio_GeWang.html
 
 {% if member.name == "Ge Wang" %}
 
-<div class="row">
+<!--<div class="row">-->
   
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -42,14 +42,14 @@ permalink: bio_GeWang.html
 
   </ul>
 </div>
-</div>
+<!--</div>-->
 
 {% endif %}
 {% endfor %}
 
 <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)" />
   
-YouTube Channel: https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A
+YouTube Channel: [https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A](https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A)
 
 <br/>
 <br/>
