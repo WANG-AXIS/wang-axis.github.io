@@ -23,7 +23,7 @@ permalink: bio_GeWang.html
   <a href = "{{ member.url }}" > [Google Scholar] </a>
   {% endif %}
   <i>{{ member.info }}<br><{{ member.email }}></i>
-  <ul style="overflow: hidden; list-style-type: none;">
+  <ul style="overflow: hidden; list-style-type: none; padding-left: 0">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
