@@ -33,7 +33,7 @@ permalink: /members/
   {% endif %}
 
   <i>{{ member.info }}<br><{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden; list-style-type: none;">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
