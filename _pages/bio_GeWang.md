@@ -19,9 +19,22 @@ permalink: bio_GeWang.html
 <div class="col-sm-6 clearfix" style="width:100%;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4><b>{{ member.name }}</b></h4>
-  {% if member.url != null %}
+  <!--{% if member.url != null %}
   <a href = "{{ member.url }}" > [Google Scholar] </a>
+  {% endif %}-->
+  
+  {% if member.url != null %}
+  <table>
+    <tr>
+        <td><h4><b>{{ member.name }}</b></h4></td>
+        <td><a href = "{{ member.url }}" > [Google Scholar] </a></td>
+    </tr>
+  </table>
   {% endif %}
+  {% if member.url == null %}
+  <h4><b>{{ member.name }}</b></h4>
+  {% endif %}
+  
   <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden; list-style-type: none; padding-left: 0">
 
