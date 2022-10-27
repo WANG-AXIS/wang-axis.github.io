@@ -23,7 +23,7 @@ permalink: bio_GeWang.html
   <table>
     <tr>
         <td><h4><b>{{ member.name }} </b></h4></td>
-        <td><a href = " {{ member.url }}" > \\[Google Scholar] </a></td>
+        <td><a href = " {{ member.url }}" > \ \ [Google Scholar] </a></td>
     </tr>
   </table>
   {% endif %}
