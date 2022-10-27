@@ -66,7 +66,7 @@ Ge Wang is Clark & Crossan Chair Professor and Director of Biomedical Imaging Ce
 <br/>
   
 # Deep Silicon Detectors for Computed Tomography
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang_001.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/>
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang_001.png" class="img-responsive" width="80%" style="border:0px solid white; border-radius: 0%; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/>
      
 Photon-counting CT provides higher-quality images of biological tissues with x-ray energy-dependent (spectral) information and promises to revolutionize x-ray imaging. In this work, we resolve the energy distribution of transmitted x-ray photons through an edge-on deep silicon detector for spectral CT, based on the maturity and merits of the silicon technology. Our results show that the proposed design is feasible.
 
@@ -74,7 +74,7 @@ Shi ZF, Yang HY, Cong WX, Wang G: A novel edge-on structure for energy-resolved 
 
   
 # Deep Neural Networks of Quasi-duality
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang_002.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/> 
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang_002.png" class="img-responsive" width="80%" style="border:0px solid white; border-radius: 0%; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/> 
   
 While wide networks already allow universal approximation, the successes of deep learning demonstrate the power of deep networks. We are investigating if the design of artificial neural networks has a directional preference and what the mechanism of interaction is between the width and depth of a network.
   
