@@ -66,7 +66,7 @@ Wenxiang Cong is Research Scientist in Biomedical Imaging Center, Department of 
 <br/>
   
 # X-ray tomographic imaging
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_CongWenxiang_001.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/>
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_CongWenxiang_001.png" class="img-responsive" width="80%" style="border:0px solid white; border-radius: 0%; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/>
      
 We developed a deep-learning approach to produce virtual monoenergetic (VM) tomographic images from images of single-spectrum Computed Tomography (CT). An improved residual neural network (IResNet) model is proposed to map single-spectrum CT images to VM images at pre-specified energy levels. This network is trained on clinical dual-energy CT (DECT) data and shows excellent convergence behavior and image accuracy compared with VM images produced by DECT. This method enables material decomposition with accuracy comparable with DECT. 
 
@@ -77,7 +77,7 @@ W. Cong, B. De Man and G. Wang, “Projection decomposition via univariate optim
 
   
 # Optical imaging
-<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_CongWenxiang_002.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/> 
+<img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_CongWenxiang_002.png" class="img-responsive" width="80%" style="border:0px solid white; border-radius: 0%; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/> 
   
 We developed a new approach to estimate optical parameters of mouse tissues with photon-counting micro–computed tomography (micro-CT). From photon-counting x-ray tomographic images, multi-organ segmentation and material decomposition in terms of tissue constituents are performed to provide essential information for the calculation of the optical absorption and scattering coefficients of tissues. We perform numerical simulation, phantom experiments, and in vivo animal studies to calculate the optical parameters, which is one of tasks in our NIH project. 
   
