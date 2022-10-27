@@ -20,7 +20,10 @@ permalink: bio_GeWang.html
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <!--<h4><b>{{ member.name }}</b></h4>-->
   {% if member.url != null %}
-  <h4><b>{{ member.name }}</b></h4> <a href = "{{ member.url }}" > [Google Scholar] </a>
+  <div class="row">
+   <div class="col-md-6"> <h4><b> {{member.name}} </b></h4></div>
+   <div class="col-md-6"> <a href = "{{ member.url }}" > [Google Scholar] </a></div>
+  </div>
   {% endif %}
   {% if member.url == null %}
   <h4><b>{{ member.name }}</b></h4>
