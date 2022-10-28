@@ -89,7 +89,7 @@ W. Cong, M. Li, X. Guo, G. Wang, “Estimating optical parameters of biological 
   
 <br/>
 <br/>
-YouTube Channel: [https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A](https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A)
+
 
 <br/>
 <br/>
