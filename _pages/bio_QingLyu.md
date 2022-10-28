@@ -73,8 +73,9 @@ This year the world experienced a shortage of contrast media due to COVID-19 loc
 # Simultaneous MRI-CT image quality improvement based on diffusion models
 <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_QingLyu_002.png" class="img-responsive" width="80%" style="border:0px solid white; border-radius: 0%; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)"/> 
   
- 	The goal is to propose diffusion models to learn the joint distribution of simultaneous MRI and CT data to improve image quality. 
-  
+The goal is to propose diffusion models to learn the joint distribution of simultaneous MRI and CT data to improve image quality. 
+
+<br/>
 Two of recent papers:
 1.	Lyu, Q., Namjoshi, S. V., McTyre, E., Topaloglu, U., Barcus, R., Chan, M. D, et al.: A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI images. Patterns, 2022
 2.	Lyu, Q., Wang, G: Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models. arXiv preprint, arXiv:2209.12104, 2022
