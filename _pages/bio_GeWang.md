@@ -56,7 +56,7 @@ permalink: bio_GeWang.html
 {% endif %}
 {% endfor %}
   
-<embed type="multipart/html" src="bios/bio_GeWang.htm"  width="800" height="1200">
+<embed type="application/html" src="bios/bio_GeWang.htm"  width="800" height="1200">
 
 <!--
 Ge Wang is Clark & Crossan Chair Professor and Director of Biomedical Imaging Center, RPI, USA. He focuses on medical imaging and AI. He published the first spiral cone-beam CT algorithm in the early 1990s. There are ~200 million CT scans yearly, with a majority in the spiral cone-beam mode. He published the first perspective on deep imaging in 2016 and many follow-up papers. He is a Fellow of IEEE, SPIE, AAPM, OSA, AIMBE, AAAS, and NAI. His recent honors include IEEE R1 Outstanding Teaching Award, EMBS Career Achievement Award, SPIE Meinel Technology Award, and Sigma Xi Chubb Award for Innovation.
