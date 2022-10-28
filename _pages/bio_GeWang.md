@@ -56,9 +56,9 @@ permalink: bio_GeWang.html
 {% endif %}
 {% endfor %}
   
-<!--<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">-->
+<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">
 
-
+<!--
 Ge Wang is Clark & Crossan Chair Professor and Director of Biomedical Imaging Center, RPI, USA. He focuses on medical imaging and AI. He published the first spiral cone-beam CT algorithm in the early 1990s. There are ~200 million CT scans yearly, with a majority in the spiral cone-beam mode. He published the first perspective on deep imaging in 2016 and many follow-up papers. He is a Fellow of IEEE, SPIE, AAPM, OSA, AIMBE, AAAS, and NAI. His recent honors include IEEE R1 Outstanding Teaching Award, EMBS Career Achievement Award, SPIE Meinel Technology Award, and Sigma Xi Chubb Award for Innovation.
   
 <br/>
@@ -81,7 +81,7 @@ Shi ZF, Yang HY, Cong WX, Wang G: A novel edge-on structure for energy-resolved 
   
 While wide networks already allow universal approximation, the successes of deep learning demonstrate the power of deep networks. We are investigating if the design of artificial neural networks has a directional preference and what the mechanism of interaction is between the width and depth of a network.
   
-Fan FL, Lai RJ, Wang G: Quasi-Equivalence of Width and Depth of Neural Networks, [https://arxiv.org/abs/2002.02515](https://arxiv.org/abs/2002.02515), 2022
+Fan FL, Lai RJ, Wang G: Quasi-Equivalence of Width and Depth of Neural Networks, [https://arxiv.org/abs/2002.02515](https://arxiv.org/abs/2002.02515), 2022-->
 
 
 
@@ -91,7 +91,7 @@ Fan FL, Lai RJ, Wang G: Quasi-Equivalence of Width and Depth of Neural Networks,
   
 <br/>
 <br/>
-YouTube Channel: [https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A](https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A)
+<!--YouTube Channel: [https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A](https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A)-->
 
 <br/>
 <br/>
