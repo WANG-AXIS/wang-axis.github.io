@@ -1,9 +1,9 @@
 ---
-title: "About the website"
+title: "MARS Photon Counting CT"
 layout: textlay
-excerpt: "About the website."
+excerpt: "MARS PCCT"
 sitemap: false
-permalink: /aboutwebsite.html
+permalink: /mars.html
 ---
 
 # Photon-counting Micro-CT Scanner MARS:
