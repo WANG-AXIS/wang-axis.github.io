@@ -45,7 +45,7 @@ Figure: Image of sacrifised mice scanning in MARS-19.
 ### Adjacent Support:
 
 - Freezer facility in CBIS for sample storage
-- 
+- Surgery table in the MARS-19 room for convenience
 
 
 ### Collaborators
