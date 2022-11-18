@@ -35,7 +35,8 @@ Figure: Image of the MARS-19 machine in CBIS.
 
 
 <p align = "center">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/image0.jpeg">
+<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/image0.jpeg" width="200" 
+height="200"/>
 </p>
 <p align = "center">
 Figure: Image of sacrifised mice scanning in MARS-19.
