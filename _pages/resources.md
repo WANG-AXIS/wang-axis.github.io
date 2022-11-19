@@ -124,8 +124,7 @@ The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging
   
 </p>
 
-
-
+For detailed information please [click on this link.](https://wang-axis.github.io/mars.html)
 
 
 
