@@ -12,7 +12,7 @@ permalink: /publication/
 <br/>
 
 
-For a full list see [Google Scholar Profile](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
+For a full list see [Google Scholar Profile.](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
 Codes are publicly available at [Wang-AXIS Lab Github](https://github.com/WANG-AXIS)
 
 
