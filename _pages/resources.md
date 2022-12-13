@@ -39,7 +39,7 @@ This laboratory owns a Universal CT Bench-top system of $1M investment donated b
 </p>
 
 
-## Photon-counting Micro-CT Scanner MARS:
+## [Photon-counting Micro-CT Scanner MARS](https://wang-axis.github.io/mars.html):
 
 The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users.
 
