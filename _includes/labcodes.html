@@ -1,0 +1,10 @@
+<div class="well">
+<h4>Publicly Available Codes</h4>
+
+{% for link in site.data.labcodes limit:8 %}
+<p>
+ - <a href="{{ link.url }}">{{ link.title }}</a> 
+</p>
+{% endfor %}
+
+</div>
