@@ -60,7 +60,11 @@ Figure: Image of sacrifised mice scanning in MARS-19.
 
 
 ### Collaborators
-
+We are actively collaborating with external researchers interested in Contrast Agents, Reconstruction, Material Decomposition and more.
 - [Dr. Ryan Roeder](https://scholar.google.com/citations?user=ube4zJkAAAAJ&hl=en), University of Notre Dame. 
 - [Dr. Vahid Serpooshan](https://bme.gatech.edu/bme/faculty/Vahid-Serpooshan), Georgia Tech.
 - [Dr. Margarida M Barroso](https://www.amc.edu/Profiles/BarrosM.cfm), Albany Medical.
+
+
+### For Collaboration
+- If you find our research and experimental setup interesting, do reach out! [Prof. Ge Wang](https://wang-axis.github.io/bio_GeWang)
