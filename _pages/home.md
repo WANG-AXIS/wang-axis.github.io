@@ -29,7 +29,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
         </div>
         
         
-        <div class="item active">
+        <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
               <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/logopic/logo-rpi.jpg" alt="Slide 0" />
             </a>
