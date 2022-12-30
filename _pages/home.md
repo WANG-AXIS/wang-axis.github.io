@@ -10,32 +10,40 @@ permalink: /
 AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.linkedin.com/in/ge-wang-axis/), affiliated with the [Department of Biomedical Engineering](http://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](http://www.rpi.edu/) and the [Center for Biotechnology and Interdisciplinary Studies](http://biotech.rpi.edu/) in the Biomedical Imaging Center. 
 
 
-
-<!-- CSS for the carousel -->
-<link rel=“stylesheet” href=“https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css”>
-<!-- JavaScript for the carousel -->
-<script src=“https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js”></script>
-<script src=“https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js”></script>
-<div id=“carouselExampleControls” class=“carousel slide” data-ride=“carousel” data-interval=“false”>
-  <div class=“carousel-inner”>
-    <div class=“carousel-item active”>
-      <a href= “https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award”><img src=“https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/newspic/16805223459462_RPI_BME_Ge%20Wang_20221024_1.png” class=“d-block w-100” alt=“Image 1"></a>
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="25" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/newspic/16805223459462_RPI_BME_Ge%20Wang_20221024_1.png" alt="Slide 0" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Ge Wang recieves 2022 SPIE Aden and Marjorie Meinel Technology Achievement Award</p>
+            </div>
+        </div>
+        <div class="item">
+            <a href="https://news.rpi.edu/content/2022/11/16/rensselaer-researchers-publish-research-nature-machine-intelligence-promoting">
+              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/WangMeta.png" alt="Slide 1" />
+            </a>
+            <div class="carousel-caption carousel-caption-color">
+              <p>Wang et. al. Publish Research in Nature Machine Intelligence Promoting the Metaverse Transformation of Health Care</p>
+            </div>
+        </div>
     </div>
-    <div class=“carousel-item”>
-      <a href=“https://news.rpi.edu/content/2022/11/16/rensselaer-researchers-publish-research-nature-machine-intelligence-promoting”>
-              <img src=“https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/WangMeta.png” alt=“Slide 1" />
-      </a>
-    </div>
-  </div>
-  <a class=“carousel-control-prev” href=“#carouselExampleControls” role=“button” data-slide=“prev”>
-    <span class=“carousel-control-prev-icon” aria-hidden=“true”></span>
-    <span class=“sr-only”>Previous</span>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
   </a>
-  <a class=“carousel-control-next” href=“#carouselExampleControls” role=“button” data-slide=“next”>
-    <span class=“carousel-control-next-icon” aria-hidden=“true”></span>
-    <span class=“sr-only”>Next</span>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
   </a>
 </div>
+
 
 
 
