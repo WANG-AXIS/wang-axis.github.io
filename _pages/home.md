@@ -9,12 +9,11 @@ permalink: /
 
 AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.linkedin.com/in/ge-wang-axis/), affiliated with the [Department of Biomedical Engineering](http://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](http://www.rpi.edu/) and the [Center for Biotechnology and Interdisciplinary Studies](http://biotech.rpi.edu/) in the Biomedical Imaging Center. 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel">
+<div id="carousel" class="carousel slide" data-ride="carousel">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
     <!-- Items -->
     <div class="carousel-inner" role="listbox">
