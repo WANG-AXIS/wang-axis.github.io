@@ -18,7 +18,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="1">
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
               <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/newspic/16805223459462_RPI_BME_Ge%20Wang_20221024_1.png" alt="Slide 0" />
@@ -27,16 +27,19 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
               <p>Ge Wang recieves 2022 SPIE Aden and Marjorie Meinel Technology Achievement Award</p>
             </div>
         </div>
-        
-        <div class="item">
+    </div>
+    
+    
+    <div class="carousel-inner" markdown="1">
+        <div class="item active">
             <a href="https://news.rpi.edu/content/2022/11/16/rensselaer-researchers-publish-research-nature-machine-intelligence-promoting">
-              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/WangMeta.png" alt="Slide 1" />
+              <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/WangMeta.pngg" alt="Slide 1" />
             </a>
             <div class="carousel-caption carousel-caption-color">
               <p>Wang et. al. Publish Research in Nature Machine Intelligence Promoting the Metaverse Transformation of Health Care</p>
             </div>
         </div>
-    </div>    
+    </div>
      
         
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
