@@ -12,12 +12,6 @@ carousels:
 
 AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.linkedin.com/in/ge-wang-axis/), affiliated with the [Department of Biomedical Engineering](http://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](http://www.rpi.edu/) and the [Center for Biotechnology and Interdisciplinary Studies](http://biotech.rpi.edu/) in the Biomedical Imaging Center. 
 
-<!--
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-<br /><br /><br />
-
--->
 
 Our lab focuses on innovation and translation of x-ray computed tomography, optical molecular tomography, multi-scale and multi-modality imaging, and AI/machine learning for image reconstruction and analysis (see [Research](research)), and has been continuously well funded by federal agencies and leading companies. Our group collaborates with Stanford, Harvard, Cornell, MSK, UTSW, Yale, GE, Hologic, and others, to develop theories, methods, software, systems, applications, and workflows.
 
