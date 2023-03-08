@@ -64,6 +64,7 @@ The goal is to develop a preclinical x-ray and optical prototype for High-dimens
 * Grant: NIH/NCI R01CA237267 
 * Multi-PIs: Ge Wang\*, Xavier Intes, Barroso, Margarida (Albany Medical Center)
 * Project schedule: 09/01/2019 – 08/31/2024
+* For more details, [visit website](https://hotgem.github.io/)
 
 
 ## Constrained Disentanglement for CT Metal Artifact Reduction
@@ -82,6 +83,8 @@ The goal is to develop deep learning algorithms for CT metal artifact reduction 
 * Grant: NIH/NIBIB R01EB031102
 * Multi-PIs: Ge Wang\*, Bruno De Man (GE), Harald Paganetti (Harvard)
 * Project schedule: 09/01/2021 – 08/31/2024
+* For more details, [visit website](https://deepcodemar.github.io/)
+
 
 
 
@@ -102,6 +105,7 @@ The goal is to develop an FDA workflow evaluating, approving, and monitoring AI 
 * Grant: NIH/NIBIB R01EB032716
 * Multi-PIs: Ge Wang\*, Klaus Mueller (Stony Brook), Xun Jia (JHU), Rongping Zeng (FDA)
 * Project schedule: 04/01/2022 – 03/31/2026
+* For more details, [visit website](https://ctaiworkflow.github.io/)
 
 
 ## Cardiac CT Deblooming 
