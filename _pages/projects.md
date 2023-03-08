@@ -94,7 +94,7 @@ The goal is to develop an FDA workflow evaluating, approving, and monitoring AI 
 
 
 <p align = "left">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/adversarially_based_ct.png" width="600">
+<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/adversarially_based_ct2.png" width="600">
 </p>
 <p align = "left">
 </p>
