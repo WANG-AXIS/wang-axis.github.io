@@ -1,7 +1,7 @@
 - name: Hongming Shan
   photo: shanh.jpg
   duration: Research Scientist, 04/17 - 08/20
-  info: Now Associate Professor, Institute of Science and Technology for Brain-inspired Intelligence, MOE Frontiers Center for Brain Science, Fudan University, Shanghai Center for Brain Science and Brain-inspired Technology
+  info: Now an Associate Professor, Institute of Science and Technology for Brain-inspired Intelligence, MOE Frontiers Center for Brain Science, Fudan University, Shanghai Center for Brain Science and Brain-inspired Technology
   email: shanh@rpi.edu
   url: https://scholar.google.com/citations?user=RYfSzKwAAAAJ&hl=en&oi=ao
   number_educ: 2
@@ -11,7 +11,7 @@
   
 - name: Fenglei Fan
   photo: fanf2.jpg
-  info: PhD Student, 09/17 - Now
+  duration: PhD Student, 09/17 - 08/22
   email: fanf2@rpi.edu
   url: https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en&oi=ao
   number_educ: 1
@@ -51,3 +51,43 @@
   education2: BS Vanderbilt University, 2012
   education3: 
   education4: 
+
+- name: Asif Sushmit
+  photo: sushmit2.jpg
+  duration: PhD Student, 09/21- 08/23
+  email: sushma@rpi.edu
+  url: https://scholar.google.com/citations?user=S3FHKh4AAAAJ&hl=en&oi=ao
+  path:
+  number_educ: 2
+  education1: BS, Bangladesh Univ. of Eng. & Tech., Bangladesh, 2019  
+  education2: Areas - CT, Deep Learning
+  education3:
+  education4:
+
+
+- name: Hanqing Chao, Chao, Co-advised with Prof. PK Yan
+  photo: chaoq.jpg
+  info : Now an Algorithm Programmer in Aibaba
+  duration: PhD Student, 09/19 – 08/23
+  email: chaoq@rpi.edu
+  url: https://scholar.google.com/citations?user=P4Y_RSgAAAAJ&hl=en&oi=ao
+  path:
+  number_educ: 2
+  education1: MS, Fudan Univ., China, 2019
+  education2: Areas - Deep Learning, Image Analysis
+  education3:
+  education4:
+
+
+- name: Qing Lyu
+  photo: lyuq.jpg
+  info : Now an Associate Professor in Virginia Tech (Wake Forest)
+  duration: PhD Student, 09/17 – 02/23
+  email: lyuq@rpi.edu
+  url: https://scholar.google.com/citations?user=2oJmlPIAAAAJ&hl=en&oi=ao
+  path: bio_QingLyu
+  number_educ: 2
+  education1: PhD, Rensselaer Poly. Institute, USA, 2022
+  education2: Areas - MRI, Deep Learning
+  education3:
+
