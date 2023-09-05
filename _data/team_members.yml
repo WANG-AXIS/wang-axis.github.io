@@ -34,20 +34,10 @@
   education3: xx
 
 
-- name: Qing Lyu
-  photo: lyuq.jpg
-  info: PhD Student, 09/17 - Now
-  email: lyuq@rpi.edu
-  url: https://scholar.google.com/citations?user=2oJmlPIAAAAJ&hl=en&oi=ao
-  path: bio_QingLyu
-  number_educ: 2
-  education1: PhD, Rensselaer Poly. Institute, USA, 2022
-  education2: Areas - MRI, Deep Learning
-  education3:
 
 - name: Mengzhou Li
   photo: lim23.jpg
-  info: PhD Student, 09/18 - Now
+  info: Postdoc Research Associate, 08/23- Now
   email: lim23@rpi.edu
   url: https://scholar.google.com/citations?hl=en&user=Xb9Bp2oAAAAJ&view_op=list_works
   path:
@@ -70,18 +60,6 @@
   education3:
   education4:
   
-  
-- name: Asif Sushmit
-  photo: sushmit2.jpg
-  info: PhD Student, 09/21- Now
-  email: sushma@rpi.edu
-  url: https://scholar.google.com/citations?user=S3FHKh4AAAAJ&hl=en&oi=ao
-  path:
-  number_educ: 2
-  education1: BS, Bangladesh Univ. of Eng. & Tech., Bangladesh, 2019  
-  education2: Areas - CT, Deep Learning
-  education3:
-  education4:
   
   
 
@@ -124,24 +102,14 @@
   education4:
   
   
-- name: Hanqing Chao, Chao, Co-advised with Prof. PK Yan
-  photo: chaoq.jpg
-  info: PhD Student, 09/19 - Now
-  email: chaoq@rpi.edu
-  url: https://scholar.google.com/citations?user=P4Y_RSgAAAAJ&hl=en&oi=ao
-  path:
-  number_educ: 2
-  education1: MS, Fudan Univ., China, 2019
-  education2: Areas - Deep Learning, Image Analysis
-  education3:
-  education4:
+
 
 
 - name: Yuxuan Liang, Co-advised with Prof. PK Yan
   photo: liangy.jpg
   info: PhD Student, 09/22 - Now
   email: liangy15@rpi.edu
-  url: 
+  url: https://liangyuxuan1.github.io/
   path:
   number_educ: 2
   education1: BS, Univ. of Sci. & Tech. of China
