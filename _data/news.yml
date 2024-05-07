@@ -19,15 +19,9 @@
   site: RPI News
 
 - date: May/2023
-  headline:  Commentary on healthcare metavserse as described in Wang G et al.: Development of Metaverse for Intelligent Healthcare. Nature Machine Intelligence 4:922-929
+  headline:  Commentary on "Development of Metaverse for Intelligent Healthcare" by Wang G et al.
   url: https://www.nature.com/articles/s42256-023-00658-w
   site: Nature Machine Intelligence
-
-- date: Dec/2022
-  headline: Asif Sushmit to serve as Organizing Committee Member in EMNLP 2023 (Singapore) workshop. EMNLP is a top conference on Natural Language Processing.
-  url: https://en.wikipedia.org/wiki/Empirical_Methods_in_Natural_Language_Processing
-  site: ACL
-
 
 - date: Dec/2022
   headline: Mengzhou Li wins Best Paper Award in SPIE CT conference 2022
