@@ -72,6 +72,10 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
   </a>
 </div>
 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 Our lab focuses on innovation and translation of x-ray computed tomography, optical molecular tomography, multi-scale and multi-modality imaging, and AI/machine learning for image reconstruction and analysis (see [Research](research)), and has been continuously well funded by federal agencies and leading companies. Our group collaborates with Stanford, Harvard, Cornell, MSK, UTSW, Yale, GE, Hologic, and others, to develop theories, methods, software, systems, applications, and workflows.
 
