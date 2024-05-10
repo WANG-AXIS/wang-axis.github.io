@@ -16,11 +16,11 @@ permalink: /multimedia/
 
 ## Presentations
 
-#### How X-rays see through your skin -- Ge Wang:
+#### How X-rays see through your skin
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Machine Learning for Tomographic Imaging presented at University of Minnesota
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=1FWHRCuUb-c" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### AI for Medical Imaging (11/08/2023)
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=iaP5uIBYmGE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### CT - Ideas & Impacts by Ge Wang:
