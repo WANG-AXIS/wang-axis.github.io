@@ -83,6 +83,12 @@ firstp {
 
 /* Carusel */
 
+.carousel-inner img {
+    width: 100%;  /* Makes the image responsive and covers the full width of the carousel */
+    height: 500px; /* Fixed height for all images */
+    object-fit: cover; /* Ensures the image covers the area without distorting its aspect ratio */
+}
+
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
