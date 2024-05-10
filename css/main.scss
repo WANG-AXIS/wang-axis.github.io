@@ -83,62 +83,68 @@ firstp {
 
 /* Carusel */
 
-/* Carousel */
 .carousel {
-    border-radius: 3px;
-    margin: 20px 30px;
-}
-
-/* Carousel Images */
-.carousel-inner img {
-    width: 100%;  /* Ensures images stretch to the full width of the carousel */
-    height: 500px; /* Fixed height for all images */
-    object-fit: cover; /* Covers the area without distorting aspect ratios */
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .carousel-caption {
     position: relative;
     left: 0;
-    top: 0; /* Corrected the unit issue */
-    text-shadow: none; /* Updated shorthand for no text shadow */
+    top: 1;
+    text-shadow:0px 0px 0px rgba(0, 0, 0, 0)
 }
 
 .carousel-caption-color {
-    color: #477ecd;
-}
+  color: #477ecd; 
+ }
 
-.carousel-indicators .active {
+ .carousel-indicators .active{
     background-color: #0066cc;
 }
 
 .carousel-indicators li {
     display: inline-block;
     background-color: #99ccff;
+    
 }
 
-/* Flexbox settings for layout */
-.row-flex, .row-flex > div[class*='col-'], .container-flex > div[class*='col-'], .flex-col, .flex-grow {
+.row-flex, .row-flex > div[class*='col-'] {  
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
+    flex:0 1 auto;
 }
 
-.row-flex, .row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-    flex: 0 1 auto;
-}
-
-.row-flex-wrap, .row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-    flex-flow: row wrap;
+.row-flex-wrap {
+    -webkit-flex-flow: row wrap;
     align-content: flex-start;
+    flex:0;
 }
 
-.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] div, .row-flex > div[class*='col-'] div {
-    margin: -0.2px; /* Adjust for wrapping */
-    width: 100%;
+.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
+     margin:-.2px; /* hack adjust for wrapping */
 }
+
+.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
+    width:100%;
+}
+
 
 .flex-col {
+    display: flex;
+    display: -webkit-flex;
+    flex: 1 100%;
     flex-flow: column nowrap;
 }
 
 .flex-grow {
-    flex: 2; /* No need for vendor prefixes as most browsers support flexbox now */
+    display: flex;
+    -webkit-flex: 2;
+    flex: 2;
 }
