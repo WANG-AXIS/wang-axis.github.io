@@ -81,7 +81,7 @@ permalink: /members/
 </div>
 {% endif %}
 
-
+<!--
 ## Former Visiting Scholar
 {% assign number_printed = 0 %}
 {% for member in site.data.team_visitors %}
@@ -257,4 +257,6 @@ permalink: /members/
 </div>
 
 </div>
+
+-->
 
