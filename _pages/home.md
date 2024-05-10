@@ -56,7 +56,6 @@ We are grateful for funding and supports from [National Institutes of Health](ht
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nih.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ge-hc.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/firstImaging.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nvidia.png" style="width: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rpi.jpg" style="width: 300px">
 </figure>
