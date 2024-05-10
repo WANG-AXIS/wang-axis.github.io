@@ -115,5 +115,31 @@
   education1: BS, Univ. of Sci. & Tech. of China
   education2: Areas - Deep Learning, Image Analysis
   education3:
-  education4:
+  education:
 
+
+
+- name: Shuang Zhang
+  photo: shuang.jpeg
+  info: Research Associate, 05/24 - Now
+  email: zhangs31@rpi.edu
+  url:
+  path:
+  number_educ: 2
+  education1: PhD, Jilin Univ., China, 2023
+  education2: Areas - Deep Learning, Medical Data Analysis
+  education3:
+  education:
+
+
+- name: Melanie Kruger
+  photo: melanie.jpeg
+  info: Undergraduate Researcher, 05/24 - Now
+  email: krugem@rpi.edu
+  url:
+  path:
+  number_educ: 1
+  education1: Areas - Deep Learning, Medical Imaging
+  education2:
+  education3:
+  education4:
