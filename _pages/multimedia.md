@@ -16,15 +16,20 @@ permalink: /multimedia/
 
 ## Presentations
 
-#### How X-rays see through your skin
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### AI for Medical Imaging (11/08/2023)
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=iaP5uIBYmGE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Future of Medical Imaging (11/01/2023)
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=qgSVcsaJqKk&t=334s" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### CT - Ideas & Impacts by Ge Wang:
-<iframe width="640" height="360" src="https://www.youtube.com/embed/DShSGYHaKgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Deep Learning with Diffusion and Large Models (05/25/2023)
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=m4DvhHlY0Xg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### How X-rays see through your skin (06/22/2015)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gsV7SJDDCY4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+%#### CT - Ideas & Impacts by Ge Wang:
+%<iframe width="640" height="360" src="https://www.youtube.com/embed/DShSGYHaKgY" frameborder="0" allow="accelerometer; %autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Gallery
