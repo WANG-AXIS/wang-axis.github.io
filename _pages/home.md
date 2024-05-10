@@ -20,7 +20,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner">
+    <div class="carousel-inner" markdown="0">
 
         
         <div class="item active">
