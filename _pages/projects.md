@@ -137,27 +137,6 @@ This goal is to design a high-efficiency and high-quality Compton camera based t
 * Project schedule: 05/01/2021 – 04/30/2023
 
 
-
-## Bio-tissue Oxygenation Nanophosphor Enabled Sensing (BONES)
-
-The goal is to develop radiomics/rawdiomics for personalized treatment of colorectal liver metastases.
-
-* Grant: NIH/NIGMS R42GM142394
-* Sub-PI: Wang
-* Project schedule: 06/01/2021 – 11/30/2023
-
-
-
-## Focused X-ray Luminescence Tomography
-
-The goal is to develop the first-of-its-kind focused x-ray luminescence tomography (FXLT) scanner to “slice” deep cancers/tissues sensitively and longitudinally at 150μm resolution at a radiation dose comparable to that of a regular micro-CT scan.
-
-* Grant: NIH/NIBIB R01EB026646 
-* Sub-PI: Wang
-* Project schedule: 07/01/2018 – 03/31/2022
-
-
-
 ## Radiomic Markers of Response and Recurrence for Cancer Patients
 
 The goal is to develop and validate robust imaging features by standardizing image acquisition, improve automated tools for clinical trial use, and validate the predictive power of imaging features with external data.
@@ -173,17 +152,7 @@ The goal is to develop medical CT algorithms.
 
 * Industrial grant: General Electric (USA)
 * PI: Wang
-* Project schedule: 01/01/2021– 12/31/2022
-
-
-## Preclinical Micro-CT
-
-The goal is to develop preclinical micro-CT algorithms.
-
-* Industrial grant: FirstImaging (Shanghai, China)
-* PI: Wang
-* Project schedule: 01/01/2021– 12/31/2021
-
+* Project schedule: 01/01/2021– 12/31/2024
 
 <br/>
 <br/>
@@ -192,16 +161,6 @@ The goal is to develop preclinical micro-CT algorithms.
 
 
 # Projects in Preparation
-
-
-## Temporal Bone CT With Interior, Deep and Robotic Imaging
-
-The goal is to develop a robotic clinical micro-CT system with cutting-edge x-ray source and photon-counting detector technologies for temporal bone imaging.
-
-<!--* Grant from NIH/NIBIB
-* Contact PI: Wang
-* Project Schedule: 04/01/2023-03/31/2027-->
-
 
 ## Auto-driving Vehicle for Affordable Tomo-Analytic Robots (AVATAR)
 
