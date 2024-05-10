@@ -17,7 +17,6 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -35,7 +34,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
 
         <!-- Second Slide -->
         <div class="item">
-            <a>
+            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
                 <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/home1.png" alt="Slide 2" />
             </a>
             <div class="carousel-caption carousel-caption-color">
@@ -45,7 +44,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
 
         <!-- Third Slide -->
         <div class="item">
-            <a>
+            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
                 <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/home2.png" alt="Slide 3" />
             </a>
             <div class="carousel-caption carousel-caption-color">
@@ -55,7 +54,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
 
         <!-- Fourth Slide -->
         <div class="item">
-            <a>
+            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
                 <img src="https://github.com/WANG-AXIS/wang-axis.github.io/blob/master/images/home3.png" alt="Slide 4" />
             </a>
             <div class="carousel-caption carousel-caption-color">
