@@ -8,6 +8,12 @@ if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
 
+function moveCarousel(direction) {
+    $('#carousel').carousel(direction);
+    // Prevents the default anchor click behavior
+    return false;
+}
+
 +function ($) {
   'use strict';
   var version = $.fn.jquery.split(' ')[0].split('.')
