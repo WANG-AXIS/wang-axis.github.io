@@ -60,6 +60,8 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     <span class="sr-only">Next</span>
   </a>
   -->
+
+  <!--
   <a class="left carousel-control" role="button" data-slide="prev" onclick="moveCarousel('prev')">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -68,6 +70,7 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://www.lin
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+  -->
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
