@@ -1,3 +1,23 @@
+- title: "Specialty-Oriented Generalist Medical AI for Chest CT Screening"
+  image: SOGMAI.png
+  description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data from radiology, cardiology, and digital pathology. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked, adversely affecting clinical management and population healthcare. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
+  authors: Chuang Niu, Qing Lyu, Christopher D. Carothers, Parisa Kaviani, Josh Tan, Pingkun Yan, Mannudeep K. Kalra, Christopher T. Whitlow, Ge Wang
+  link: 
+    url: https://arxiv.org/abs/2304.02649
+    display:  https://arxiv.org/abs/2304.02649
+  highlight: 1
+  news2:
+
+  - title: "Learned Alternating Minimization Algorithm for Dual-domain Sparse-View CT Reconstruction"
+  image: LAMA.png
+  description: We propose a Learned Alternating Minimization Algorithm (LAMA) for dual-domain sparse-view CT image reconstruction. LAMA is induced by a variational model with learnable nonsmooth nonconvex regularizers, which are parameterized as composite functions of deep networks. We prove that LAMA is convergent for reliable image reconstruction.
+  authors: Ge Wang
+  link: 
+    url: https://doi.org/10.1007/978-3-031-43999-5_17
+    display:  Proc. International Conference on MICCAI, 173-183, 2023
+  highlight: 1
+  news2:
+
 - title: "Medical Imaging in Increasing Dimensions"
   image: AmeSci-Future-MI.png
   description: In this popular science article, the historical development of medical imaigng technologie is discussed along with the bright perspective of this critical healthcare field. The story is presented through the lens of increasing image dimentionality from two to many and from real to imaginary.
