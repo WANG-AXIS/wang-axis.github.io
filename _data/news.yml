@@ -3,7 +3,7 @@
   url: https://spie.org/opo/conferencedetails/x-ray-tomography
   site: SPIE
 
-  - date: 05/10/2024
+- date: 05/10/2024
   headline:  Ge Wang's Review on Best Deep Learning Textbook by Prince
   url: https://www.nature.com/articles/s42256-024-00840-8
   site: Nature Machine Intelligence
@@ -13,12 +13,12 @@
   url: https://arxiv.org/abs/2402.08159
   site: arXiv
 
-  - date: 02/13/2024
+- date: 02/13/2024
   headline:  AI Denoising for X-ray and Nuclear Tomography
   url: https://newsletter.ieee-npss.org/ai-denoising-for-x-ray-and-nuclear-tomography/
   site: IEEE NPSS
 
-  - date: 12/25/2023
+- date: 12/25/2023
   headline: Ge Wang's 1st ChatGPT App "ChatGe" for an Undergraduate Medical Imaging Course in Spring, 2024
   url: https://chatgpt.com/g/g-1imx1py4K-chatge-medical-imaging
   site: OpenAI
@@ -38,7 +38,7 @@
   url: https://news.rpi.edu/content/2023/06/02/artificial-biological-intelligence-could-play-key-role-future
   site: RPI News
 
-  - date: 09/27/2023
+- date: 09/27/2023
   headline:  Future of AI is Wide, Deep, and Large
   url: https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large
   site: RPI News
@@ -53,7 +53,6 @@
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12242.toc
   site: SPIE
 
-
 - date: 11/01/2022
   headline: Wang et. al. Publish Perspective on Healthcare Metaverse
   url: https://news.rpi.edu/content/2022/11/16/rensselaer-researchers-publish-research-nature-machine-intelligence-promoting
@@ -64,12 +63,10 @@
   url: https://webforms.rpi.edu/founders-award-excellence 
   site: RPI
 
-
 - date: 08/01/2022
   headline: Ge Wang Recieves the 2022 SPIE Meinel Technology Achievement Award
   url: https://spie.org/about-spie/awards-programs/awards-listing/spie-aden-and-marjorie-meinel-technology-achievement-award 
   site: SPIE
-
 
 - date: 04/03/2020
   editor: RPI
