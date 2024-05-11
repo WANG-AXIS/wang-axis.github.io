@@ -1,7 +1,7 @@
 ---
-title: "WANG-AXIS Lab - Home"
+title: "Wang-AXIS Lab - Home"
 layout: homelay
-excerpt: "WANG-AXIS Lab at Rensselaer Polytechnic Institute."
+excerpt: "Wang-AXIS Lab at Rensselaer Polytechnic Institute."
 sitemap: false
 permalink: /
 ---
