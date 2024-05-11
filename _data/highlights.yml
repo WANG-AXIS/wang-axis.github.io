@@ -1,3 +1,13 @@
+- title: "Medical Imaging in Increasing Dimensions"
+  image: AmeSci-Future-MI.png
+  description: In this popular science article, the historical development of medical imaigng technologie is discussed along with the bright perspective of this critical healthcare field. The story is presented through the lens of increasing image dimentionality from two to many and from real to imaginary.
+  authors: Ge Wang
+  link: 
+    url: https://www.americanscientist.org/article/medical-imaging-in-increasing-dimensions
+    display:  American Scientist 111:294-301, 2023
+  highlight: 1
+  news2:
+
 - title: "Development of Metaverse for Intelligent Healthcare"
   image: Nature_MI_Metaverse.png
   description: In this perspective, we present metaverse use cases, including virtual comparative scanning, raw data sharing, augmented regulatory science and metaversed medical intervention. We also identify specific action items for coordinated efforts to build the MeTAI metaverse.
@@ -7,7 +17,6 @@
     display:  Nature Machine Intelligence, 4:922-929, 2022
   highlight: 1
   news2:
-
 
 - title: "Deep Learning for Tomographic Image Reconstruction"
   image: Nature_MI_2_12.png
