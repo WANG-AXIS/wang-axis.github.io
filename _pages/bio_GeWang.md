@@ -59,8 +59,7 @@ permalink: bio_GeWang.html
 {% endfor %}
   
 <!--<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">-->
-  
-<br/>
+
 <br/>
   
 ## Two Interesting Projects
