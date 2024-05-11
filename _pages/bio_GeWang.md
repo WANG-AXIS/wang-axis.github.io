@@ -67,7 +67,7 @@ permalink: bio_GeWang.html
 <br/>
 <br/>
 
-## Two Interesting Projects
+## Two Side-track Projects
   
 <br/>
   
