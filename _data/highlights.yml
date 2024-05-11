@@ -1,3 +1,14 @@
+- title: "Development of Metaverse for Intelligent Healthcare"
+  image: Nature_MI_2_12.png
+  description: In this perspective, we present metaverse use cases, including virtual comparative scanning, raw data sharing, augmented regulatory science and metaversed medical intervention. We discuss relevant issues on the ecosystem of the MeTAI metaverse including privacy, security and disparity. We also identify specific action items for coordinated efforts to build the MeTAI metaverse for improved healthcare quality, accessibility, cost-effectiveness and patient satisfaction.
+  authors: Wang G, Badal A, Jia X, Maltz JS, Mueller K, Myers KJ, Niu C, Vannier MW, Yan PK, Yu Z, Zeng RP
+  link: 
+    url: https://www.nature.com/articles/s42256-022-00549-6
+    display:  Nature Machine Intelligence, 4:922-929, 2022
+  highlight: 1
+  news2:
+
+
 - title: "Deep Learning for Tomographic Image Reconstruction"
   image: Nature_MI_2_12.png
   description: In this Review, we provide a general background, highlight representative results with an emphasis on medical imaging, and discuss key issues that need to be addressed in this emerging field. In particular, tomographic imaging is an integral part of modern medicine, and will play a key role in personalized, preventive and precision medicine and make it intelligent, inexpensive and indiscriminate.
