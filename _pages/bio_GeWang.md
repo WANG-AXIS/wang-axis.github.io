@@ -63,7 +63,10 @@ permalink: bio_GeWang.html
 <!--<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">-->
 
 <br/>
-  
+<br/>
+<br/>
+<br/>
+
 ## Two Interesting Projects
   
 <br/>
