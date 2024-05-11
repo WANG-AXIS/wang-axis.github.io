@@ -1,7 +1,7 @@
 ---
-title: "WANG-AXIS Lab - Publication"
+title: "WANG-AXIS Lab - Publications"
 layout: gridlay
-excerpt: "WANG-AXIS Lab -- Publication."
+excerpt: "WANG-AXIS Lab -- Publications."
 sitemap: false
 permalink: /publication/
 ---
