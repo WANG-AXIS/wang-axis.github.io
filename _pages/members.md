@@ -1,7 +1,7 @@
 ---
-title: "WANG-AXIS Lab - Members"
+title: "Wang-AXIS Lab - Members"
 layout: gridlay
-excerpt: "WANG-AXIS Lab: Members"
+excerpt: "Wang-AXIS Lab: Members"
 sitemap: false
 permalink: /members/
 ---
