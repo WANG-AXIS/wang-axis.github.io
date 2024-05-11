@@ -7,6 +7,8 @@ permalink: bio_GeWang.html
 ---
 
 <br/>
+<br/>
+<br/>
 
 {% for member in site.data.team_members %}
 
