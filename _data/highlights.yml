@@ -40,7 +40,7 @@
   news2:
 
 - title: "Competitive Performance of a Modularized Deep Neural Network Compared to Commercial Algorithms for Low-dose CT Image Reconstruction"
-  image: NMI_LDCT.png
+  image: Nature-MI-LDCT.png
   description: This study confirms that our deep learning approach performs either favourably or comparably in terms of noise suppression and structural fidelity, and is much faster than commercial iterative reconstruction algorithms.
   authors: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K. Kalra, and Ge Wang
   link:
