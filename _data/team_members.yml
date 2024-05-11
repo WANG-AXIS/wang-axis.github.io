@@ -1,13 +1,13 @@
 - name: Ge Wang
   photo: wangg6.jpg
-  info: Clark & Crossan Endowed Chair Professor, Director of Biomedical Imaging Center
+  info: Clark & Crossan Chair Professor, Director of Biomedical Imaging Center
   email: wangg6@rpi.edu
   url: https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en
   path: bio_GeWang
   number_educ: 3
-  education1: Fellow of IEEE, SPIE, OSA, AIMBE, AAPM, AAAS, and NAI.
-  education2: Areas - AI, Medical Imaging
-  education3: See my <a href="https://faculty.rpi.edu/ge-wang">RPI home page</a>
+  education1: Societal Fellowship: IEEE/SPIE/OSA/AIMBE/AAPM/AAAS/NAI
+  education2: Research Interests: Medical Imaging, AI, deep learning
+  education3: Institutional Web: <a href="https://faculty.rpi.edu/ge-wang">Ge Wang's RPI Page</a>
   education4: 
   education5: 
 
