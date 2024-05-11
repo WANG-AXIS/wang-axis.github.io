@@ -84,9 +84,7 @@ Shi ZF, Yang HY, Cong WX, Wang G: A novel edge-on structure for energy-resolved 
   
 While wide networks already allow universal approximation, the successes of deep learning demonstrate the power of deep networks. We are investigating if the design of artificial neural networks has a directional preference and what the mechanism of interaction is between the width and depth of a network.
   
-Fan FL, Lai RJ, Wang G: Quasi-Equivalence of Width and Depth of Neural Networks, [https://arxiv.org/abs/2002.02515](https://arxiv.org/abs/2002.02515), 2022
-
-
+Fan FL, Lai RJ, Wang G: Quasi-equivalence between Width and Depth of Neural Networks. Journal of Machine Learning Research 24:1-22, https://jmlr.org/papers/v24/21-0579.html, 2023
 
 <!--
 <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)" />
