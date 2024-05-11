@@ -26,7 +26,7 @@ permalink: /multimedia/
 <iframe width="640" height="360" src="https://www.youtube.com/embed/m4DvhHlY0Xg?si=K0uWXEge5EJ4dlk7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Gallery
-(Right-click *'view image'* to see a larger image.)
+(Right-click for a Larger Image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Wang %}
 
