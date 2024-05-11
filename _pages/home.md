@@ -84,7 +84,7 @@ Our lab focuses on innovation and translation of x-ray computed tomography, opti
 
 
 
-We are grateful for funding and supports from [National Institutes of Health](https://www.nih.gov/), [GE Healthcare](https://www.gehealthcare.com/), [First Imaging](http://www.first-imaging.com/), [Nvidia](https://www.nvidia.com/en-us/), and [Rensselaer Polytechnic Institute](https://www.rpi.edu).
+We are grateful for funding and supports from [National Institutes of Health](https://www.nih.gov/), [GE Healthcare](https://www.gehealthcare.com/), [Nvidia](https://www.nvidia.com/en-us/), and [Rensselaer Polytechnic Institute](https://www.rpi.edu).
 
 
 
