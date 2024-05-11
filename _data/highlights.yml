@@ -11,7 +11,7 @@
 - title: "Learned Alternating Minimization Algorithm for Dual-domain Sparse-View CT Reconstruction"
   image: LAMA.png
   description: We propose a Learned Alternating Minimization Algorithm (LAMA) for dual-domain sparse-view CT image reconstruction. LAMA is induced by a variational model with learnable nonsmooth nonconvex regularizers, which are parameterized as composite functions of deep networks. We prove that LAMA is convergent for reliable image reconstruction.
-  authors: Ge Wang
+  authors: Chi Ding, Qingchao Zhang, Ge Wang, Xiaojing Ye, Yunmei Chen 
   link: 
     url: https://doi.org/10.1007/978-3-031-43999-5_17
     display:  Proc. International Conference on MICCAI, 173-183, 2023
