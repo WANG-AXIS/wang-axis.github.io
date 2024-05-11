@@ -1,4 +1,4 @@
-- title: "Deep learning for tomographic image reconstruction"
+- title: "Deep Learning for Tomographic Image Reconstruction"
   image: Nature_MI_2_12.png
   description: In this Review, we provide a general background, highlight representative results with an emphasis on medical imaging, and discuss key issues that need to be addressed in this emerging field. In particular, tomographic imaging is an integral part of modern medicine, and will play a key role in personalized, preventive and precision medicine and make it intelligent, inexpensive and indiscriminate.
   authors: Ge Wang, Jong Chul Ye and Bruno De Man
@@ -19,7 +19,7 @@
   highlight: 1
   news2:
 
-- title: "Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction"
+- title: "Competitive Performance of a Modularized Deep Neural Network Compared to Commercial Algorithms for Low-dose CT Image Reconstruction"
   image: NMI_LDCT.png
   description: This study confirms that our deep learning approach performs either favourably or comparably in terms of noise suppression and structural fidelity, and is much faster than commercial iterative reconstruction algorithms.
   authors: Hongming Shan, Atul Padole, Fatemeh Homayounieh, Uwe Kruger, Ruhani Doda Khera, Chayanin Nitiwarangkul, Mannudeep K. Kalra, and Ge Wang
@@ -40,7 +40,7 @@
   highlight: 1
   news2:
 
-- title: "Machine learning will transform radiology significantly within the next 5 years"
+- title: "Machine Learning Will Transform Radiology Significantly within the Next 5 Years"
   image: MP_ML.jpg
   description: Top 10 most downloaded articles of Med. Phys.
   authors: Ge Wang, Mannudeep K. Kalra and Colin G. Orton 
@@ -50,7 +50,7 @@
   highlight: 1
   news2:
 
-- title: "A Perspective on Deep Imaging"
+- title: "Perspective on Deep Imaging"
   image: Perspective.jpg
   description: First perspective on machine learning / deep learning for tomographic imaging, as a roadmap for the new area of “deep reconstruction” / “deep imaging” and a basis for the 1st special journal issue on this theme (IEEE TMI) 
   authors: Ge Wang
