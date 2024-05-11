@@ -9,7 +9,7 @@
   news2:
 
 - title: "Development of Metaverse for Intelligent Healthcare"
-  image: Nature_MI_Metaverse.png
+  image: Nature-MI-Metaverse.png
   description: In this perspective, we present metaverse use cases, including virtual comparative scanning, raw data sharing, augmented regulatory science and metaversed medical intervention. We also identify specific action items for coordinated efforts to build the MeTAI metaverse.
   authors: Ge Wang, Andreu Badal, Xun Jia, Jonathan S. Maltz, Klaus Mueller, Kyle J. Myers, Chuang Niu, Michael Vannier, Pingkun Yan, Zhou Yu, Rongping Zeng
   link: 
@@ -19,7 +19,7 @@
   news2:
 
 - title: "Deep Learning for Tomographic Image Reconstruction"
-  image: Nature_MI_2_12.png
+  image: Nature-MI-DeepRecon.png
   description: In this Review, we provide a general background, highlight representative results with an emphasis on medical imaging, and discuss key issues that need to be addressed in this emerging field. In particular, tomographic imaging is an integral part of modern medicine, and will play a key role in personalized, preventive and precision medicine and make it intelligent, inexpensive and indiscriminate.
   authors: Ge Wang, Jong Chul Ye and Bruno De Man
   link: 
