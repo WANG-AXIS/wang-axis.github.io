@@ -21,10 +21,14 @@ permalink: bio_GeWang.html
    
   {% if member.url != null %}
   <table>
-    <tr>
-        <td><h4><b>{{ member.name }}&nbsp; </b></h4></td>
-        <td><a href = " {{ member.url }}" > Google Scholar </a></td>
-    </tr>
+
+<tr>
+    <td><h4><b>{{ member.name }}&nbsp;</b></h4></td>
+</tr>
+<tr>
+    <td><a href="{{ member.url }}">Google Scholar</a></td>
+</tr>
+
   </table>
   {% endif %}
   {% if member.url == null %}
