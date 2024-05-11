@@ -87,7 +87,7 @@ Fan FL, Lai RJ, Wang G: Quasi-Equivalence of Width and Depth of Neural Networks,
 
 <!--
 <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/bios/bio_GeWang.png" class="img-responsive" width="80%" style="border:0px solid white; box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.2), 0 0px 0px 0 rgba(255, 255, 255, 0.19)" />
--->
+
   
 <br/>
 <br/>
@@ -96,7 +96,7 @@ YouTube Channel: [https://www.youtube.com/channel/UC53SN_avgBiU-Wx3fNGZ10A](http
 <br/>
 <br/>
 <br/>
-  
+-->
 <br/>
 <br/>
 <br/>
