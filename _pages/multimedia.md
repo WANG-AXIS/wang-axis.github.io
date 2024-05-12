@@ -44,7 +44,8 @@ permalink: /multimedia/
 -->
 
 <div class="col-sm-3 clearfix">
-  <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" data-lightbox="gallery" data-title="{{ pic.title }}>
+  <p>{{ pic.title }}</p>
+  <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" data-lightbox="gallery">
     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
   </a>
 </div>
