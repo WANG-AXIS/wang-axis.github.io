@@ -13,18 +13,24 @@
 <link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
 
     <!-- Lightbox JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js" defer></script>
 
-    <!-- Lightbox Initialization Script -->
+
     <script>
     document.addEventListener("DOMContentLoaded", function() {
-        lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': true
-        });
+        console.log("Configuring Lightbox...");
+        if (typeof lightbox !== 'undefined') {
+            lightbox.option({
+                'resizeDuration': 200,
+                'wrapAround': true
+            });
+            console.log("Lightbox configured successfully.");
+        } else {
+            console.error("Lightbox is not defined.");
+        }
     });
     </script>
-  
+
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
