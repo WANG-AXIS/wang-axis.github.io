@@ -14,7 +14,7 @@ permalink: /resources/
 <!--# Resources-->
 
 
-## Biomedical Imaging Center (BIC), Rensselaer Polytechnic Institute (RPI)
+## Biomedical Imaging Center, Rensselaer Polytechnic Institute
 
 The mission of Biomedical Imaging Center (BIC) at Rensselaer Polytechnic Institute (RPI) is to define and advance imaging frontiers, theories and technologies, realize clinical, preclinical and other potentials, as well as train scientists and engineers. BIC is directed by Dr. Ge Wang and occupies office and laboratory space of ~3,000sf in the Center for Biotechnology and Interdisciplinary Studies (CBIS) (Figure 1), which ranks among the world's most advanced research facilities.
 
