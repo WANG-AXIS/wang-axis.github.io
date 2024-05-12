@@ -62,8 +62,15 @@ permalink: bio_GeWang.html
   
 <!--<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">-->
 
-<br/>
-<br/>
+  </ul>
+</div>
+<!--</div>-->
+
+{% endif %}
+{% endfor %}
+  
+Ge Wang is Fellow of IEEE, SPIE, AAPM, OSA, AIMBE, AAAS, and NAI, and received the RPI Wiley Distinguished Faculty Award, IEEE R1 Outstanding Teaching Award, IEEE EMBS Career Achievement Award, SPIE Meinel Technology Award, Sigma Xi Chubb Award for Innovation, and IEEE NPSS Hoffman Medical Imaging Scientist Award, and other distinctions.In additon to tomographic reconstruction using classic and deep learning methods, He has a spectrum of interests involving applied mathematics, AI theory, imaging hardware and system engineering.  
+  
 <br/>
 <br/>
 
