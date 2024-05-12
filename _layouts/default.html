@@ -14,12 +14,16 @@
     </div>
 
   <script>
-  document.addEventListener("DOMContentLoaded", function() {
-      lightbox.option({
-          'resizeDuration': 200,
-          'wrapAround': true
-      });
-  });
+  window.onload = function() {
+      if (typeof lightbox !== 'undefined') {
+          lightbox.option({
+              'resizeDuration': 200,
+              'wrapAround': true
+          });
+      } else {
+          console.error('Lightbox is not defined.');
+      }
+  };
   </script>
 
   </body>
