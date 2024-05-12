@@ -73,3 +73,9 @@ permalink: /multimedia/
 
 <p> &nbsp; </p>
 
+document.addEventListener("DOMContentLoaded", function(event) {
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true
+    })
+});
