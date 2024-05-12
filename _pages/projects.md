@@ -48,6 +48,23 @@ which is the first of its kind in the world (https://ima.umn.edu/2019-2020/SW10.
 
 # Projects in Progress
 
+## Constrained Disentanglement for CT Metal Artifact Reduction
+
+The goal is to develop deep learning algorithms for CT metal artifact reduction in the context of proton therapy.
+
+
+<p align = "left">
+<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/constrained_disentanglement.png" width="600">
+</p>
+<p align = "left">
+</p>
+
+<!--The World Health Organization reported that cancer is the second leading cause of death globally and is re- sponsible for 9.6 million deaths in 2018. Approximately 50% of all cancer patients receive radiation therapy (RT). Many of them have metal implants, which induce image artifacts in the treatment planning CT images and compromise or preclude treatment in an estimated 15% of all radiation therapy patients. Despite extensive CT metal artifact reduction (MAR) research it remains one of the long-standing challenges in the CT field, without a clinically satisfactory solution. The overall goal of this project is to develop cutting-edge deep learning imaging methods and software solutions for commercial CT scanners to eliminate CT metal artifacts in general and improve RT in particular. We propose a three-pronged approach to systematically tackle this challenge in three specific aims: (1) adversarial learning techniques for estimation of sinogram missing data and metal traces; (2) constrained disentanglement (CODE) networks to remove CT image artifacts during image reconstruction, through post-processing, and in both data and image domains; and (3) systematic evaluation of our proposed CT MAR techniques and clinical translation into robust RT planning methods to maximize the RT treatment planning accuracy and thus improve patient outcomes. Our synergistic track records in CT MAR research, especially with deep imaging methods over the past three years, promises an unprecedented opportunity for a brand-new solution to CT MAR. For the first time we will integrate contemporary AI innovations in data preprocessing, image reconstruction, post-processing, observer studies and treatment planning synergistically in a unified data-driven framework, positioning this project uniquely to eliminate metal artifacts and their complications in radiation therapy. This project will be pursued through the long-term academic-industrial partnership among Dr. Ge Wang at Ren- sselaer Polytechnic Institute (RPI), Dr. Bruno De Man at GE Research Center (GRC), and Dr. Harald Paganetti at Massachusetts General Hospital (MGH). While our teams will collaborate closely through the whole project, GRC has a history of CT research and translation, including direct raw data processing, and will focus on Aim 1. RPI is a pioneering group in tomographic reconstruction, especially deep-learning-based CT imaging, and will lead Aim 2. The MGH team is at the forefront of radiation therapy research and will be responsible for Aim 3. Upon completion of this project, we will have redefined the state of the art of CT MAR, largely eliminating CT metal artifacts and substantially improving radiation therapy planning and delivery accuracy. With the above-proposed networks for CT MAR, metal artifacts will have been basically eliminated, targeting residual errors <10 HU for photon and proton therapy planning, with the goal of reducing the clinical diametric error to ±3% and the proton range error due to metal artifacts to <2mm. Since our approach is software-based and open-source, the path for technology transfer and clinical translation is clearly defined, as well tested before.-->
+
+* Grant: NIH/NIBIB R01EB031102
+* Multi-PIs: Ge Wang\*, Bruno De Man (GE), Harald Paganetti (Harvard)
+* Project schedule: 09/01/2021 – 08/31/2025
+* For more details, [visit website](https://deepcodemar.github.io/)
 
 ## Photon-counting CT and Optical Molecular Tomography
 
@@ -66,32 +83,9 @@ The goal is to develop a preclinical x-ray and optical prototype for High-dimens
 * Project schedule: 09/01/2019 – 08/31/2024
 * For more details, [visit website](https://hotgem.github.io/)
 
-
-## Constrained Disentanglement for CT Metal Artifact Reduction
-
-The goal is to develop deep learning algorithms for CT metal artifact reduction in the context of proton therapy.
-
-
-<p align = "left">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/constrained_disentanglement.png" width="600">
-</p>
-<p align = "left">
-</p>
-
-<!--The World Health Organization reported that cancer is the second leading cause of death globally and is re- sponsible for 9.6 million deaths in 2018. Approximately 50% of all cancer patients receive radiation therapy (RT). Many of them have metal implants, which induce image artifacts in the treatment planning CT images and compromise or preclude treatment in an estimated 15% of all radiation therapy patients. Despite extensive CT metal artifact reduction (MAR) research it remains one of the long-standing challenges in the CT field, without a clinically satisfactory solution. The overall goal of this project is to develop cutting-edge deep learning imaging methods and software solutions for commercial CT scanners to eliminate CT metal artifacts in general and improve RT in particular. We propose a three-pronged approach to systematically tackle this challenge in three specific aims: (1) adversarial learning techniques for estimation of sinogram missing data and metal traces; (2) constrained disentanglement (CODE) networks to remove CT image artifacts during image reconstruction, through post-processing, and in both data and image domains; and (3) systematic evaluation of our proposed CT MAR techniques and clinical translation into robust RT planning methods to maximize the RT treatment planning accuracy and thus improve patient outcomes. Our synergistic track records in CT MAR research, especially with deep imaging methods over the past three years, promises an unprecedented opportunity for a brand-new solution to CT MAR. For the first time we will integrate contemporary AI innovations in data preprocessing, image reconstruction, post-processing, observer studies and treatment planning synergistically in a unified data-driven framework, positioning this project uniquely to eliminate metal artifacts and their complications in radiation therapy. This project will be pursued through the long-term academic-industrial partnership among Dr. Ge Wang at Ren- sselaer Polytechnic Institute (RPI), Dr. Bruno De Man at GE Research Center (GRC), and Dr. Harald Paganetti at Massachusetts General Hospital (MGH). While our teams will collaborate closely through the whole project, GRC has a history of CT research and translation, including direct raw data processing, and will focus on Aim 1. RPI is a pioneering group in tomographic reconstruction, especially deep-learning-based CT imaging, and will lead Aim 2. The MGH team is at the forefront of radiation therapy research and will be responsible for Aim 3. Upon completion of this project, we will have redefined the state of the art of CT MAR, largely eliminating CT metal artifacts and substantially improving radiation therapy planning and delivery accuracy. With the above-proposed networks for CT MAR, metal artifacts will have been basically eliminated, targeting residual errors <10 HU for photon and proton therapy planning, with the goal of reducing the clinical diametric error to ±3% and the proton range error due to metal artifacts to <2mm. Since our approach is software-based and open-source, the path for technology transfer and clinical translation is clearly defined, as well tested before.-->
-
-* Grant: NIH/NIBIB R01EB031102
-* Multi-PIs: Ge Wang\*, Bruno De Man (GE), Harald Paganetti (Harvard)
-* Project schedule: 09/01/2021 – 08/31/2024
-* For more details, [visit website](https://deepcodemar.github.io/)
-
-
-
-
 ## Adversarially Based Virtual CT Workflow for Evaluation of AI Imaging
 
 The goal is to develop an FDA workflow evaluating, approving, and monitoring AI imaging software. This project would be a key element in the future healthcare metaverse.
-
 
 <p align = "left">
 <img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/projects/adversarially_based_ct2.png" width="600">
@@ -123,8 +117,16 @@ The goal is to use deep learning to eliminate blooming artifacts in cardiac CT i
 
 * Grant: NIH/NIBIB R01HL151561
 * Multi-PIs: Bruno De Man\* (GE), Ge Wang, James Min (Cleerly/Cornell)
-* Project schedule: 04/01/2020 – 06/30/2024
+* Project schedule: 04/01/2020 – 06/30/2025
 
+## AI-based Cardiac CTg
+
+This project will develop an artificial intelligence (AI)-based approach to freeze the beating heart in CT images within a 60-millisecond time window (1/20 of a heart beat), eliminate the motion blurring of coronary arteries in these images, and facilitate analysis of plaque buildup in these arteries, which is the main cause of heart attacks. Our methods will not require patients to hold their breath during the CT exam, and eliminate the need to use beta-blocker drugs to slow patients’ heart rates. Our AI-empowered computational framework will offer major benefits to patients who have the high and irregular heart rates that commonly occur in older adults many of whom experience atrial fibrillation, and also greatly improve image quality of legacy CT scanners.
+
+* Grant: NIH/NIBIB 5R01EB032807
+* PI: Hengyong Yu
+* Subcontract PI: Ge Wang
+* Project schedule: 03/01/2024 – 02/28/2027
 
 ## SPECT with a Compton Camera for Thyroid Cancer Imaging
 
