@@ -63,7 +63,7 @@ The goal is to develop deep learning algorithms for CT metal artifact reduction 
 
 * Grant: NIH/NIBIB R01EB031102
 * Multi-PIs: Ge Wang\*, Bruno De Man (GE), Harald Paganetti (Harvard)
-* Project schedule: 09/01/2021 – 08/31/2025
+* Period: 09/01/2021 – 08/31/2025
 * For more details, [visit website](https://deepcodemar.github.io/)
 
 ## Photon-counting CT and Optical Molecular Tomography
@@ -80,7 +80,7 @@ The goal is to develop a preclinical x-ray and optical prototype for High-dimens
 
 * Grant: NIH/NCI R01CA237267 
 * Multi-PIs: Ge Wang\*, Xavier Intes, Barroso, Margarida (Albany Medical Center)
-* Project schedule: 09/01/2019 – 08/31/2024
+* Period: 09/01/2019 – 08/31/2024
 * For more details, [visit website](https://hotgem.github.io/)
 
 ## Adversarially Based Virtual CT Workflow for Evaluation of AI Imaging
@@ -98,7 +98,7 @@ The goal is to develop an FDA workflow evaluating, approving, and monitoring AI 
 
 * Grant: NIH/NIBIB R01EB032716
 * Multi-PIs: Ge Wang\*, Klaus Mueller (Stony Brook), Xun Jia (JHU), Rongping Zeng (FDA)
-* Project schedule: 04/01/2022 – 03/31/2026
+* Period: 04/01/2022 – 03/31/2026
 * For more details, [visit website](https://ctaiworkflow.github.io/)
 
 
@@ -117,16 +117,25 @@ The goal is to use deep learning to eliminate blooming artifacts in cardiac CT i
 
 * Grant: NIH/NIBIB R01HL151561
 * Multi-PIs: Bruno De Man\* (GE), Ge Wang, James Min (Cleerly/Cornell)
-* Project schedule: 04/01/2020 – 06/30/2025
+* Period: 04/01/2020 – 06/30/2025
 
-## AI-based Cardiac CTg
+## AI-based Cardiac CT
 
 This project will develop an artificial intelligence (AI)-based approach to freeze the beating heart in CT images within a 60-millisecond time window (1/20 of a heart beat), eliminate the motion blurring of coronary arteries in these images, and facilitate analysis of plaque buildup in these arteries, which is the main cause of heart attacks. Our methods will not require patients to hold their breath during the CT exam, and eliminate the need to use beta-blocker drugs to slow patients’ heart rates. Our AI-empowered computational framework will offer major benefits to patients who have the high and irregular heart rates that commonly occur in older adults many of whom experience atrial fibrillation, and also greatly improve image quality of legacy CT scanners.
 
-* Grant: NIH/NIBIB 5R01EB032807
+* Grant: NIH/NIBIB R01EB032807
 * PI: Hengyong Yu
 * Subcontract PI: Ge Wang
-* Project schedule: 03/01/2024 – 02/28/2027
+* Period: 03/01/2023 – 02/28/2027
+
+## Unsupervised Deep Photon-Counting Computed Tomography Reconstruction for Human Extremity Imaging
+
+The goal of this project is to develop an Unsupervised Deep Learning Approach (UDLA) for few-view and low-dose image reconstruction, with much higher spatial resolution and computational efficiency, without the requirement of ground-truth for training.
+
+* Grant: NIH/NIBIB R01EB034737 
+* PI: Hengyong Yu
+* Subcontract PI: Ge Wang
+* Period: 07/01/2023 – 04/30/2027
 
 ## SPECT with a Compton Camera for Thyroid Cancer Imaging
 
@@ -162,7 +171,7 @@ The goal is to develop medical CT algorithms.
 
 
 
-# Projects in Preparation
+# Investigation in Progress
 
 ## Auto-driving Vehicle for Affordable Tomo-Analytic Robots (AVATAR)
 
