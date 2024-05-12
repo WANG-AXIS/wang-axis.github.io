@@ -27,7 +27,7 @@ permalink: /multimedia/
 
 
 ## Gallery
-(click for a Larger Image.)
+(Click on an Image for Magnification.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Wang %}
 
