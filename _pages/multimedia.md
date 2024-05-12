@@ -73,17 +73,3 @@ permalink: /multimedia/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-<!-- Lightbox2 CSS -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-
-<!-- Lightbox2 JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-document.addEventListener("DOMContentLoaded", function(event) {
-    lightbox.option({
-      'resizeDuration': 200,
-      'wrapAround': true
-    });
-});
