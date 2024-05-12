@@ -1,6 +1,6 @@
 - title: "Specialty-Oriented Generalist Medical AI for Chest CT Screening"
   image: SOGMAI.png
-  description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data from radiology, cardiology, and digital pathology. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked, adversely affecting clinical management and population healthcare. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
+  description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
   authors: Chuang Niu, Qing Lyu, Christopher D. Carothers, Parisa Kaviani, Josh Tan, Pingkun Yan, Mannudeep K. Kalra, Christopher T. Whitlow, Ge Wang
   link: 
     url: https://arxiv.org/abs/2304.02649
@@ -40,7 +40,7 @@
 
 - title: "Deep Learning for Tomographic Image Reconstruction"
   image: Nature-MI-DeepRecon.png
-  description: In this Review, we provide a general background, highlight representative results with an emphasis on medical imaging, and discuss key issues that need to be addressed in this emerging field. In particular, tomographic imaging is an integral part of modern medicine, and will play a key role in personalized, preventive and precision medicine and make it intelligent, inexpensive and indiscriminate.
+  description: In this review, we provide a general background, highlight representative results with an emphasis on medical imaging, and discuss key issues that need to be addressed in this emerging field. In particular, tomographic imaging is an integral part of modern medicine, and will play a key role in personalized, preventive and precision medicine and make it intelligent, inexpensive and indiscriminate.
   authors: Ge Wang, Jong Chul Ye and Bruno De Man
   link: 
     url: https://www.nature.com/articles/s42256-020-00273-z
