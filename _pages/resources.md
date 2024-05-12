@@ -41,19 +41,7 @@ This laboratory owns a Universal CT Bench-top system of $1M investment donated b
 
 ## [Photon-counting Micro-CT Scanner MARS](https://wang-axis.github.io/mars.html):
 
-The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users.
-
-
-<p align = "center">
-  <img style="width: 40vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource7.png" />
-
-  Figure 7. Photon-counting micro-CT scanner donated by MARS Bioimaging to Wang’s lab.
-  
-</p>
-
-For detailed information please [click on this link.](https://wang-axis.github.io/mars.html)
-
-
+The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users. For detailed information please [click on this link.](https://wang-axis.github.io/mars.html)
 
 ## Universal CT Bench-top System:
 
@@ -136,7 +124,7 @@ Micro-MRI is ideally suited to perform in vivo studies of animals and ex vivo st
 
 ## GPU Workstations:
 
-State-of-the-art GPU workstations are dedicated to deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA, and two TITAN RTX GPUs interconnected via NVIDIA NVLink. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB) for high-resolution volumetric image reconstruction. The standard software packages are installed on all workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
+State-of-the-art GPU workstations are up to date for deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA to Wang’s Lab, two TITAN RTX GPUs interconnected via NVIDIA NVLink, five RTX A5000 GPUs, and ten NVIDIA H100 systems. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB/256GB/1TB) for high-resolution volumetric image reconstruction. All these GPU servers are connected to a large data system of 117TB. The standard software packages are installed on all the workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
 
 
 ## High-performance Computing Infrastructure:
