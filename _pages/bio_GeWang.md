@@ -21,14 +21,10 @@ permalink: bio_GeWang.html
    
   {% if member.url != null %}
   <table>
-
-<tr>
-    <td><h4><b>{{ member.name }}&nbsp;</b></h4></td>
-</tr>
-<tr>
-    <td><a href="{{ member.url }}">Google Scholar</a></td>
-</tr>
-
+    <tr>
+        <td><h4><b>{{ member.name }}&nbsp; </b></h4></td>
+        <td><a href = " {{ member.url }}" > [Google Scholar] </a></td>
+    </tr>
   </table>
   {% endif %}
   {% if member.url == null %}
@@ -59,16 +55,7 @@ permalink: bio_GeWang.html
 
 {% endif %}
 {% endfor %}
-  
-<!--<embed type="text/html" src="bios/bio_GeWang.htm"  width="800" height="1200">-->
 
-  </ul>
-</div>
-<!--</div>-->
-
-{% endif %}
-{% endfor %}
-  
 Ge Wang is Fellow of IEEE, SPIE, AAPM, OSA, AIMBE, AAAS, and NAI, and received the RPI Wiley Distinguished Faculty Award, IEEE R1 Outstanding Teaching Award, IEEE EMBS Career Achievement Award, SPIE Meinel Technology Award, Sigma Xi Chubb Award for Innovation, and IEEE NPSS Hoffman Medical Imaging Scientist Award, and other distinctions.In additon to tomographic reconstruction using classic and deep learning methods, He has a spectrum of interests involving applied mathematics, AI theory, imaging hardware and system engineering.  
   
 <br/>
