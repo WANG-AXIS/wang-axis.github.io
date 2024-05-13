@@ -1,9 +1,9 @@
 ---
-title: "MARS Photon Counting CT"
+title: "login"
 layout: textlay
-excerpt: "MARS PCCT"
+excerpt: "login"
 sitemap: false
-permalink: /mars.html
+permalink: /login.html
 ---
 
 # Photon-counting Micro-CT Scanner MARS:
