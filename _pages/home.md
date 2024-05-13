@@ -7,7 +7,7 @@ permalink: /
 ---
 
 AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and  [Dr. Chuang Niu](https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl=en) in the 
-[Biomedical Imaging Center](https://biotech.rpi.edu/biomedical-imaging-center), affiliated with the
+[Biomedical Imaging Center](https://biotech.rpi.edu/biomedical-imaging-center) directed by  [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and  [Dr. Pingkun Yan](https://dial.rpi.edu/people/pingkun-yan), affiliated with the
 [Center for Biotechnology and Interdisciplinary Studies](http://biotech.rpi.edu/), the
 [Center for Computational Innovations](https://cci.rpi.edu/), and the
 [Department of Biomedical Engineering](http://bme.rpi.edu/), [Rensselaer Polytechnic Institute](http://www.rpi.edu/). 
