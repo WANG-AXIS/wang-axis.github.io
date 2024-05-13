@@ -82,12 +82,14 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty
 
 Our lab focuses on innovation and translation of medical imaging, with an emphasis on x-ray CT, multi-modality/multi-scale imaging, and deep image reconstruction and analysis. We have been continuously funded by federal agencies and leading companies. Our world-class collaboration network includes industry leaders and top academic institutions such as 
 GE Healthcare, 
-MARS, 
+MARS Bioimaging, 
 FDA, SBU, JHU,
 Harvard, Stanford, Yale,
-Wake Forest, UMass Lowell,
 MSK Cancer Center, 
-HSS (Hospital for Special Surgery), and others. Together, we are developing theories, methods, software, systems, and workflows to shape the future of healthcare.
+Wake Forest, UMass Lowell,
+Albany Medical Center,
+HSS (Hospital for Special Surgery),
+and others. Together, we are developing theories, methods, software, systems, and workflows to shape the future of healthcare.
 
 We are grateful for funding and support from [National Institutes of Health](https://www.nih.gov/), [GE Healthcare](https://www.gehealthcare.com/), [Nvidia](https://www.nvidia.com/en-us/), and [Rensselaer Polytechnic Institute](https://www.rpi.edu).
 
