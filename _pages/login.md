@@ -8,7 +8,9 @@ permalink: /login.html
 
 ## Login Page
 
-<link rel="stylesheet" href="/css/login.css">
+body, input, button, label {
+    border: 1px solid red; /* This will put a red border around all these elements */
+}
 
 <form id="loginForm" onsubmit="return false;">
     <label for="username">Username:</label>
