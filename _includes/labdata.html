@@ -1,4 +1,12 @@
-    <h1 contenteditable="true">
-        This is an Editable Heading element.
-    </h1>
+<div class="well">
+<h4>Data Storage</h4>
+
+{% for link in site.data.labcodes limit:8 %}
+<p>
+ - <a href="{{ link.url }}">{{ link.title }}</a> 
+</p>
+{% endfor %}
+
+</div>
+
     
