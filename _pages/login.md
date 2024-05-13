@@ -6,7 +6,7 @@ sitemap: false
 permalink: /login.html
 ---
 
-## Login Page
+# Data Storage Login
 
 <label for="username">Username:</label>
 <input type="text" id="username" name="username" required><br><br>
