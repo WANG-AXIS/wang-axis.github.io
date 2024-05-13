@@ -6,4 +6,12 @@ sitemap: false
 permalink: /login.html
 ---
 
-# test
+## Login Page
+
+Username: ![Username Field](username.png)
+
+Password: ![Password Field](password.png)
+
+[Login](javascript:void(0); "Login"){: .login-button }
+
+<script src="login-script.js"></script>
