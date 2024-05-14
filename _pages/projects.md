@@ -165,8 +165,9 @@ The goal is to develop medical CT algorithms.
 
 <!--Given unprecedented progresses in the engineering field over the past decade or so, the development of AVATAR is timely to integrate cutting-edge machine learning, auto-driving, medical imaging, robot, computer vision, virtual/mixed reality, high-performance computing, and internet technologies, and change the landscape of the imaging world. This is particularly helpful for cancer screening, diagnosis, and follow-up in underdeveloped countries. We are open to collaborate with those who are interested to address the healthcare needs in low-middle income countries (LMIC).-->
 
+* Wang G, Kalra M, Murugan V, Xi Y, Gjesteby L, Getzin M, Yang QS, Cong WX, Vannier MW: Simultaneous CT-MRI: Next chapter of multi-modality imaging. Med. Phys. 42:5879-5889, 2015
 *	The [bilingual blog on AVATAR](https://mp.weixin.qq.com/s/dsZnqY-CeDYn1uBrZAFIXw) in Chinese (upper part) and English (lower part)
-*	Peng YT, Li MZ, Grandinetti J, *Wang G, *Jia X: Top-level Design and Simulated Performance of the First Portable CT-MR scanner. IEEE Access, doi:10.1109/ACCESS.2022.3208278, 2022
+*	Peng YT, Li MZ, Grandinetti J, Wang G, Jia X: Top-level Design and Simulated Performance of the First Portable CT-MR scanner. IEEE Access, doi:10.1109/ACCESS.2022.3208278, 2022
 *	Please contact [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) for discussion
 
 
