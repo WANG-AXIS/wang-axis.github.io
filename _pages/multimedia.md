@@ -19,7 +19,7 @@ permalink: /multimedia/
 #### AI for Medical Imaging (11/08/2023)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iaP5uIBYmGE?si=8EGqudj9qd_orU9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Future of Medical Imaging (11/01/2023)
+#### Future of Medical Imaging (11/01/2022)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qgSVcsaJqKk?si=pQ9f_6ADemTqi-6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Deep Learning with Diffusion and Large Models (05/25/2023)
