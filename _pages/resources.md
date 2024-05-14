@@ -107,28 +107,23 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
   
 </p>
 
-
-
-## CBIS Micro-CT Core:
-
-The micro-CT scanner Scanco Viva CT40 resolves dense tissues including bone and contrast-enhanced vasculature. It is equipped with a micro-focus x-ray source of 5µm spot size at 50-70kVp, 8W (160µA) to achieve 10µm resolution. It covers a maximum scan length of 145mm and has a field-of-view up to 38mm. Animal husbandry, veterinary, and other facilities are provided by the Bioresearch Core.
-
-
-## CBIS BioResearch Core:
-  
-This Core is a state-of-the–art small animal housing and research facility. It includes nine barriers, three quarantine holding rooms, and six procedure rooms for ABSL-1 and 2 work. The staff are capable of performing major and minor survival surgery, orthopedic testing, in vivo MRI, fluorescence imaging, behavioral testing, cardiovascular physiology, and more. An animal veterinarian is available on-call. The services include protocol development, IACUC submission, animal identification, tissue specimen and blood collection, phenotype assessment, drug administration, surgical preparation and operation, postoperative recovery and care, breeding colony maintenance, embryo, egg and sperm cryopreservation, animal model development, necropsy and euthanasia.
-
-## CBIS Micro-MRI Core:
-  
-Micro-MRI is ideally suited to perform in vivo studies of animals and ex vivo studies of excised tissues and samples. There are two state-of-the-art high-field micro-MRI scanners (7T/16cm and 14T/8.9cm Bruker AVIII). These are equipped with an array of imaging coils including dedicated high-sensitivity surface and volume resonators for brain and abdomen imaging of mice and rats. In combination with high-performance actively shielded gradients, these systems allow high sensitivity, fast speed, and great flexibility. Animal monitoring equipment is used for triggered data acquisition on respiratory and cardio biometric signatures. Inhaled anesthesia delivery systems, MRI-compatible blood-oxygen sensor, and a small animal ventilator are also available. In addition, the MRI core is current licensed to use many commercial software analysis packages.
-
 ## GPU Workstations:
 
 State-of-the-art GPU workstations are up to date for deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA to Wang’s Lab, two TITAN RTX GPUs interconnected via NVIDIA NVLink, five RTX A5000 GPUs, and ten NVIDIA H100 systems. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB/256GB/1TB) for high-resolution volumetric image reconstruction. All these GPU servers are connected to a large data system of 117TB. The standard software packages are installed on all the workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
-
 
 ## High-performance Computing Infrastructure:
   
 The Center for Computational Innovations (CCI) at RPI is based on a $100M partnership among Rensselaer, IBM, and New York State. The main workhorse of the CCI is the Artificial Intelligence Multiprocessing Optimized System (AIMOS). It combines POWER9 CPUs and NVIDIA GPUs, and performs eight quadrillion calculations per second. It is the most powerful supercomputer housed in a university setting, and the 24th most powerful supercomputer in the world.
 Publicly Shared AI Software: We are committed to data sharing and reproducible research. Most our deep learning-based software packages will be made publicly available with sufficient documentation and domo datasets on our lab website on GitHub, currently under construction.
 
+## CBIS Micro-CT Core:
+
+The micro-CT scanner Scanco Viva CT40 resolves dense tissues including bone and contrast-enhanced vasculature. It is equipped with a micro-focus x-ray source of 5µm spot size at 50-70kVp, 8W (160µA) to achieve 10µm resolution. It covers a maximum scan length of 145mm and has a field-of-view up to 38mm. Animal husbandry, veterinary, and other facilities are provided by the Bioresearch Core.
+
+## CBIS Micro-MRI Core:
+  
+Micro-MRI is ideally suited to perform in vivo studies of animals and ex vivo studies of excised tissues and samples. There are two state-of-the-art high-field micro-MRI scanners (7T/16cm and 14T/8.9cm Bruker AVIII). These are equipped with an array of imaging coils including dedicated high-sensitivity surface and volume resonators for brain and abdomen imaging of mice and rats. In combination with high-performance actively shielded gradients, these systems allow high sensitivity, fast speed, and great flexibility. Animal monitoring equipment is used for triggered data acquisition on respiratory and cardio biometric signatures. Inhaled anesthesia delivery systems, MRI-compatible blood-oxygen sensor, and a small animal ventilator are also available. In addition, the MRI core is current licensed to use many commercial software analysis packages.
+
+## CBIS BioResearch Core:
+  
+This Core is a state-of-the–art small animal housing and research facility. It includes nine barriers, three quarantine holding rooms, and six procedure rooms for ABSL-1 and 2 work. The staff are capable of performing major and minor survival surgery, orthopedic testing, in vivo MRI, fluorescence imaging, behavioral testing, cardiovascular physiology, and more. An animal veterinarian is available on-call. The services include protocol development, IACUC submission, animal identification, tissue specimen and blood collection, phenotype assessment, drug administration, surgical preparation and operation, postoperative recovery and care, breeding colony maintenance, embryo, egg and sperm cryopreservation, animal model development, necropsy and euthanasia.
