@@ -113,8 +113,13 @@ State-of-the-art GPU workstations are up to date for deep-learning-based tomogra
 
 ## High-performance Computing Infrastructure:
   
-The Center for Computational Innovations (CCI) at RPI is based on a $100M partnership among Rensselaer, IBM, and New York State. The main workhorse of the CCI is the Artificial Intelligence Multiprocessing Optimized System (AIMOS). It combines POWER9 CPUs and NVIDIA GPUs, and performs eight quadrillion calculations per second. It is the most powerful supercomputer housed in a university setting, and the 24th most powerful supercomputer in the world.
-Publicly Shared AI Software: We are committed to data sharing and reproducible research. Most our deep learning-based software packages will be made publicly available with sufficient documentation and domo datasets on our lab website on GitHub, currently under construction.
+The Center for Computational Innovations (CCI, https://cci.rpi.edu) is based on a $100M partnership among Rensselaer, IBM, and New York State, and housed in a 22,000 square foot facility at the Rensselaer Technology Park. It includes a 4,500 square foot machine room, offices and space for industry visitors. The CCI operates heterogeneous supercomputing systems consisting of Intel Xeon, AMD EPYC, IBM POWER 9, and NVIDIA Tesla V100 processor-based clusters. The main workhorse of the CCI is the Artificial Intelligence Multiprocessing Optimized System (AIMOS). It combines POWER9 CPUs and NVIDIA GPUs, and performs eight quadrillion calculations per second. It is the most powerful supercomputer housed in a university setting, and the 24th most powerful supercomputer in the world. The CCI system is supported by over a petabyte of disk storage. The CCI has dedicated high-speed connections to the main campus and to the NYSERNet optical infrastructure that provides access to the national and international high-speed networks. The CCI Computational Facilities consist of
+•	Supercomputer: 270 nodes total. 252 dual 20-way POWER 9 processors with 512 GB of RAM each with 6 NVIDIIA Tesla 32 GB V100 and 1x 1.6 TB NVMe SSD & 18, dual 20-way POWER 9 processors with 512 GB of RAM each with 4 NVIDIA Tesla 16GB V100 and 1x 1.6 TB NVMe SSD
+•	Cluster: 64, dual 8-way Xeon processors with 256 GB of RAM each
+•	Parallel Storage: 2.1 Petabytes utilizing GPFS parallel file system with Native RAID, additional 8PB in process of being commissioned
+•	324-port non-blocking 56Gbps/FDR Infiniband interconnect
+•	216-port non-blocking 100Gbps/EDR Infiniband interconnect
+•	Two 648-port non-blocking 100Gpbs/EDR Infiniband interconnect
 
 ## CBIS Micro-CT Core:
 
