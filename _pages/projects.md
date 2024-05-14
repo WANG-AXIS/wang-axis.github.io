@@ -170,10 +170,7 @@ The goal is to develop medical CT algorithms.
   
 ## Auto-driving Vehicle for Affordable Tomo-Analytic Robots (AVATAR)
 
-Given unprecedented progresses in the engineering field over the past decade or so, the development of AVATAR becomes feasible to integrate cutting-edge machine learning, auto-driving, medical imaging, robot, computer vision, healthcare metaverse, high-performance computing, and internet technologies, and will eventually change the landscape of the imaging world. This is particularly helpful for cancer screening, diagnosis, and follow-up in low-middle income countries (LMIC).
-
-*	The [bilingual blog on AVATAR](https://mp.weixin.qq.com/s/dsZnqY-CeDYn1uBrZAFIXw) in Chinese (upper part) and English (lower part)
-*	Please contact [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) for discussion
+Given unprecedented progresses in the engineering field over the past decade or so, the development of AVATAR becomes feasible to integrate cutting-edge machine learning, auto-driving, medical imaging, robot, computer vision, healthcare metaverse, high-performance computing, and internet technologies, and will eventually change the landscape of the imaging world. This is particularly helpful for cancer screening, diagnosis, and follow-up in low-middle income countries (LMIC).  See more details in the [bilingual blog on AVATAR](https://mp.weixin.qq.com/s/dsZnqY-CeDYn1uBrZAFIXw) in Chinese (upper part) and English (lower part)
 
 <br/>
 <br/>
