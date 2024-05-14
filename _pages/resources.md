@@ -107,7 +107,7 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
   
 </p>
 
-## GPU Workstations:
+## Wang-AXIS GPU Workstations:
 
 State-of-the-art GPU workstations are up to date for deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA to Wang’s Lab, two TITAN RTX GPUs interconnected via NVIDIA NVLink, five RTX A5000 GPUs, and ten NVIDIA H100 systems. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB/256GB/1TB) for high-resolution volumetric image reconstruction. All these GPU servers are connected to a large data system of 117TB. The standard software packages are installed on all the workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
 
