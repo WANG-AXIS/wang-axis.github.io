@@ -159,7 +159,7 @@ The goal is to develop medical CT algorithms.
 
 
 
-# Interesting Projects in Progress
+# Investigation in Progress
 
 ## Simultaneous CT-MRI Systems (Either High-end or Portable)
 
