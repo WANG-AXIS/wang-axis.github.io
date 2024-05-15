@@ -58,7 +58,7 @@ Codes are publicly available at [Wang-AXIS Lab Github](https://github.com/WANG-A
 <p> &nbsp; </p>
 
 
-## Representative Works
+## Representative Research Articles
 
 <!--<ol reversed>-->
 <ol>
