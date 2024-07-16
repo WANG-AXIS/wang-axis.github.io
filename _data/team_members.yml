@@ -58,9 +58,6 @@
   education2: Areas - Photon-counting CT, Deep Learning
   education3:
   education4:
-  
-  
-  
 
 - name: Sayed Tanveer (Derik)
   photo: derik3.jpg
@@ -74,7 +71,6 @@
   education3:
   education4:
     
-  
 - name: Yongyi Shi
   photo: yongyi.jpg
   info: Postdoc Research Associate, 08/22- Now
@@ -127,6 +123,18 @@
   education3:
   education:
 
+
+- name: Md Zabirul Islam
+  photo: islamm.jpg
+  info: PhD Student, 01/24 - Now
+  email: islamm11@rpi.edu
+  url: https://scholar.google.com/citations?user=wFrXDwoAAAAJ&hl=en
+  path:
+  number_educ: 2
+  education1: BS, Khulna Univ. of Eng. & Tech., Bangladesh, 2020
+  education2: Areas - AI in Education, Deep Learning, LLM, Medical Imaging, Health Informatics
+  education3:
+  education:
 
 
 - name: Shuang Zhang
