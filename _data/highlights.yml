@@ -1,3 +1,13 @@
+- title: "Physics-Inspired Generative Models in Medical Imaging: A Review"
+  image: PFCM.png
+  description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
+  authors: Dennis Hein, Afshin Bozorgpour, Dorit Merhof, Ge Wang
+  link: 
+    url: https://https://arxiv.org/abs/2407.10856
+    display:  arXiv, 2407.10856, 2024
+  highlight: 1
+  news2:
+
 - title: "Specialty-Oriented Generalist Medical AI for Chest CT Screening"
   image: SOGMAI.png
   description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
