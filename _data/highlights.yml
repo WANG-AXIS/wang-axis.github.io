@@ -1,4 +1,4 @@
-- title: "Physics-Inspired Generative Models in Medical Imaging: A Review"
+- title: Review Article: "Physics-Inspired Generative Models in Medical Imaging"
   image: PFCM2.png
   description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
   authors: Dennis Hein, Afshin Bozorgpour, Dorit Merhof, Ge Wang
