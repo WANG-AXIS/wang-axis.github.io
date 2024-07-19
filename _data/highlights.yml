@@ -13,7 +13,7 @@
   description: Disagreements about language use are common both between and within fields. Where interests require multidisciplinary collaboration or the field of research has the potential to impact society at large, it becomes critical to minimize these disagreements where possible. 
   authors: Brett Kagan, Michael Mahlis, Anjali Bhat, Josh Bongard, Victor M. Cole, Phillip Corlett, Christopher Gyngell, Thomas Hartung, Bianca Jupp, Michael Levin, Tamra Lysaght, Nicholas Opie, Adeel Razi, Lena Smirnova, Ian Tennant, Peter Thestrup Wade, Ge Wang
   link: 
-    url: https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00096-1?rss=yes
+    url: https://doi.org/10.1016/j.xinn.2024.100658
     display:   Innovation, 5(5):100658, 2024 (IF=33.1)
   highlight: 1
   news2:
@@ -21,9 +21,9 @@
 - title: "Specialty-Oriented Generalist Medical AI for Chest CT Screening"
   image: SOGMAI.png
   description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
-  authors: 
+  authors: Chuang Niu, Qing Lyu, Christopher D. Carothers, Parisa Kaviani, Josh Tan, Pingkun Yan, Mannudeep K. Kalra, Christopher Whitlow, Ge Wang
   link: 
-    url:  https://doi.org/10.1016/j.xinn.2024.100658
+    url:  https://arxiv.org/abs/2304.02649
     display: arXiv, 2024.100658, 2024 (pending review)
   highlight: 1
   news2:
