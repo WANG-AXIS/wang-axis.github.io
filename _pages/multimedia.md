@@ -16,6 +16,9 @@ permalink: /multimedia/
 
 ## Presentations
 
+#### Foundation Models in Medicine (08/19/2024)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Yjfjhvl0ktw?si=hD1cKVFPOVuwSjrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### AI for Medical Imaging (11/08/2023)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iaP5uIBYmGE?si=8EGqudj9qd_orU9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
