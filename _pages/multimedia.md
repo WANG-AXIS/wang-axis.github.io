@@ -16,6 +16,9 @@ permalink: /multimedia/
 
 ## Presentations
 
+#### Tribute to Prof. Ulrich Bonse (Ge Wang presented on 08/22/2024; avatarized by Mr. Md Zabirul Islam on 08/25/24)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FGTP0W3RTiA?si=VO1rQdq4Y8vMRWR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Foundation Models in Medicine (08/19/2024)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Yjfjhvl0ktw?si=hD1cKVFPOVuwSjrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
