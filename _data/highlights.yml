@@ -1,3 +1,13 @@
+- title: "Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening"
+  image: Level2-Rep.png
+  description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
+  authors: Chuang Niu, Parisa Kaviani, Qing Lyu, Mannudeep K. Kalra, Christopher T. Whitlow, Ge Wang
+  link: 
+    url: https://arxiv.org/abs/2409.18319
+    display:  arXiv, 2409.18319, 2024
+  highlight: 1
+  news2:
+
 - title: "Review Article: Physics-Inspired Generative Models in Medical Imaging"
   image: PFCM2.png
   description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
