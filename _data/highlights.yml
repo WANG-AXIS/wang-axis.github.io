@@ -1,6 +1,6 @@
 - title: "Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening"
   image: Level2-Rep.png
-  description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
+  description: We developed an open-source LLM to generate structured Level-2 radiology reports from free-text descriptions, addressing formatting errors, hallucinations, and privacy concerns. Using our dynamic template-constrained decoding scheme, our method improved LLAMA-3.1 by 10.42% and outperformed GPT-4o by 17.19%. The enhanced LLM powered a nodule-level retrieval system for consistent, accurate statistical analysis.
   authors: Chuang Niu, Parisa Kaviani, Qing Lyu, Mannudeep K. Kalra, Christopher T. Whitlow, Ge Wang
   link: 
     url: https://arxiv.org/abs/2409.18319
