@@ -12,6 +12,16 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty
 [Center for Computational Innovations](https://cci.rpi.edu/), and the
 [Department of Biomedical Engineering](http://bme.rpi.edu/), [Rensselaer Polytechnic Institute](http://www.rpi.edu/). 
 
+
+
+<h3>Featured News</h3>
+<a href="https://www.news10.com/video/rpi-taps-into-alpha-new-yorks-supercomputer/10558329" target="_blank">
+  <img src="https://img.youtube.com/vi/GPB2RYqIExg/0.jpg" alt="Watch News10 video on RPI Alpha Supercomputer" style="width: 100%; max-width: 640px; border: 1px solid #ccc; border-radius: 8px;">
+</a>
+<p><em>Watch News10 coverage on RPI tapping into New York’s Alpha Supercomputer</em></p>
+
+
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
