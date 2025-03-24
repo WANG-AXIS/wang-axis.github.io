@@ -13,15 +13,6 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty
 [Department of Biomedical Engineering](http://bme.rpi.edu/), [Rensselaer Polytechnic Institute](http://www.rpi.edu/). 
 
 
-
-<h3>Featured News</h3>
-<a href="https://www.news10.com/video/rpi-taps-into-alpha-new-yorks-supercomputer/10558329" target="_blank">
-  <img src="https://img.youtube.com/vi/GPB2RYqIExg/0.jpg" alt="Watch News10 video on RPI Alpha Supercomputer" style="width: 100%; max-width: 640px; border: 1px solid #ccc; border-radius: 8px;">
-</a>
-<p><em>Watch News10 coverage on RPI tapping into New York’s Alpha Supercomputer</em></p>
-
-
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -89,6 +80,14 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<h3>Featured News</h3>
+<a href="https://www.news10.com/video/rpi-taps-into-alpha-new-yorks-supercomputer/10558329" target="_blank">
+  <img src="news10.jpg" alt="Watch News10 video on RPI Alpha Supercomputer" style="width: 100%; max-width: 640px; border: 1px solid #ccc; border-radius: 8px;">
+</a>
+<p><em>Watch News10 coverage on RPI tapping into New York’s Alpha Supercomputer</em></p>
+
 
 Our focus is on medical imaging, with an emphasis on x-ray CT, multi-modality/multi-scale imaging, and deep reconstruction and analysis. We have been continuously funded by federal agencies and leading companies. Our world-class collaboration network includes industry leaders and top academic institutions such as 
 GE Healthcare, 
