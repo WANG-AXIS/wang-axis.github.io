@@ -82,7 +82,6 @@ AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
-<h3>Featured News</h3>
 <a href="https://www.news10.com/video/rpi-taps-into-alpha-new-yorks-supercomputer/10558329" target="_blank">
   <img src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/news10.jpg" alt="Watch News10 video on RPI Alpha Supercomputer" style="width: 100%; max-width: 640px; border: 1px solid #ccc; border-radius: 8px;">
 </a>
