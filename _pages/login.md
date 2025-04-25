@@ -20,19 +20,19 @@ permalink: /login.html
       const password = document.getElementById('password').value;
 
       try {
-          const res = await fetch('http://128.113.177.122:5000/login', {
+          const res = await fetch('http://128.113.177.122:8888/login', {  // <-- updated to 8888
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({ username, password })
           });
 
           const data = await res.json();
-          console.log("Response from server:", data);  // <-- Add this line
+          console.log("Response from server:", data);  // Debug output
 
           if (data.status === 'success') {
               console.log("Login success! Redirecting...");
               localStorage.setItem('folders', JSON.stringify(data.folders));
-              window.location.href = "https://wang-axis.github.io/dashboard.html";
+              window.location.href = "https://wang-axis.github.io/dashboard.html";  // Redirect after login
           } else {
               console.log("Login failed:", data.error);
               document.getElementById('result').innerHTML = `<p style="color:red;">Login failed: ${data.error}</p>`;
@@ -43,4 +43,3 @@ permalink: /login.html
       }
   }
 </script>
-
