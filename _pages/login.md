@@ -29,7 +29,7 @@ permalink: /login.html
 
       if (data.status === 'success') {
           localStorage.setItem('folders', JSON.stringify(data.folders));
-          window.location.href = "/dashboard.html";
+          window.location.href = "https://wang-axis.github.io/dashboard.html";
       } else {
           document.getElementById('result').innerHTML = `<p style="color:red;">Login failed: ${data.error}</p>`;
       }
