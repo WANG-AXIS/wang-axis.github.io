@@ -1,19 +1,16 @@
-<!-- Updated login.md for GitHub Pages -->
 ---
 title: "Login"
 layout: textlay
-excerpt: "Login"
+excerpt: "Login to Remote Server"
 sitemap: false
 permalink: /login.html
 ---
 
-# Data Storage Login
-
-<label for="username">Username:</label>
-<input type="text" id="username" name="username" required><br><br>
-<label for="password">Password:</label>
-<input type="password" id="password" name="password" required><br><br>
-<button type="submit" onclick="login()">Login</button>
+<!-- HTML Starts Here -->
+<h2>Login to View Remote Dataset</h2>
+<input type="text" id="username" placeholder="Username"><br><br>
+<input type="password" id="password" placeholder="Password"><br><br>
+<button onclick="login()">Login</button>
 
 <div id="result"></div>
 
@@ -24,7 +21,7 @@ permalink: /login.html
 
       const res = await fetch('http://128.113.177.122:5000/login', {
           method: 'POST',
-          headers: {'Content-Type': 'application/json'},
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ username, password })
       });
 
@@ -38,5 +35,3 @@ permalink: /login.html
       }
   }
 </script>
-
-<!-- Save this in your GitHub repo under _pages/login.md -->
