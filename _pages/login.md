@@ -19,19 +19,28 @@ permalink: /login.html
       const username = document.getElementById('username').value;
       const password = document.getElementById('password').value;
 
-      const res = await fetch('http://128.113.177.122:5000/login', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ username, password })
-      });
+      try {
+          const res = await fetch('http://128.113.177.122:5000/login', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ username, password })
+          });
 
-      const data = await res.json();
+          const data = await res.json();
+          console.log("Response from server:", data);  // <-- Add this line
 
-      if (data.status === 'success') {
-          localStorage.setItem('folders', JSON.stringify(data.folders));
-          window.location.href = "https://wang-axis.github.io/dashboard.html";
-      } else {
-          document.getElementById('result').innerHTML = `<p style="color:red;">Login failed: ${data.error}</p>`;
+          if (data.status === 'success') {
+              console.log("Login success! Redirecting...");
+              localStorage.setItem('folders', JSON.stringify(data.folders));
+              window.location.href = "https://wang-axis.github.io/dashboard.html";
+          } else {
+              console.log("Login failed:", data.error);
+              document.getElementById('result').innerHTML = `<p style="color:red;">Login failed: ${data.error}</p>`;
+          }
+      } catch (err) {
+          console.error("Fetch error:", err);
+          document.getElementById('result').innerHTML = `<p style="color:red;">Server not reachable</p>`;
       }
   }
 </script>
+
