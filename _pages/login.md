@@ -20,7 +20,7 @@ permalink: /login.html
       const password = document.getElementById('password').value;
 
       try {
-          const res = await fetch('http://128.113.177.122:8888/login', {  // <-- updated to 8888
+          const res = await fetch('http://128.113.177.122:8000/login', {  
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({ username, password })
