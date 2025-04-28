@@ -20,12 +20,12 @@ permalink: /login.html
       const password = document.getElementById('password').value;
 
       try {
-          const res = await fetch('http://128.113.177.122:8000/login', {  
+          const res = await fetch('https://gewang-deepreconserver3.bme.rpi.edu:8000/login', {  
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({ username, password }),
-              mode: 'cors',   // ✅ Explicitly enable CORS
-              credentials: 'include'  // ✅ Optional, if your server uses sessions (safe to add)
+              mode: 'cors',   // Explicitly enable CORS
+              credentials: 'include'  // Safe to add for session support
           });
 
           const data = await res.json();
