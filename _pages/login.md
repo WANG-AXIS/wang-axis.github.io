@@ -23,7 +23,9 @@ permalink: /login.html
           const res = await fetch('http://128.113.177.122:8000/login', {  
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ username, password })
+              body: JSON.stringify({ username, password }),
+              mode: 'cors',   // ✅ Explicitly enable CORS
+              credentials: 'include'  // ✅ Optional, if your server uses sessions (safe to add)
           });
 
           const data = await res.json();
@@ -39,7 +41,7 @@ permalink: /login.html
           }
       } catch (err) {
           console.error("Fetch error:", err);
-          document.getElementById('result').innerHTML = `<p style="color:red;">Server not reachable</p>`;
+          document.getElementById('result').innerHTML = `<p style="color:red;">Server not reachable or CORS error: ${err.message}</p>`;
       }
   }
 </script>
