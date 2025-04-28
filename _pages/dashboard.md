@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function loadPath(path) {
-    const res = await fetch('http://128.113.177.122:5000/browse', {
+    const res = await fetch('http://128.113.177.122:8000/browse', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ path })
@@ -70,7 +70,7 @@ function goUp() {
 
 async function downloadFile(filepath) {
     const encodedPath = encodeURIComponent(filepath);
-    window.location.href = `http://128.113.177.122:5000/download?path=${encodedPath}`;
+    window.location.href = `http://128.113.177.122:8000/download?path=${encodedPath}`;
 }
 
 async function uploadFile() {
@@ -85,7 +85,7 @@ async function uploadFile() {
     formData.append('file', file);
     formData.append('path', currentPath);
 
-    const res = await fetch('http://128.113.177.122:5000/upload', {
+    const res = await fetch('http://128.113.177.122:8000/upload', {
         method: 'POST',
         body: formData
     });
