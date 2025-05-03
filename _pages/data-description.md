@@ -62,7 +62,7 @@ permalink: /datasets/
   <div id="datasetGrid" class="row g-3"></div>
 
   <script>
-    axios.get('datasets.json')
+    axios.get('/_pages/datasets.json')
       .then(response => {
         const container = document.getElementById('datasetGrid');
         response.data.forEach(ds => {
