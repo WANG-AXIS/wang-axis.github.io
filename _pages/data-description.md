@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+title: "Lab Datasets"
+layout: null
+permalink: /datasets/
+---
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,23 +16,22 @@
       padding: 20px;
     }
 
-.card-img-container {
-  width: 100%;
-  height: 140px;
-  padding: 8px;
-  background-color: #f8f9fa;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+    .card-img-container {
+      width: 100%;
+      height: 140px;
+      padding: 8px;
+      background-color: #f8f9fa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
-.card-img-top {
-  object-fit: contain;  /* Show full image without cropping */
-  width: 100%;
-  height: 100%;
-  padding: 0;
-}
-
+    .card-img-top {
+      object-fit: contain;
+      width: 100%;
+      height: 100%;
+      padding: 0;
+    }
 
     .badge-private {
       background-color: crimson;
