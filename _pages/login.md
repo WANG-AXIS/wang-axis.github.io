@@ -20,23 +20,21 @@ permalink: /login.html
       const password = document.getElementById('password').value;
 
       try {
-          const res = await fetch('https://gewang-deepreconserver3.bme.rpi.edu:8000/login', {  
+          const res = await fetch('https://data-server-alternative.onrender.com/login', {  
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({ username, password }),
-              mode: 'cors',   // Explicitly enable CORS
-              credentials: 'include'  // Safe to add for session support
+              mode: 'cors',
+              credentials: 'include'
           });
 
           const data = await res.json();
-          console.log("Response from server:", data);  // Debug output
+          console.log("Response from server:", data);
 
           if (data.status === 'success') {
-              console.log("Login success! Redirecting...");
               localStorage.setItem('folders', JSON.stringify(data.folders));
-              window.location.href = "https://wang-axis.github.io/dashboard.html";  // Redirect after login
+              window.location.href = "https://wang-axis.github.io/dashboard.html";
           } else {
-              console.log("Login failed:", data.error);
               document.getElementById('result').innerHTML = `<p style="color:red;">Login failed: ${data.error}</p>`;
           }
       } catch (err) {
