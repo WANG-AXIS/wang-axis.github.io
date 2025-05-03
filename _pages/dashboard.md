@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function loadPath(path) {
-    const res = await fetch('https://gewang-deepreconserver3.bme.rpi.edu:8000/browse', {
+    const res = await fetch('https://data-server-alternative.onrender.com/browse', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ path }),
@@ -72,7 +72,7 @@ function goUp() {
 
 async function downloadFile(filepath) {
     const encodedPath = encodeURIComponent(filepath);
-    window.location.href = `https://gewang-deepreconserver3.bme.rpi.edu:8000/download?path=${encodedPath}`;
+    window.location.href = `https://data-server-alternative.onrender.com/download?path=${encodedPath}`;
 }
 
 async function uploadFile() {
@@ -87,7 +87,7 @@ async function uploadFile() {
     formData.append('file', file);
     formData.append('path', currentPath);
 
-    const res = await fetch('https://gewang-deepreconserver3.bme.rpi.edu:8000/upload', {
+    const res = await fetch('https://data-server-alternative.onrender.com/upload', {
         method: 'POST',
         body: formData,
         mode: 'cors',
