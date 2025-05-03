@@ -7,7 +7,7 @@
     "access": "Private",
     "project": "Explainable Radiology",
     "contributors": ["Alice Zhang", "Dr. Ge Wang"],
-    "thumbnail": "_pages/images/chest-xray.png",
+    "thumbnail": "https://wang-axis.github.io/_pages/images/chest-xray.png",
     "link": ""
   },
   {
@@ -18,7 +18,7 @@
     "access": "Public",
     "project": "Smart Interfaces",
     "contributors": ["Zabirul Islam"],
-    "thumbnail": "_pages/images/avatar-demo.png",
+    "thumbnail": "https://wang-axis.github.io/_pages/images/avatar-demo.png",
     "link": "https://github.com/wang-lab/avatar"
   }
 ]
