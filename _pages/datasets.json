@@ -5,7 +5,7 @@
     "details": "The system uses a tungsten-anode mammography tube (RAD71SP, Varex Imaging) operating at 49 kV with a 1.4 mm HVL, and an amorphous silicon flat-panel detector (PaxScan 4030CB, Varex Imaging) with 768×1,024 elements (388×388 μm²). The nominal image matrix is 1,024×1,024, with slice count depending on breast size. Each voxel measures 273.43 μm³. There are 155 volumes in total—50 from Koning and 105 from the University of Arizona.",
     "size": "106GB",
     "access": "Private",
-    "location":"/remote/axis-data/shared/MGH"
+    "location":"/remote/axis-data/shared/MGH",
     "project": "Deep Learning for Medical CT",
     "contributors": ["Srinivasan Vedantham", "Ruola Ning", "Dr. Ge Wang"],
     "thumbnail": "https://wang-axis.github.io/_pages/images/Breast_CT0595.png",
