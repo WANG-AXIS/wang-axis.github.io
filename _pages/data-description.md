@@ -80,12 +80,28 @@ permalink: /datasets/
                 <h6 class="card-title mb-1">${ds.name}</h6>
                 <p class="description">${ds.description}</p>
                 <p class="details">${ds.details || ''}</p>
-                <ul class="list-group list-group-flush small">
-                  <li class="list-group-item"><strong>Size:</strong> ${ds.size}</li>
-                  <li class="list-group-item"><strong>Project:</strong> ${ds.project}</li>
-                  <li class="list-group-item"><strong>Contributors:</strong> ${ds.contributors.join(', ')}</li>
-                  <li class="list-group-item"><strong>Access:</strong> ${badge}</li>
-                </ul>
+<ul class="list-group list-group-flush small">
+  <li class="list-group-item">
+    <strong>Size:</strong> ${ds.size || 'N/A'}
+  </li>
+
+  <li class="list-group-item">
+    <strong>Project:</strong> ${ds.project || 'N/A'}
+  </li>
+
+  <li class="list-group-item">
+    <strong>Location:</strong> ${ds.location || 'N/A'}
+  </li>
+
+  <li class="list-group-item">
+    <strong>Contributors:</strong> ${(ds.contributors || []).join(', ')}
+  </li>
+
+  <li class="list-group-item">
+    <strong>Access:</strong> ${badge}
+  </li>
+</ul>
+
               </div>
               <div class="card-footer bg-white border-0 text-end">
                 ${ds.link ? `<a href="${ds.link}" target="_blank" class="btn btn-outline-primary btn-sm">More Info</a>` : ''}
