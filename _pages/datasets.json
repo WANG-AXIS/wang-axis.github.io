@@ -10,16 +10,5 @@
     "contributors": ["Srinivasan Vedantham", "Ruola Ning", "Dr. Ge Wang"],
     "thumbnail": "https://wang-axis.github.io/_pages/images/Breast_CT0595.png",
     "link": ""
-  },
-  {
-    "name": "Transparent Avatar Videos",
-    "description": "Data for rendering semi-transparent avatars.",
-    "details": "Collected using synchronized depth and RGB video streams under varying lighting and clothing conditions. Supports training for real-time avatar-based presentation systems.",
-    "size": "8.5 GB",
-    "access": "Public",
-    "project": "Smart Interfaces",
-    "contributors": ["Zabirul Islam"],
-    "thumbnail": "https://wang-axis.github.io/_pages/images/avatar-demo.png",
-    "link": "https://github.com/zabir110/COVID19-CNN-LSTM"
   }
 ]
