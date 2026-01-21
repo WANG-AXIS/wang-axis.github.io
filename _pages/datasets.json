@@ -10,5 +10,21 @@
     "contributors": ["Srinivasan Vedantham", "Ruola Ning", "Dr. Ge Wang"],
     "thumbnail": "https://wang-axis.github.io/_pages/images/Breast_CT0595.png",
     "link": ""
-  }
+  },
+  {
+  "name": "Albany Medical Center Deidentified ICU CT Dataset",
+  "description": "A deidentified clinical CT dataset of critically ill ICU patients with associated demographic, clinical severity, outcome, and body composition measurements.",
+  "details": "This dataset consists of deidentified CT scans from ICU patients treated at Albany Medical Center. Each CT volume is stored in a folder named by Subject ID, which directly corresponds to the Subject ID column in the accompanying metadata spreadsheet. The dataset includes ICU admission information, mechanical ventilation status and duration, ICU length of stay, 28 ICU-free days, and 180-day survival outcomes. Clinical severity scores (APACHE II, SAPS II, SOFA), demographic variables (age, sex, race), prehospitalization comorbidities, laboratory values at admission, and CT-derived body composition measurements are provided. Body composition features include pectoralis major and minor muscle areas, erector spinae muscle areas (postural muscle), subcutaneous adipose tissue area, vertebral body density (bone), and major vessel diameters. All data are deidentified, and multiple severity scores should not be used simultaneously due to collinearity, as noted in the data dictionary.",
+  "size": "5.2GB",
+  "access": "Private",
+  "location": "/remote/axis-data/wangj68/Albany_med_CT",
+  "project": "Deep Learning for Medical CT and Critical Care Outcome Analysis",
+  "contributors": [
+    "Albany Medical Center",
+    "Dr. Ge Wang",
+    "Wang-Axis Lab"
+  ],
+  "thumbnail": "https://wang-axis.github.io/_pages/images/CT_Albany.png",
+  "link": ""
+}
 ]
