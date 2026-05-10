@@ -91,5 +91,21 @@
   ],
   "thumbnail": "https://wang-axis.github.io/_pages/images/Lecture_sample.jpg",
   "link": ""
+},
+  {
+  "name": "MARS-Micro-CT",
+  "description": "A paired low-dose and normal-dose Micro-CT dataset acquired using a MARS spectral CT scanner for low-dose Micro-CT enhancement and image restoration research.",
+  "details": "The MARS-Micro-CT dataset contains paired low-dose (80 kVp) and normal-dose (120 kVp) Micro-CT scans of a chicken drumstick, acquired on a MARS spectral CT scanner (MARS Bioimaging Ltd., Christchurch, New Zealand) at Rensselaer Polytechnic Institute. The projection data were reconstructed into Micro-CT image volumes and co-registered. Both low-dose and normal-dose volumes consist of 5 energy bins, each with a volume size of 280 × 1216 × 1216 voxels. The dataset is released to support research on low-dose Micro-CT enhancement, spectral CT image restoration, and related biomedical imaging tasks.",
+  "size": "8.1GB",
+  "access": "Public",
+  "location": "https://zenodo.org/records/20111235",
+  "project": "Low-Dose Micro-CT Enhancement and Spectral CT Image Restoration",
+  "contributors": [
+    "Yuxuan Liang",
+    "Dr. Ge Wang",
+    "Wang-AXIS Lab"
+  ],
+  "thumbnail": "https://wang-axis.github.io/_pages/images/MARS-Micro-CT-sample-dataset.png",
+  "link": "https://zenodo.org/records/20111235"
 }
 ]
