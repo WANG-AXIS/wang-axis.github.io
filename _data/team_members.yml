@@ -124,9 +124,19 @@
   education1: MSc, Rensselaer Polytechnic Institute, USA, 2025
   education2: Areas - Large Artificial Neural Network for Medical Imaging and Education.
   education3: BSc, Khulna Univ. of Eng. & Tech., Bangladesh, 2020
-  education:
+  
 
-
+- name: Jianxu Wang
+  photo: jianxu.jpg 
+  info: PhD Student, 08/24 - Now
+  email: wangj68@rpi.edu
+  url: https://www.linkedin.com/in/jianxu-wang/
+  path:
+  number_educ: 3
+  education1: MS, Chongqing University, China, 2024
+  education2: BS, Zhejiang University of Technology, China, 2021
+  education3: Areas - Medical Imaging, Deep Learning, Image Denoising
+  
 - name: Md Motaleb Hossen Manik
   photo: manik.jpg
   info: PhD Student, 08/24 - Now
