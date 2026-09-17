@@ -10,54 +10,44 @@
   education4: 
   education5: 
 
-- name: Chuang Niu
-  photo: niuc2.jpg
-  info: Associate Lab Director. Research Scientist, 04/23- Now
-  email: niuc@rpi.edu
-  url: https://chuangniu.info/
-  path:
-  number_educ: 2
-  education1: PhD, Xidian Univ., China, 2020
-  education2: Areas - Deep Learning, Medical Imaging
 
-
-- name: Wenxiang Cong
-  photo: congw2.jpg
-  info: Research Scientist
-  email: congw@rpi.edu
-  url: https://www.linkedin.com/in/wenxiang-cong-2b0a5944/
-  path: 
-  number_educ: 2
-  education1: PhD, Beijing Univ. of Sci. & Tech., China, 1998
-  education2: Areas - Optical Imaging, CT, Deep Learning
-  education3: xx
+# - name: Wenxiang Cong
+#   photo: congw2.jpg
+#   info: Research Scientist
+#   email: congw@rpi.edu
+#   url: https://www.linkedin.com/in/wenxiang-cong-2b0a5944/
+#   path: 
+#   number_educ: 2
+#   education1: PhD, Beijing Univ. of Sci. & Tech., China, 1998
+#   education2: Areas - Optical Imaging, CT, Deep Learning
+#   education3: xx
 
 
 
-- name: Mengzhou Li
-  photo: lim23.jpg
-  info: Postdoc Research Associate, 08/23- Now
-  email: lim23@rpi.edu
-  url: https://www.linkedin.com/in/mengzhou-li-14122719a/
-  path:
-  number_educ: 2
-  education1: BS, Harbin Inst. of Tech., China, 2015
-  education2: Areas - Photon-counting CT, Deep Learning
-  education3:
-  education4:
+# - name: Mengzhou Li
+#   photo: lim23.jpg
+#   info: Postdoc Research Associate, 08/23- Now
+#   email: lim23@rpi.edu
+#   url: https://www.linkedin.com/in/mengzhou-li-14122719a/
+#   path:
+#   number_educ: 2
+#   education1: BS, Harbin Inst. of Tech., China, 2015
+#   education2: Areas - Photon-counting CT, Deep Learning
+#   education3:
+#   education4:
 
 
-- name: Christopher Wiedeman
-  photo: wiedec.png
-  info: PhD Student, 09/19 - Now
-  email: wiedec@rpi.edu
-  url: https://www.linkedin.com/in/christopher-wiedeman-a0b01014b/
-  path: 
-  number_educ: 2
-  education1: BS, Arizona State Univ., USA, 2019
-  education2: Areas - Photon-counting CT, Deep Learning
-  education3:
-  education4:
+# - name: Christopher Wiedeman
+#   photo: wiedec.png
+#   info: PhD Student, 09/19 - Now
+#   email: wiedec@rpi.edu
+#   url: https://www.linkedin.com/in/christopher-wiedeman-a0b01014b/
+#   path: 
+#   number_educ: 2
+#   education1: BS, Arizona State Univ., USA, 2019
+#   education2: Areas - Photon-counting CT, Deep Learning
+#   education3:
+#   education4:
 
 - name: Sayed Tanveer (Derik)
   photo: derik3.jpg
@@ -84,30 +74,30 @@
   education4:
 
 
-- name: Wenjun Xia
-  photo: wenjun2.jpg
-  info: Postdoc Research Associate, 08/22- Now
-  email: xiaw4@rpi.edu
-  url: https://www.linkedin.com/in/wenjun-xia-7715aa250/
-  path:
-  number_educ: 2
-  education1: PhD, Sichuan Univ., China, 2022
-  education2: Areas - CT, Deep Learning
-  education3:
-  education4:
+# - name: Wenjun Xia
+#   photo: wenjun2.jpg
+#   info: Postdoc Research Associate, 08/22- Now
+#   email: xiaw4@rpi.edu
+#   url: https://www.linkedin.com/in/wenjun-xia-7715aa250/
+#   path:
+#   number_educ: 2
+#   education1: PhD, Sichuan Univ., China, 2022
+#   education2: Areas - CT, Deep Learning
+#   education3:
+#   education4:
 
 
-- name: Rongjun Ge
-  photo: rongjun.jpg
-  info: Postdoc Research Associate, 02/24- Now
-  email: ger@rpi.edu
-  url: https://www.linkedin.com/in/rongjun-ge-4476ba312/
-  path:
-  number_educ: 2
-  education1: PhD, Southeast University, China, 2020
-  education2: Areas - CT, Deep Learning
-  education3:
-  education4:
+# - name: Rongjun Ge
+#   photo: rongjun.jpg
+#   info: Postdoc Research Associate, 02/24- Now
+#   email: ger@rpi.edu
+#   url: https://www.linkedin.com/in/rongjun-ge-4476ba312/
+#   path:
+#   number_educ: 2
+#   education1: PhD, Southeast University, China, 2020
+#   education2: Areas - CT, Deep Learning
+#   education3:
+#   education4:
 
 
 
@@ -137,27 +127,27 @@
   education:
 
 
-- name: Shuang Zhang
-  photo: shuang.jpeg
-  info: Research Associate, 05/24 - Now
-  email: zhangs31@rpi.edu
-  url: https://www.linkedin.com/in/zhang-shuang-5b0545315/
-  path:
-  number_educ: 2
-  education1: PhD, Jilin Univ., China, 2023
-  education2: Areas - Deep Learning, Medical Data Analysis
-  education3:
-  education:
+# - name: Shuang Zhang
+#   photo: shuang.jpeg
+#   info: Research Associate, 05/24 - Now
+#   email: zhangs31@rpi.edu
+#   url: https://www.linkedin.com/in/zhang-shuang-5b0545315/
+#   path:
+#   number_educ: 2
+#   education1: PhD, Jilin Univ., China, 2023
+#   education2: Areas - Deep Learning, Medical Data Analysis
+#   education3:
+#   education:
 
 
-- name: Melanie Kruger
-  photo: melanie.jpeg
-  info: Undergraduate Researcher, 05/24 - Now
-  email: krugem@rpi.edu
-  url: https://www.linkedin.com/in/m-kruger/
-  path:
-  number_educ: 1
-  education1: Areas - Deep Learning, Medical Imaging
-  education2:
-  education3:
-  education4:
+# - name: Melanie Kruger
+#   photo: melanie.jpeg
+#   info: Undergraduate Researcher, 05/24 - Now
+#   email: krugem@rpi.edu
+#   url: https://www.linkedin.com/in/m-kruger/
+#   path:
+#   number_educ: 1
+#   education1: Areas - Deep Learning, Medical Imaging
+#   education2:
+#   education3:
+#   education4:
