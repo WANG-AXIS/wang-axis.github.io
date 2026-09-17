@@ -61,17 +61,17 @@
   education3:
   education4:
     
-- name: Yongyi Shi
-  photo: yongyi.jpg
-  info: Postdoc Research Associate, 08/22- Now
-  email: shiy11@rpi.edu
-  url: https://www.linkedin.com/in/yongyi-shi-57695124b/
-  path: 
-  number_educ: 2
-  education1: PhD, Xian Jiaotong Univ., China, 2022
-  education2: Areas - CT, Deep Learning
-  education3: BS Xidian University, China, 2014
-  education4:
+# - name: Yongyi Shi
+#   photo: yongyi.jpg
+#   info: Postdoc Research Associate, 08/22- Now
+#   email: shiy11@rpi.edu
+#   url: https://www.linkedin.com/in/yongyi-shi-57695124b/
+#   path: 
+#   number_educ: 2
+#   education1: PhD, Xian Jiaotong Univ., China, 2022
+#   education2: Areas - CT, Deep Learning
+#   education3: BS Xidian University, China, 2014
+#   education4:
 
 
 # - name: Wenjun Xia
@@ -125,6 +125,40 @@
   education2: Areas - Large Artificial Neural Network for Medical Imaging and Education.
   education3: BSc, Khulna Univ. of Eng. & Tech., Bangladesh, 2020
   education:
+
+
+- name: Md Motaleb Hossen Manik
+  photo: manik.jpg
+  info: PhD Student, 08/24 - Now
+  email: manikm@rpi.edu
+  url: https://mkboch.github.io/mmhm/
+  path:
+  number_educ: 2
+  education1: MSc in Computer Science and Engineering, Khulna University of Engineering & Technology, Bangladesh, 2023
+  education2: BSc in Computer Science and Engineering, Khulna University of Engineering & Technology, Bangladesh, 2020
+  education3: Areas - AI Evaluation and Reliability, Large Language Models, Vision-Language Models, Agentic AI, and Trustworthy AI
+
+
+- name: Marshal Ashif Shawkat
+  photo: Marshal.jpg
+  info: PhD Student, 08/26 - Now
+  email: shawkm@rpi.edu
+  url: https://marshal-ashif-shawkat.github.io/mas/
+  path:
+  number_educ: 1
+  education1: BSc in Biomedical Engineering, Bangladesh University of Engineering and Technology (BUET), Bangladesh
+  education2: Areas - Out-of-distribution Generalization, Medical Imaging, and AI for Healthcare
+  linkedin: https://www.linkedin.com/in/marshal-ashif-shawkat/
+
+- name: Kang (Peter) Chen
+  photo: Peter.jpg
+  info: Undergraduate Research Assistant, 04/26 - Now
+  email: chenk14@rpi.edu
+  url: https://peteroos.github.io/
+  path:
+  number_educ: 1
+  education1: BS,  Rensselaer Polytechnic Institute, USA, 2027
+  education2: Areas - Generative AI, Medical Imaging.
 
 
 # - name: Shuang Zhang
