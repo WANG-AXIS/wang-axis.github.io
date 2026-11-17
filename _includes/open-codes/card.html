@@ -1,0 +1,45 @@
+{%- assign p = include.project -%}
+{%- comment %} Lab authors of this project, by their name in _data/members.yml. {% endcomment -%}
+{%- assign lab_authors = "" -%}
+{%- for author in p.authors -%}
+  {%- capture matched %}{% include open-codes/member.html author=author %}{% endcapture -%}
+  {%- assign matched = matched | strip -%}
+  {%- if matched != "" %}{% assign lab_authors = lab_authors | append: matched | append: "|" %}{% endif -%}
+{%- endfor %}
+{%- comment %} Text of the project page (abstract and repository notes), searched but not shown on the card. {% endcomment -%}
+{%- assign page_text = p.content | strip_html | normalize_whitespace | strip %}
+<article class="card" data-area="{{ p.area | escape }}" data-year="{{ p.year }}" data-date="{{ p.date | date: '%Y-%m-%d' }}" data-title="{{ p.title | escape }}" data-authors="{{ lab_authors | escape }}" data-all-authors="{{ p.authors | join: '|' | escape }}"
+         data-page-text="{{ page_text | escape_once }}"
+         data-search="{{ p.title | escape }} {{ p.full_title | escape }} {{ p.summary | strip | escape }} {{ p.venue | escape }} {{ p.year }} {{ p.area | escape }} {{ p.tags | join: ' ' | escape }} {{ p.authors | join: ' ' | escape }} {{ page_text | escape_once }}">
+  {%- if p.full_title and p.thumbnail %}
+  <span class="card__badge" data-hl>{{ p.title }}</span>
+  {%- endif %}
+  <a class="card__media" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {%- if p.thumbnail %}
+    <img src="/open-codes/assets/img/projects/{{ p.thumbnail }}" alt="" loading="lazy">
+    {%- else %}
+    <span class="card__noimg" data-hl>{{ p.title }}</span>
+    {%- endif %}
+  </a>
+  <div class="card__body">
+    <p class="card__venue"><span data-hl>{{ p.venue }}</span>{% if p.year %} <span aria-hidden="true">&middot;</span> <span data-hl>{{ p.year }}</span>{% endif %}</p>
+    {%- comment %} Heading: the full paper title. The short name sits on the figure as a label (above). {% endcomment %}
+    <h3 class="card__title"><a href="{{ p.url | relative_url }}" data-hl>{{ p.full_title | default: p.title }}</a></h3>
+    <p class="card__summary" data-hl>{{ p.summary | strip }}</p>
+    {%- if p.tags %}
+    <ul class="tags" aria-label="Topics">
+      {%- for tag in p.tags %}
+      <li data-hl>{{ tag }}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+  <div class="card__foot">
+    {% include open-codes/status.html key=p.code_status %}
+    {%- if p.code %}
+    <a class="card__code" href="{{ p.code }}" aria-label="{{ p.title | escape }} code on GitHub">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.5 7 3.5 12l5 5M15.5 7l5 5-5 5"/></svg>GitHub
+    </a>
+    {%- endif %}
+  </div>
+</article>

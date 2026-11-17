@@ -1,0 +1,2 @@
+{%- assign st = site.data.open_codes.status[include.key] -%}
+<span class="status status--{{ include.key | default: 'planned' }}">{{ st.label | default: include.key }}</span>

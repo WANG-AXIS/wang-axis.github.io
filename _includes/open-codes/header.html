@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    {%- comment %} Lab / Open Codes on the home page; Lab / Open Codes / Project on a project page. {% endcomment %}
+    <p class="brand">
+      <a class="brand__link" href="/">WANG-AXIS @ RPI</a>
+      <span class="brand__sep" aria-hidden="true">/</span>
+      {%- if page.layout == "project" %}
+      <a class="brand__link" href="/open-codes/">Open Codes</a>
+      <span class="brand__sep" aria-hidden="true">/</span>
+      <span class="brand__here" aria-current="page">{{ page.title }}</span>
+      {%- else %}
+      <a class="brand__here" href="/open-codes/">Open Codes</a>
+      {%- endif %}
+    </p>
+    <nav class="site-nav" aria-label="Lab website">
+      <a href="/">Lab home</a>
+      <a href="/publication">Publications</a>
+      <a href="https://github.com/WANG-AXIS">GitHub</a>
+    </nav>
+  </div>
+</header>
