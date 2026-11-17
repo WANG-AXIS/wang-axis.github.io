@@ -1,0 +1,62 @@
+---
+layout: oc_default
+---
+{%- comment %} Newest publication first. Groups are the years; inside a year the order is by publication date. {% endcomment -%}
+{%- assign projects = site.open_codes | sort: "date" | reverse -%}
+{%- assign years = projects | map: "year" | uniq | sort | reverse -%}
+<div class="wrap">
+  <section class="intro">
+    <h1>Open Codes</h1>
+    <p class="intro__lede">
+      Source code, trained models and data released by the AI-based X-ray Imaging
+      System (AXIS) Lab at Rensselaer Polytechnic Institute.
+    </p>
+  </section>
+
+  <div class="toolbar">
+    <div class="segmented" role="group" aria-label="Group projects by">
+      <span class="segmented__label">Group by</span>
+      <button type="button" data-group-by="year" aria-pressed="true">Year</button>
+      <button type="button" data-group-by="area" aria-pressed="false">Research area</button>
+      <button type="button" data-group-by="author" aria-pressed="false">Author</button>
+    </div>
+    <label class="search">
+      <span class="sr-only">Search projects</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+      <input id="project-search" type="search" placeholder="Search {{ projects.size }} projects" autocomplete="off">
+    </label>
+  </div>
+
+  {%- comment %} Overview of the current grouping: a year dial or a row of research areas. Filled in by the script. {% endcomment %}
+  <nav id="overview" class="overview" aria-label="Overview" hidden></nav>
+
+  <div id="author-bar" class="author-bar" role="group" aria-label="Filter by author" hidden></div>
+
+  {%- comment %} Default view: newest year first. The script regroups these cards by research area or author. {% endcomment %}
+  <div id="groups">
+    {%- for year in years %}
+    {%- assign items = projects | where: "year", year %}
+    <section class="group group--year">
+      <header class="group__head">
+        <h2>{{ year }}</h2>
+        <p class="group__count">{{ items.size }} {% if items.size == 1 %}project{% else %}projects{% endif %}</p>
+      </header>
+      <div class="cards">
+        {%- for p in items %}
+        {% include open-codes/card.html project=p %}
+        {%- endfor %}
+      </div>
+    </section>
+    {%- endfor %}
+  </div>
+
+  {%- comment %} Floating button, shown after scrolling down: returns to the top and the search box. {% endcomment %}
+  <button type="button" id="to-top" class="back-fab to-top" hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg>Back to top
+  </button>
+
+  <p id="no-results" class="no-results" hidden>No project matches that search. Try a method name, an author, a modality or a year.</p>
+</div>
+
+{%- comment %} Research areas (name, description, order) for the "Research area" view. {% endcomment %}
+<script type="application/json" id="areas-data">{{ site.data.open_codes.areas | jsonify }}</script>
