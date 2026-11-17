@@ -1,0 +1,32 @@
+# Lab authors: the people listed in the "Author" view of the home page and marked
+# as "Current or former lab member" on project pages.
+#
+# Rule: current and former members of the WANG-AXIS Lab, following the member
+# lists of the lab website. Other co-authors still appear in the author line of
+# each project page, but they get no mark and no button in the Author view.
+#
+# `name` is the spelling shown on the site. If a paper spells the same person
+# differently, add that spelling under `aliases` so both count as one person:
+#
+#   - name: Fenglei Fan
+#     aliases:
+#       - Feng-Lei Fan
+
+- name: Ge Wang
+- name: Chuang Niu
+- name: Qing Lyu
+- name: Wenxiang Cong
+- name: Hongming Shan
+- name: Fenglei Fan
+- name: Mengzhou Li
+- name: Christopher Wiedeman
+- name: Weiwen Wu
+- name: Wenjun Xia
+- name: Yongyi Shi
+- name: Huidong Xie
+- name: Yuxuan Liang
+- name: Jianxu Wang
+- name: Md Zabirul Islam
+- name: Md Motaleb Hossen Manik
+- name: Xiaodong Guo
+- name: Tianrui Qi

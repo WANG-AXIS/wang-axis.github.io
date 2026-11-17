@@ -1,0 +1,161 @@
+---
+layout: oc_default
+---
+{%- assign projects = site.open_codes | sort: "date" | reverse -%}
+{%- assign repo = page.code | remove: "https://github.com/" | remove: "http://github.com/" -%}
+{%- comment %} One paper link: the published version when there is one, otherwise the preprint. {% endcomment %}
+{%- assign paper_url = page.paper | default: page.arxiv -%}
+<article class="wrap project">
+  <header class="project__head">
+    <p class="project__venue">{{ page.venue }}{% if page.year %} <span aria-hidden="true">&middot;</span> {{ page.year }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {%- if page.full_title %}
+    <p class="project__full">{{ page.full_title }}</p>
+    {%- endif %}
+    {%- if page.authors %}
+    <p class="project__authors">
+      {%- comment %} Lab authors (see _data/members.yml) are marked and link to their projects; other co-authors are plain text. {% endcomment %}
+      {%- assign has_lab_author = false %}
+      {%- for author in page.authors %}
+      {%- capture matched %}{% include open-codes/member.html author=author %}{% endcapture %}
+      {%- assign matched = matched | strip %}
+      {%- if matched != "" %}
+      {%- assign has_lab_author = true %}
+      <a href="/open-codes/?author={{ matched | url_encode }}" title="Current or former lab member. See all projects by {{ matched | escape }}">{{ author }}<span class="member-mark" aria-hidden="true"></span></a>{% unless forloop.last %},{% endunless %}
+      {%- else %}
+      <span>{{ author }}</span>{% unless forloop.last %},{% endunless %}
+      {%- endif %}
+      {%- endfor %}
+    </p>
+    {%- if has_lab_author %}
+    <p class="project__legend">
+      <span class="member-mark" aria-hidden="true"></span>
+      Current or former lab member. Select a name to see all of their projects.
+    </p>
+    {%- endif %}
+    {%- endif %}
+    <div class="actions">
+      {%- if page.code %}
+      <a class="btn btn--primary" href="{{ page.code }}">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.5 7 3.5 12l5 5M15.5 7l5 5-5 5"/></svg>Code on GitHub
+      </a>
+      {%- endif %}
+      {%- if paper_url %}
+      <a class="btn" href="{{ paper_url }}">Paper</a>
+      {%- endif %}
+    </div>
+  </header>
+
+  <div class="project__grid">
+    <div class="project__main">
+      {%- if page.thumbnail %}
+      <figure class="method">
+        <a href="/open-codes/assets/img/projects/{{ page.thumbnail }}">
+          <img src="/open-codes/assets/img/projects/{{ page.thumbnail }}" alt="Method overview of {{ page.title | escape }}">
+        </a>
+        {%- if page.figure_caption %}
+        <figcaption>{{ page.figure_caption | strip }}</figcaption>
+        {%- endif %}
+      </figure>
+      {%- endif %}
+
+      <section class="prose">
+        <h2>Abstract</h2>
+        {{ content }}
+      </section>
+
+      {%- if page.bibtex %}
+      <section class="cite">
+        <div class="cite__head">
+          <h2>Citation</h2>
+          <button type="button" class="copy" data-copy-target="bibtex">Copy BibTeX</button>
+        </div>
+        <pre id="bibtex"><code>{{ page.bibtex | strip | escape }}</code></pre>
+      </section>
+      {%- endif %}
+    </div>
+
+    <aside class="facts" aria-label="Project facts">
+      <dl>
+        <div>
+          <dt>Code</dt>
+          <dd>
+            {% include open-codes/status.html key=page.code_status %}
+            {%- if page.code_scope %}<span class="facts__note">{{ page.code_scope }}</span>{% endif %}
+          </dd>
+        </div>
+        {%- if page.code %}
+        <div>
+          <dt>Repository</dt>
+          <dd><a class="mono" href="{{ page.code }}">{{ repo }}</a></dd>
+        </div>
+        {%- endif %}
+        {%- if page.license %}
+        <div><dt>License</dt><dd>{{ page.license }}</dd></div>
+        {%- endif %}
+        {%- if page.framework %}
+        <div><dt>Framework</dt><dd>{{ page.framework }}</dd></div>
+        {%- endif %}
+        <div>
+          <dt>Published in</dt>
+          <dd>
+            {%- if paper_url %}<a href="{{ paper_url }}">{{ page.venue }}</a>{% else %}{{ page.venue }}{% endif %}
+            {%- if page.venue_detail %}<span class="facts__note">{{ page.venue_detail }}</span>{% endif %}
+          </dd>
+        </div>
+        <div><dt>Research area</dt><dd>{{ page.area }}</dd></div>
+        {%- if page.links %}
+        <div>
+          <dt>Resources</dt>
+          <dd>
+            <ul class="facts__links">
+              {%- for link in page.links %}
+              <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+              {%- endfor %}
+            </ul>
+          </dd>
+        </div>
+        {%- endif %}
+        {%- if page.tags %}
+        <div>
+          <dt>Topics</dt>
+          <dd>
+            <ul class="tags">
+              {%- for tag in page.tags %}
+              <li>{{ tag }}</li>
+              {%- endfor %}
+            </ul>
+          </dd>
+        </div>
+        {%- endif %}
+      </dl>
+    </aside>
+  </div>
+
+  {%- comment %} Previous / next project, in the same order as the home page. {% endcomment %}
+  {%- for p in projects %}
+    {%- if p.url == page.url %}
+      {%- assign idx = forloop.index0 %}
+    {%- endif %}
+  {%- endfor %}
+  {%- assign prev_idx = idx | minus: 1 %}
+  {%- assign next_idx = idx | plus: 1 %}
+  {%- comment %} Always-visible button: returns to the place on the home page the visitor came from. {% endcomment %}
+  <a class="back-fab" href="/open-codes/" data-back>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>Back to projects
+  </a>
+
+  <nav class="pager" aria-label="More projects">
+    <a class="pager__all" href="/open-codes/">&larr; All projects</a>
+    <span class="pager__links">
+      {%- if prev_idx >= 0 %}
+      {%- assign prev = projects[prev_idx] %}
+      <a href="{{ prev.url | relative_url }}">Previous: {{ prev.title }}</a>
+      {%- endif %}
+      {%- if next_idx < projects.size %}
+      {%- assign next = projects[next_idx] %}
+      <a href="{{ next.url | relative_url }}">Next: {{ next.title }}</a>
+      {%- endif %}
+    </span>
+  </nav>
+</article>

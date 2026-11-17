@@ -1,0 +1,10 @@
+{%- comment -%}
+  Prints the lab author name (from _data/members.yml) that matches include.author,
+  or nothing when the author is not a lab author.
+{%- endcomment -%}
+{%- for member in site.data.open_codes.members -%}
+  {%- if member.name == include.author or member.aliases contains include.author -%}
+    {{- member.name -}}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}

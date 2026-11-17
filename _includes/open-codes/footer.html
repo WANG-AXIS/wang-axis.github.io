@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <p>
+      &copy; {{ site.time | date: "%Y" }} WANG-AXIS Lab, Biomedical Imaging Center,
+      Rensselaer Polytechnic Institute
+    </p>
+    {%- comment %} Contact for corrections: set name and email in _data/open_codes/contact.yml. {% endcomment %}
+    {%- assign contact = site.data.open_codes.contact %}
+    {%- if contact.email and contact.email != "" %}
+    <p class="site-footer__contact">
+      Found an error? Please contact {{ contact.name }} at
+      <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+    </p>
+    {%- endif %}
+  </div>
+</footer>
