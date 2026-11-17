@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.layout == "project" %}{{ page.title | escape }} | Open Codes | WANG-AXIS @ RPI{% else %}Open Codes | WANG-AXIS @ RPI{% endif %}</title>
+  <title>{% if page.collection == "open_codes" %}{{ page.title | escape }} | Open Codes | WANG-AXIS @ RPI{% else %}Open Codes | WANG-AXIS @ RPI{% endif %}</title>
   <meta name="description" content="{% if page.summary %}{{ page.summary | strip | escape }}{% else %}Source code, trained models and data released by the AI-based X-ray Imaging System (AXIS) Lab at Rensselaer Polytechnic Institute.{% endif %}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
