@@ -1,0 +1,24 @@
+# Research areas, in the order they appear in the "Research area" view of the home page.
+# A project is placed in an area when its `area:` field equals a `name:` here.
+# Areas without projects are not shown.
+
+- name: Medical Foundation Models
+  description: Multimodal, multitask models that read medical images and clinical text together.
+
+- name: CT Imaging and Reconstruction
+  description: Reconstruction from sparse, low-dose or few-view data, and spectral and scatter imaging.
+
+- name: Image Denoising
+  description: Noise suppression for low-dose CT, photon-counting CT, mammography and general images.
+
+- name: MRI and Optical Imaging
+  description: Artifact reduction, classification and uncertainty in MRI, and optical and microscopy imaging.
+
+- name: Trustworthy AI
+  description: Adversarial robustness, uncertainty and patient privacy.
+
+- name: Deep Learning Theory and Methods
+  description: Neuron and network design, regularization, interpretability and unsupervised learning.
+
+- name: AI for Education and Society
+  description: Interactive lectures, online exams and machine ethics.

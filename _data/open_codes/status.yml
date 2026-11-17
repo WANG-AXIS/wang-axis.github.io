@@ -1,0 +1,7 @@
+# Allowed values of `code_status:` in a project file, and the label shown for each.
+released:
+  label: Code available
+partial:
+  label: Partial release
+planned:
+  label: Coming soon
