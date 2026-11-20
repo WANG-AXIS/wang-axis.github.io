@@ -3,7 +3,7 @@
 # Areas without projects are not shown.
 
 - name: Medical Foundation Models
-  description: Multimodal, multitask models that read medical images and clinical text together.
+  description: Foundation and large language models for medical images, clinical text and clinical data.
 
 - name: CT Imaging and Reconstruction
   description: Reconstruction from sparse, low-dose or few-view data, and spectral and scatter imaging.
@@ -22,3 +22,6 @@
 
 - name: AI for Education and Society
   description: Interactive lectures, online exams and machine ethics.
+
+- name: Computational Biology
+  description: Sequence-to-function models for studying gene regulation.
